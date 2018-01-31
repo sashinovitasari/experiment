@@ -16,6 +16,6 @@ def train_model_new(text):
 	model = Word2Vec(sentences,min_count=1)
 	return model
 
-txt = loadtxt("raw01_cleaned.txt")
+txt = loadtxt("raw02_cleaned.txt")
 model = train_model_new(txt)
 model.save('model.bin')

@@ -1,0 +1,943 @@
+
+Setting	: di sebuah kamar Cinta
+Deskripsi Suasana	: Alya sedang menceritakan masalahnya kepada keempat temannya tentang ayahnya yang telah memukulinya.
+1.	Cinta	: (1)Ya ampun, Alya.
+2.	Alya	: (1) Ini mending nggak usah dibahas.
+3.	Maura	: (1) Kok nggak usah dibahas sih?
+4.	Cinta	: (1) Loe inget nggak kalau kita pernah nulis album di buku ini. (2)
+Masalah, salah satu diantara kita adalah masalah kita semua.(3)
+Musuh di salah satu diantara kita adalah musuh kita semua.
+5.	Alya	: (1) Tapi, bokap gue berantem sama nyokap, bukan sama gue.
+6.	Cinta	: (1) Tapi, kamu kan dah sering jadi korban kayak gini, Al.
+7.	Alya	: (1) Gimana sih, gue ngejelasin ke elo semua? (2) Terserah deh elo sekarang mau percaya apa nggak. (3) Bokap gue kalau udah ngamuk kayak gitu kayak orang nggak sadar, tau nggak? (4) Abis ngamuk, dia bisa nangis kayak anak kecil. (5) Nyesel abis. (6) Nyiumin kaki nyokap gue, melukin gue.
+8.	Cinta	: (1) Oke, ya udah deh Al. (2) Asal loe tau, persahabatan kita juga nggak main-main. (3) Dan kita juga jadi saksi kok. (4) Loe itu kalau ada masalah di share, jangan disimpan sendiri. (5) Loe telepon ke rumah gue, jam berapa aja gue temenin, gue angkat, ngobrol ama gue. (6) Loe dateng ke rumah sini jam berapa aja, gue bakal bukain pintu Al. Ya Al, ya? (7) Kita sahabat elo, bener nggak?
+9.	Alya	: (1) Ya dah deh jangan bahas ini terus, gomongin yang lain, please, please.
+10.	Cinta	: (1) Oya, udah denger puisi yang mau gue kirim ke lomba?
+11.	Semua	: (1) Mana-mana?
+12.	Cinta	: (1) Gitar, gitar.
+13.	Karmen	: (1) Puisi yang baru?
+14.	Cinta	: (1) Iya, mudah-mudahan semua suka. (2) Soalnya ini tentang kita berlima. (3) Judulnya, Aku Ingin Bersama Selamanya.
+15.	Karmen	: (1) Bagus banget.
+16.	Cinta	: (1) Suka, tapi ya?
+17.	Alya	: (1) Bagus.
+18.	Milly	: (1) Ei, ei udah lama nggak ngedance. Mereka berlima akhirnya berdansa.
+
+Setting	: di lapangan sekolah
+Deskripsi Suasana	: seorang guru membacakan hasil pengumuma pemenang lomba baca puisi
+1.	Guru	: (1) Anak-anak, tujuan lomba menulis puisi yang setiap taun telah kita adakan adalah agar kita tetap sadar bahwa kita memiliki satu kekayaan yang tidak ternilai harganya, yaitu bahasa Indonesia.
+2.	Karmen	: (1) Ta, loe pasti menang deh, yakin.
+3.	Guru	: (1) Dan, dewan juri yang diketuai oleh Taufik Bagaskoro alias saya sendiri.
+4.	Milly	: (1) I love you, Pak Taufik!
+5.	Guru	: (1) I love you too. (Milly celingukan) telah diputuskan bahwa pemenangnya adalah Rangga. Para siswa kecewa karena pemenangnya bukan Cinta, yang sudah sering menjuarai lomba menulis puisi. Sementara itu, Rangga sebagai pemenang tidak kunjung datang.
+
+Setting	: di belakang sekolah
+Deskripsi Suasana	: Pak Wardi, pesuruh sekolah, terburu-buru memberitau Rangga bahwa puisinya menang.
+1.	Pak Wardi	: (1) Ngga, Ngga, kamu dicari Pak Taufik., mau dikasih hadiah, karena puisimu menang, Ngga.
+2.	Rangga	: (1) Saya nggak pernah ikutan lomba.
+3.	Pak Wardi	: (1) Itu lho, puisi yang ditempel di kamar saya. (2) Itu kan daripada nggak ada yang baca, saya kirimin aja ke panitia. (3) Eh, menang Ngga.
+4.	Rangga	: (1) Alah.
+5.	Pak Wardi	: (1) He, bener ini.
+
+Setting	: di mobil
+Deskripsi Suasana	: membicarakan rencana menonton konser.
+1.	Maura	: (1) Eh, ngomong-ngomong kita nanti jadi nonton konser nggak?
+2.	Milly	: (1) Ih, jadilah.
+3.	Karmen	: (1) Jadi dong, anti deh kalo nggak.
+4.	Maura	: (1) Aduh, Maura dah nggak sabar pingin beli baju baru.(2) Siapa tau, Yuki ngelirik gue.
+5.	Karmen	: (1) Gila, please dong Mor. (2) lease dong Maura, bener-bener amburadul ah. (3) Tolong dong Maura.
+
+Setting	: di ruang editing madding.
+Deskripsi Suasana	: membicarakan pemenang lomba puisi.
+1.	Maura	: (1) Cie, kayaknya dalam banget menghayati puisi sebagai pemenang.
+2.	Cinta	: (1) Eh.
+3.	Alya	: (1) Emang puisinya bagus banget ya Ta?
+4.	Cinta	: (1) Mmm, bagus-bagus. (2) Ya, asal nggak plagiat aja.
+5.	Milly	: (1) Emang plagiat apaan sih ta?
+6.	Maura	: (1) Milly, please dong. (2) Plagiat itu, nyontek punya orang.
+7.	Milly	: (1) Mereka nyontek punya orang dong Ta?
+8.	Cinta	: (1) Nggak, nggak, kalo Milly. (2) Gue bilang kalo. (3) Tapi, gue rada tersinggung ama ini orang ni. (4) Masalahnya kalau dia bisa nulis dari dulu, kenapa nggak pernah ngasih tulisan ke mading kita? (5) Berarti dia kan nggak nganggap mading kita eksis.
+9.	Maura	: (1)  Iya, ya.
+10.	Karmen	: (1) Trus, rencanan elo apaan Ta? (2) Kalau anaknya belagu, sini deh gue yang ngadepin.
+11.	Cinta	: (1) Gini-gini deh, pokoknya yang paling penting kita harus cepet-cepet ketemu dia. (2) Trus, kita wawancarai dia.
+
+Setting	: di perpustakaan.
+Deskripsi Suasana	: Cinta hendak mewawancarai pemenang lomba menulis puisi.
+1.	Rangga	: (1) He, berisik tau nggak?
+2.	Siswa I	: (1) Sok jenius, rese’ banget loe.
+3.	Penjaga	: (1) Rangga? Cinta mendatangi Rangga.
+4.	Rangga	: (1) Ada apa?
+5.	Cinta	: (1) Rangga ya? (2) Gue mau ngucapin selamat ya buat elo.
+6.	Rangga	: (1) Selamat kenapa?
+7.	Cinta	: (1) Sebagai pemenang lomba puisi taun ini.
+8.	Rangga	: (1) Saya nggak pernah ikutan lomba puisi, apalagi jadi pemenang. (2) Maaf ya saya lagi baca.
+9.	Cinta	: (1) Gue kan belum selesai ngomong.
+10.	Rangga	: (1) Baru saja gue ngelempar polpen ke muka orang gara-gara dia berisik di ruang ini. (2) Saya nggak mau polpen itu balik ke muka saya gara-gara saya berisik sama kamu.
+11.	Cinta	: (1) Gue pingin ngomong sebentar kok.
+12.	Rangga	: (1) Ya dah, ngomong di luar. Cinta dan Rangga keluar ruangan.
+13.	Cinta	: (1) Ngapain di luar? (2) Di sini aja deh.
+14.	Rangga	: (1) Ya udah deh, cepetan. (2) Mau ngomong apaan?
+15.	Cinta	: (1) Mading mau mewawancara elo.
+16.	Rangga	: (1) Buat apa?
+17.	Cinta	: (1) Kita perlu profil elo sebagai pemenang lomba puisi taun ini.
+18.	Rangga	: (1) Tapi saya kan sudah bilang, saya itu nggak pernah ikutan Lomba puisi.
+19.	Cinta	: (1) Ya, terserah elo deh. (2) Tapi, menurut jurinya elo yang menang.
+20.	Rangga	: (1) Ya kalau gitu wawancara dewan jurinya.
+21.	Cinta	: (1) Ha? (2) Maksud elo?
+22.	Rangga	: (1) Ya, jelas kan kata-kata gue!
+23.	Cinta	: (1) Jadi elo nggak mau di wawancara nih?
+24.	Rangga	: (1) Nggak!
+
+Setting	: di ruang editing madding.
+Deskripsi Suasana	: Cinta menceritakan kekecewaannya kepada teman-temannya. 
+1.	Cinta	: (1) (marah) rese’! (2) Apa dia itu superstar? (3) Sekalian aja gue wawancara Duta Sheila On 7 atau konsernya Dewa kek. (4) Gila, nyebelin banget, tau nggak loe?
+2.	Milly	: (1) Kenapa Ta?
+3.	Cinta	: (1) Tulis Mil, cowok yang namanya Rangga adalah cowok yang sombong banget. (2) Lagak gak karuan. belagu banget. (3) Pokoknya cowok yang musti dijauhin. (4) Tulis di buku curhat.
+4.	Milly	: (1) Oh, di buku curhat ya Ta?
+5.	Karmen	: (1) Loe dipegang-pegang sama dia?
+6.	Alya	: (1) Ta, ta, tarik nafas dulu Ta. (2) Biar bisa ngomong yang bener.
+7.	Cinta	: Sebel banget gue. (2)Orangnya tu sok bintang, tau nggak loe
+8.	Milly	: (1) Kita lagi ngomongin siapa sih?
+9.	Cinta	: (1) Dengerin ya, kalau gue bilang dia tu dah mati rasa. (2) Sok cuek, tau nggak loe. (3) Udah kayak sastrawan besar, gitu. (4) Belagu banget, gue yakin banget tu anak nggak ada temennya. (5) Pasti nggak gaul sama sekali.
+10.	Alya	: (1) Emang dia bilang apa sih?
+11.	Cinta	: (1) Dia bilang, nggak mau diwawancara. (2) Masak bukan dia pemenangnya. (3) Gue disuruh wawancara dewan juri. (4) Kurang ajar nggak sih?
+12.	Karmen	: (1) Mana sih anaknya, gue timpal deh sekarang.
+13.	Cinta	: (1) Nggak, nggak usah gitu juga sih Men. (2) Soalnya dia entar ngerasa penting lagi.
+14.	Milly	: (1) Oh, gue tau, gue tau. (2) Kita lagi ngomongin pemenang lomba puisi itu kan. (3) Siapa namanya?
+15.	Alya	: (1) Rangga. (2) Jadi bener ni Ta, nggak ada wawancara pemenang?
+16.	Memet	: (1) (masuk ruangan) Memet mau ngumpulin.
+17.	Karmen	: (1) Apa sih Met?
+18.	Memet	: (1) Cinta, sudah dengerin nggak lagu buat Cinta waktu itu dari Memet?
+19.	Cinta	: (1) Ya udah, makasih ya.
+20.	Memet	: (1) Ya, ini mau ngumpulin cerpen buat madding.
+21.	Karmen	: (1) Ya udah. (2) Trus, kamu keluar dulu ya. (3) Kita lagi rapat penting.
+22.	Memet	: (1) Tapi entar tolong itu dimuat ya?
+23.	Karmen	: (1) Ya,ya.
+24.	Memet	: (1) Ya, bener ya? (2) Cinta baca ya?
+25.	Karmen	: (1) Trus, gimana, kita samperin tu anak rame-rame? (pintu terbuka). (2) Loe itu bolak-balik kayak….
+26.	Borne	: (1) (masuk ruangan) Ada apa sih, sori kalao gue ganggu. (2) Gue cuma mau nanya, entar sore jadi pergi Ta?
+27.	Cinta	: (1) Mmm, ya udah nanti ditelepon dulu, sorean.
+
+Setting	: di kamar.
+Deskripsi Suasana	:Alya sedang mencurahkan hatinya kepada Cinta.
+1.	Cinta	: (1) Halo?
+2.	Alya	: (1) Ta, masih bete nggak Ta?
+3.	Cinta	: (1) Ya, gitu deh. (2) Gak tau, orang itu nyebelin banget, tau nggak sih. (3) Baru tau gue ada orang kayak dia ya. Dari mukanya aja gak ngenakin. (4) Loe tau nggak, bukunya aja dah sok antik. (5) Gue rasa itu uma biar kelihatan lebih intelek aja, tau nggak.
+4.	Alya	: (1) Iya, iya gue denger. (2) Nggak, gue nggak pa-pa. Kayaknya elo yang lagi bermasalah ya? (3) Bukannya elo ada janji sama Borne? (4) Ya udah deh, ntar kelamaan ngobrol sama gue loe lupa siap-siap lagi ya, bye.
+
+Setting	: di rumah Cinta.
+Deskripsi Suasana	: Cinta hendak pergi.
+1.	Cinta	: (1) Mas, nanti kalo misal ibu nanyain, bilangin aku ke mal bentar yah?
+2.	Kakak Cinta : (1) Oke.
+3.	Cinta	: (1) Dah!
+4.	Borne	: (1) Hai Cinta. (2) Eh, kita langsung nonton aja ya? (3) Soalnya filmnya mainnya bentar lagi nih. (4) Jadi, nanti abis film kita masih banyak waktu buat nongkrong. (5) Kenapa sih?
+5.	Cinta	: (1) Kalau nggak nonton nggak pa-pa kan?
+6.	Borne	: (1) Tapi loe mau pergi kan?
+7.	Cinta	: (1) Yam au. (2) Cuman, nggak mau nonton. (3) Nggak pa-pa kan?
+
+
+Setting	: di mal.
+Deskripsi Suasana	: Cinta menhindar dari Borne, agar ia bisa mencari buku seperti milik Rangga.
+1.	Cinta	: (1) Loe mau ke bagian otomotif?
+2.	Borne	: (1) Emang kenapa?
+3.	Cinta	: (1) Nggak, gue cuma mau nyari buku buat bahan mading besok. (2) Ntar loe bete lagi. Ntar ya? Mbak, Mbak, Aku-nya Kusumanjaya ada nggak, Mbak?
+4.	Penjaga Toko: (1) Aku-nya Kusumanjaya? (2) Mmm, buku lama ya?
+5.	Cinta	: (1) Ya.
+6.	Penjaga Toko: (1) Nggak ada.
+
+
+Setting	: di ruang mading.
+Deskripsi Suasana	: Rangga mencari Cinta.
+1.	Rangga	: (1) Bisa ngomong sebentar? (2) Nggak bisa?
+2.	Cinta	: (1) Masalahnya apa dulu nih? (2) Kita ngobrol di luar aja. (3) Ada apa?
+3.	Rangga	: (1) Maksudnya apa nih?
+4.	Cinta	: (1) Surat gue dibaca juga? (2) Kirain mau baca-bacaan penting aja, karya sastra.
+5.	Rangga	: (1) Kamu ini kenapa sih? (2) Tersinggung, gara-gara saya nggak mau diwawancara? (3) Ya udah, wawancara sekarang. (4) Nggak usah manja.
+6.	Cinta	: (1) Enak aja loe ngatain gue manja. (2) Elo mau diwawancara sekarang? (3) Basi! (4) Madingnya udah mau siap terbit (Rangga pergi). (5) Liat tu cowok, plin-plan banget tu, kenapa tu?
+7.	Alya	: (1) Tapi Ta, loe harus tetep wawancara dia kan?
+8.	Cinta	: (1) Gue males banget, tau nggak? (2) Ya udah, gampang tinggal cari data-data doang di tata usaha atau wali kelasnya. (3) Udah gak apa-pa. (4) Kita kerjain sekarang deh.
+
+
+Setting	: di sekolahan
+Deskripsi Suasana	: Rangga kehilangan buku Aku-nya kusumanjaya.
+1.	Krebo	: Men, loe nyari apaan loe men?
+2.	Rangga	: Nyari buku, judulnya Aku. Lihat nggak?
+3.	Krebo	: Gue sih ngertinya komik.
+
+
+Setting	: di kantin.
+Deskripsi Suasana	: membicarakan keterlembatan Cinta.
+1.	Maura	: Loe telat amat sih hari ini?
+2.	Cinta	: Hai girl?
+3.	Maura	: (1) Kagak mau on time. (2) Kenapa sih akhir-akhir ini telat melulu?
+4.	Karmen	: Tau loe. Predikat bangun siang siang kan punya gue, Ta?
+5.	Maura	: Jangan berebut gitu dong. Ketawa sih elo, Ta. Apaan?
+6.	Cinta	: Marah ya, predikatnya diambil? Nggak tau gue akhir-akhir ini. Gue rada-rada nggak bisa tidur gitu, tau nggak sih loe. Oke, kalau gue rasa kamar perlu di dekor deh, ya? Lagian kemarin gue kan baca karya Chairil Anwar, dia bilang begini, tau nggak aku susah tidur, orang. Orang gonggong, anjing gonggong, dunia jauh mengabur. Pas banget kan? Pas banget kan? Pas banget sama nasib gue. Sama banget tau nggak loe. Itu keren banget kalo bisa bikin kata-kata gitu. Serius gue!
+7.	Milly	: Serius, gue juga serius.
+8.	Karmen	: Eh Ta, loe makan deh bakso tuh enak banget, elo tau nggak?
+9.	Cinta	: Iya, gue laper nih, sebentar.
+10.	Maura	: Baksonya enak loe Ta.
+11.	Alya	: Gue juga Ta, sekalian pesenin.
+12.	Milly	: Maksudnya apa sih anjing menggonggong, apa segala macam itu?
+
+
+Setting	: di kelas.
+Deskripsi Suasana	: Rangga menemukan buku yang dicari.
+1.	Rangga	: Apaan nih?
+2.	Krebo	: Tau!
+3.	Rangga	: Wah, ketemu nih.
+4.	Krebo	: Nemu buku kayak ketemu cewek cakep aja loe.
+
+
+Setting	: di sekolah.
+Deskripsi Suasana	: Rangga mengucapkan terima kasih kepada Cinta
+1.	Rangga	: (1) Cinta.
+2.	Cinta	: (1) Manggil? (2) Kenapa? (1) Mau ngajak berantem lagi?
+3.	Rangga	: (1) Ah, nggak. (2) Saya mau ngucapin terima kasih sama kamu. (3) Sempet kebingungan juga nyariknya. (4)  Buku langka soalnya.
+4.	Cinta	: (1) Lalu?
+5.	Rangga	: (1) Lalu, kok senyum?
+6.	Cinta	: (1) Lalu apa?
+7.	Rangga	: (1) Ya udah, gitu aja. (2) Makasih ya.
+8.	Cinta	: (1) Hei, kamu itu kalo lagi kebingungan tu lebih nyenengin ya? (2) Kamu bingung aja terus.
+9.	Rangga	: (1) Kamu?
+10.	Cinta	: (1) Ha?
+11.	Rangga	: (1) Ya kamu. (2) Biasanya ngomongnya loe-gue?
+12.	Cinta	: (1) Males terus. (2)  Ngomong-ngomong, dulu belinya dimana?
+13.	Rangga	: (1) Buku ini? (2) Di toko loak. (3) Kalo cari di toko buku besar, nggak ada.
+14.	Cinta	: (1) O, kalo saya dulu ya ke penerbitnya, jadi ya….
+15.	Rangga	: (1) Kamu punya juga?
+16.	Cinta	: (1) Hmm, ya punyalah.
+17.	Rangga	: (1) Suka nggak?
+18.	Cinta	: (1) Hmm, suka banget. (2) Apa lagi pas di endingnya pas Chairil Anwar ngerasa berjalan di atas pasir.
+19.	Rangga	: (1) Ya, yang dia ngerasa ada sosok dirinya di sebelahnya.
+20.	Cinta	: (1) Ya, ya, ya trus dia ngomong sendiri.
+21.	Cinta dan Rangga : Bukan maksudku tuk berbagi nasib, nasib adalah kesendirian masing-masing.
+22.	Cinta	: (1) Sayang, Kusumanjayanya keburu meninggal.
+23.	Rangga	: (1) Eh, kalau kau suka puisi-puisinya Chairil Anwar yang lainnya ada. (2) Tuh di toko buku langganan saya.
+24.	Cinta	: (1) Ohya? (2) Dimana?
+25.	Rangga	: (1) Di Kwitang.
+26.	Cinta	: (1) O, Kwitang. (2) Udah lagi pingin ke sana. (3) Cuma, belum sempat aja.
+27.	Rangga	: (1) Sore ini saya mau ke sana. (2) Jangan salah sangka dulu. (3) Saya nggak ngajak kamu kok. (4) Kalau mau ikut ya silakan, kalau nggak juga nggak pa-pa.
+28.	Cinta	: (1) Iya nggak sih. (2) Saya juga nggak ngira kamu bakal ngajak nge-date.
+29.	Rangga	: Iya, saya juga mastiin aja nggak salah sangka.
+30.	Cinta	: Mmm, entar sore ya. Lihat entar deh.
+
+
+Setting	: di toko buku Kwitang.
+Deskripsi Suasana	: Rangga dan Cinta bersama ke toko buku loak di Kwitang.
+1.	Limbong	: Eh Rangga, lagi mimpi apa gue?
+2.	Rangga	: Kenapa emangnya Bong?
+3.	Limbong	: Aneh kali, bawa cewek?
+4.	Rangga	: Alah. Cinta, kenalkan ini Limbong. Konglomerat buku bekas di sini.
+5.	Cinta	: Cinta.
+6.	Limbong	: Limbong.
+7.	Rangga	: Lihat-lihat aja dulu, Ta.
+8.	Limbong	: Silakan.
+9.	Rangga	: Sastra ada di sebelah sana.
+10.	Limbong	: Gimana kau? Sudah dapat bukunya? Udah nggak ada.
+11.	Rangga	: Udah. Itu dia yang nemuin.
+12.	Limbong	: He he he. Macam Rhoma taun 70-an aja kau ini. Berawal dari buku berlanjut ke malam Minggu. Ohya Ngga, ah ini yang kau
+cari. Apa ini? Nyok?
+13.	Rangga	: New York?
+14.	Limbong	: Ya, New York. Kamu pingin pergi ke sana?
+
+
+Setting	: di lapangan sekolah.
+Deskripsi Suasana	: Keempat teman Cinta mencemaskan Cinta yang belum datang.
+1.	Maura	: Duh, Cinta kemana sih?
+2.	Milly	: Tau nih, Pas Bandnya aja mau mulai.
+3.	Memet	: Hai semua?
+4.	Karmen	: Kok justru Nobita sih yang dateng.
+5.	Memet	: Gue bawa bungkus CD buat baca contekan.
+6.	Maura	: Loe mau nyanyi juga?
+7.	Memet	: Ya jelas dong. Eh ya, si anu mana? Si Cinta?
+
+
+Setting	: di toko buku.
+Deskripsi Suasana	: pertengkaran Rangga dan Cinta.
+1.	Cinta	: Ya ampun.
+2.	Rangga	: Kenapa Ta?
+3.	Cinta	: Aduh, gue lupa janji sama anak-anak nonton konsernya Pas hari
+ini.
+4.	Rangga	: Nggak ada kamu, Pas tetep manggung kan?
+5.	Cinta	: Jangan gitu dong, tapi aku kan sudah janji ama temen-temen
+sejak kapan tau.
+6.	Rangga	: (1) Kamu ini pingin nonton, karena kamu pingin nonton apa
+nggak enak sama temen-temen kamu?
+7.	Cinta	: Ya, dua-duanya. Saya pulang duluan aja ya?
+8.	Rangga	: Kayak nggak punya pendirian aja.
+9.	Cinta	: Ha, apa kamu bilang?
+10.	Rangga	: Iya, nonton harus sama-sama, pulang sekolah sama-sama,
+Berangkat juga sama-sama. Apa namanya kalo bukan
+mengorbankan kepentingan pribadi kepentingan yang kurang
+prinsipil?
+11.	Cinta	: Rangga, ini sangat prinsipil!
+12.	Rangga	: Ohya?
+13.	Cinta	: Heh, apa juga gue ngomong sama loe.  Elo punya temen aja
+nggak.
+14.	Rangga	: Paling tidak, saya tidak bergantung sama siapa-siapa. Ya udah
+deh, mendingan kamu susul teman-teman kamu. Bisa pulang
+sendiri?
+15.	Cinta	: Apa tu maksudnya?
+16.	Rangga	: Ya, perempuan kayak kamu gak pantes aja jalan di tempat kayak
+gini sendirian.
+17.	Cinta	: Perempuan kayak gue? Perempuan kayak gimana tu maksud
+loe? Rugi gue buang-buang waktu sama loe.
+18.	Limbong	: Ha ha ha. Rangga, bodoh sekali kamu Rangga. Jangan kamu pikir
+Cewek yang marah itu bener-bener marah. Nggak, itu Cuma
+taktik buat memancing inisiatif kamu. Ayo, kejar. Ayo. Kamu
+perhatikan ya, kalau dia sampaiu nengok kemari, berarti dia
+beraharap kau mengejarnya. Perhatikan ini (dalam hitungan ke
+lima, Cinta menoleh ke arah Rangga). Ayo kejar, cepet. Ayo
+kamu  jangan, ayo. Bagaimana sih? Ini hanya tipu, tipu. Ayolah,
+lari.
+
+
+Setting	: di halaman sekolah.
+Deskripsi Suasana	: Cinta datang ketika konser Pas sudah dimulai.
+1.	Cinta	: Hai?
+2.	Maura	: Kapan loe datang Ta?
+3.	Cinta	: Kan, tadi sama-sama?
+4.	Maura	: Ah, bercanda loe.
+5.	Cinta	: Nggak, tadi terlambat. Ya, tadi terlambat.
+
+
+Setting	: di rumah Cinta.
+Deskripsi Suasana	: Alya ke rumah Cinta, menceritakan masalahnya.
+1.	Alya	: Ta, gue tidur di sini ya?
+2.	Cinta	: Kenapa Al?
+3.	Alya	: Biasalah, kabur sama nggak dapat jatah.
+4.	Cinta	: (1) Loe gak bisa, nganggep biasa gitu dong, Al. (2) Loe harus
+ngomong sama nyokap loe.
+5.	Alya	: (1) Percuma, Ta. (2) Gue dah sering banget ngomongin ini sama
+nyokap gue, kalau kita tu bisa hidup tanpa bokap gue. (3) Tapi,
+yang udah-udah malah gue yang dimarahin. (4) Nyokap gue
+bilang, gue nggak pengertian. (5) Nyokap gue bilang, gue egois.
+(6) Gue nggak ngerti, Ta. (7) Kan nyokap gue masih cinta sama
+bokap gue yang jelas-jelas tiap hari mukulin nyokap gue, mukulin
+gue. (8) Semua berantakan, hancur.
+6.	Cinta	: Kenapa loe nggak bilang am ague dari tadi? Elo kalo ada apa-apa
+ngomong sama gue.
+7.	Alya	: Selama ini loe dah terlalu banyak mbantu gue Ta. Gue nggak mau
+ngebebani elo.
+8.	Cinta	: Tapi, elo tu nggak ngebebani gue apapun.
+9.	Alya	: Elo nggak ada acara?
+10.	Cinta	: Nggak, kenapa?
+11.	Alya	: Borne nggak dateng?
+12.	Cinta	: (1) Gila apa loe. (2) Kalo misal Borne dibiarin dateng ke sini,
+malem-malem Minggu gini? (3) Dah merasa pacar beneran nanti
+dia (Cinta menyanyi).
+13.	Alya	: Ta, loe bikin lagu dari puisinya Rangga ya?
+14.	Cinta	:  (1) Ih , gue tu nggak ngerti deh ama dia tu. (2) Kesel banget, tau
+nggak loe. (3) Gue ama dia. Baru aja deket, bawaan gue dah
+nyolot.
+15.	Alya	: Lagi bareng dia maksud loe?
+16.	Cinta	: Loe dah nuduh gua jadi ama dia?
+17.	Alya	: Tu, kok loe jadi ngira gue yang nuduh?
+18.	Cinta	: Ya, apa?
+19.	Alya	: Jadi, loe tadi pergi sama Rangga?
+20.	Cinta	: Cuma bentar, itu juga Cuma nyari bahan-bahan buat madding.
+Pasti cuma sekali itu aja. Itu juga karena terpaksa banget.
+21.	Alya	: Tak apa Ta, tapi loe pergi sama Rangga kan?
+22.	Cinta	: (1) Mmm, tapi bukan ngedate. (2) Jangan bilang si Maura dan si
+Karmen, si Milly, please.
+23.	Alya	: Cinta, sama gue pakek rahasia-rahasia segala. Kayak gue ini siapa
+aja. Jadi, loe ngapin aja?
+24.	Cinta	: Ngapaian aja lagi. Ya, kesimpulannya gue lebih perlu orang kaya
+Maura, Karmen, kaya Milly, kayak Alya untuk jadi sahabat gue di
+dunia ini daripada orang nyebelin kayak Rangga gitu. Soalnya,
+terus terang aja, elo berempat tu udah bener-bener baik sama gue.
+Loe berempat tu sahabat gue sejati, tau nggak? Percaya deh, Al.
+Kalau ada apa-apa cerita ya ke gue.
+25.	Alya	: Ya.
+
+
+Setting	: di lapangan basket.
+Deskripsi Suasana	: Rangga menjelaskan kejadian di toko buku kepada Cinta.
+1.	Rangga	: Bisa bicara sebentar?
+2.	Cinta	: Kita ngomong di sana.
+3.	Rangga	: Saya mau minta maaf sama kamu yang di Kwitang kemarin.
+4.	Cinta	: Maaf apaan?
+5.	Rangga	: Saya ngerasa agak keterlaluan.
+6.	Cinta	: Bagian mana yang keterlaluan?
+7.	Rangga	: Yang jelas, saya sudah bikin kamu marah. Makanya, saya minta
+maaf ke kamu.
+8.	Cinta	: Ya udah dimaafin.
+9.	Rangga	: Temen-temen kamu pasti nggak suka ya saya di sini?
+10.	Cinta	: Kok loe njelek-njelekin temen-temen gue lagi sih?
+11.	Rangga	: Kau sendiri malukan, ngobrol sama saya di sini?
+12.	Cinta	: Kok jadi gitu sih?
+13.	Rangga	: Ya, kalau kamu nggak malu, kenapa kamu nggak berani lihat
+mata saya? Ngeliatin ke kanan, ke kiri. Risih ya?
+14.	Cinta	: Pikiran loe, jelek amat sih?
+15.	Rangga	: Saya Cuma pingin baca pikiran anak-anak gaul kayak kamu,
+bukan teman-teman kamu.
+16.	Cinta	: Udah bisa baca pikiran anak-anak gaul? Terus, sekarang loe
+sudah berani vonis kita nggak punya kepribadian, nggak
+prinsipil? Nah, sekarang kalo elo ngerasa aneh di tempat-tempat
+ramai kayak gini, tu salah siapa? Sekarang gue Tanya, salah gue?
+Terus, kalao elo sekarang nggak punya temen sama sekali kayak
+sekarang tu, salah siapa? Salah gue? Salah temen-temen gue,
+salah gue, gue Tanya? Loe cuma pingin nyakitin gue,
+tau nggak loe. Loe itu nggak mau minta maaf. Loe itu Cuma
+pingin nyakitin gue, njelek-njelekin gue ama temen-temen gue.
+Loe gue bilang ya. Loe itu bener-bener sakit jiwa.
+
+
+Setting	: di belakang sekolah.
+Deskripsi Suasana	: Borne mengeroyok Rangga.
+1.	Borne	: Ada urusan apa loe sama Cinta?
+2.	Rangga	: Oh, urusan pribadi.
+3.	Borne	: Iya, gue tau. Tapia pa?
+4.	Teman Borne: Loe nggak usah nanya deh. Loe jawab aja.
+5.	Rangga	: Jadi, kamu yang boleh nanya?
+6.	Teman Borne: He, loe tau? Borne ini pacarnya Cinta. Loe jangan macem-	macem ama Borne. Kalau loe macem-macem ama Borne, loe harus ngadepin gue, dan dia, dan dia. Ngerti?
+
+
+Setting	: di lapangan basket.
+Deskripsi Suasana	: Perasaan Cinta yang sedang cemas.
+1.	Maura	: Borne kemana sih Ta?
+2.	Cinta	: Hah?
+3.	Maura	: Borne kemana?
+4.	Cinta	: Nggak tau.
+
+
+Setting	: di belakang sekolah.
+Deskripsi Suasana	: Borne menghajar Rangga.
+1.	Borne	: Gini aja kesepakatannya. Kalo elo kalah lawan gue, loe janji loe
+gak bakal ngeganggu Cinta lagi.
+2.	Rangga	: Saya yakin nggak ada yang ngerasa keganggu, kecuali kamu dan
+bodyguard ini.
+
+Setting	: di sebuah mobil.
+Deskripsi Suasana	: Gosip tentang keluarga Rangga.
+1.	Milly	: Lama nih.
+2.	Maura	: Lama sekali. Elodah dengar cerita tentang Rangga?
+3.	Cinta	: Apaan?
+4.	Maura	: Katanya sih, papanya bermasalah gitu.
+5.	Cinta	: Masalah apa sih maksud loe?
+Moura hanya mengangkat kedua bahunya.
+
+
+Setting	: di kamar Cinta.
+Deskripsi Suasana	: Cinta memastikan cerita tentang keluarga Rangga ke Borne.
+1.	Borne	: Gue sendiri nggak tau persisnya tujuan kegiatan dia itu apa.
+Tapi, asal loe tau aja, keluarga Rangga itu berbahaya.
+2.	Cinta	: Ohya?
+
+
+Setting	: di lorong kelas.
+Deskripsi Suasana	: mereka berlima sedang bercanda, sementara Cinta masih penasaran dengan sosok Rangga.
+1.	Milly	: Kamu entar, kalau misalnya mandi, trus ada macan, kamu buka
+celana kamu. Kamu nungging, ngomong macan-macan.
+2.	Cinta	: Eh, gue bentar. Gue harus ambil naskah di atas bentar ya.
+3.	Karmen	: Ngapain sih Cinta?
+Cinta menuju kelas Rangga.
+4.	Krebo	: Oh, si Rangga. Gak ada yang tau. Dah dua hari nggak masuk.
+5.	Cinta	: Kemana?
+6.	Krebo	: Pulang kampong kali, ke Mars. Kumpul keluarga besarnya.
+Keluarga alien. Ha ha ha.
+7.	Cinta	: Ya udah deh.
+
+Setting	: Di tangga.
+Deskripsi Suasana	: Cinta mencari tau keadaan Rangga kepada Pak Wardiman.
+1.	Cinta	: Pak Wardiman! Lho, Pak Wardiman kok cuek sih sama saya.
+2.	Pak Wardiman: Lho, masak saya suruh manggil-manggil neng Cinta kayak
+cowok kelas tiga aja?
+3.	Cinta	: Hmm, Pak. Pak, tau Rangga kemana nggak?
+4.	Pak Wardiman: Hah?
+
+
+Setting	: di rumah Rangga.
+Deskripsi Suasana	: Cinta berkunjung ke rumah Rangga untuk mencari tau tentang berita yang dia dengar dari Borne.
+1.	Cinta	: Rangga.
+2.	Bapak Rangga	: Siapa Ngga?
+3.	Rangga	: Temen sekolah.
+4.	Bapak Rangga	: O, silakan.
+5.	Rangga	: Duduk Ta, kok bisa sampai di sini?
+6.	Cinta	: (1) Iya, kata Pak Wardiman, kamu sakit parah digebukin orang.
+(2) Gimana sih ceritanya?
+7.	Rangga	: (1) Dikerjain kamu sama Pak Wardiman. (2) Dia itu memang
+suka gitu, bikin sensasi. (3) Kayak yang lomba puisi kemarin, kan
+dia yang ngirimin puisi saya ke panitia.
+8.	Cinta	: Trus, itu kenapa jadi begitu bentuknya?
+9.	Rangga	: Oh ini? Kemarin, waktu turun di bus Bulak Rante, trus ada
+tawuran. Trus, dikeroyokin kayak gini.
+10.	Cinta	: Hmm.
+11.	Rangga	: Kok belum dijawab sih?
+12.	Cinta	: Hmm?
+13.	Rangga	: Kok bisa sampai sini? Kenapa? Merasa kehilangan saya ya?
+Kangen, berantem sama saya?
+14.	Cinta	: Hmm? Serius ya, kalo elo mikirnya kayak gitu, mending saya
+pulang aja.
+15.	Rangga	: Jangan, jangan. Bercanda (Ayah Rangga datang)
+16.	Bapak Rangga	: Saya Yos Rizal.
+17.	Cinta	: Cinta Om.
+18.	Bapak Rangga	: Cinta? Wow, nama yang bagus.
+19.	Cinta	: Makasih Om.
+20.	Bapak Rangga	: Ayo diminum.
+21.	Cinta	: Kok, Om yang bikin sih On?
+22.	Bapak Rangga	: Memangnya siapa yang bikin? Cinta mau bikin buat kami
+berdua? Heh monyet, katanya kamu mau masak. Jadi
+nggak?
+
+
+Setting	: di lapangan basket.
+Deskripsi Suasana	: Keempat temannya mengkhawatirkan perubahan sikap Cinta.
+1.	Karmen	: (1) Mil, bener? (2) Tadi dah nelpon ke rumah Cinta?
+2.	Milly	: (1) Bener kok.
+3.	Karmen	: (1) Jadi, bener, dia nggak ada di rumah?
+4.	Milly	: (1) Nggak.
+
+
+Setting	: di dapur.
+Deskripsi Suasana	: Cinta menemani Rangga memasak, sambil mencari keterangan tentang diri Rangga dan keluarganya.
+1.	Cinta	: (1) Waw!
+2.	Rangga	: (1) Kamu pasti nggak bisa masak.
+3.	Cinta	: (1) Bisa!
+4.	Rangga	: (1) Masak apa? (2) Masak air?
+5.	Cinta	: (1) Masak mie instant. (2) Nggak ada yang bisa saya Bantu ya?
+6.	Rangga	: (1) Apa ya, ini deh dipotong.
+7.	Cinta	: (1) Ini? (2) Ah motong-motong doang sih bisa. (3) Ehm,
+emangnya lagi nggak ada pembantu?
+8.	Rangga	: (1) Ada sih, cuma lagi pulang kampung. (2) Ada saudaranya yang
+melahirkan apa.
+9.	Cinta	: (1) Trus, kalo ibu kemana?
+10.	Rangga	: (1) Ehm, ini potongnya agak miring sedikit bisa nggak?
+Sementara itu, di lapangan basket, keempat temannya sedang membicarakan perubahan sikan Cinta.
+11.	Maura	: (1) Eh, loe tau nggak sih, si Cinta kenapa sih?
+12.	Alya	: (1) Lagi bingung soal Borne kali?
+13.	Milly	: (1) Iya, loe sih maksa-maksa dia terus biar cepet-cepet jadian ama
+Borne.
+14.	Maura	: (1) Alah, kok jadi gue yang salah sih?
+Sedangkan Cinta masih di Dapur dengan Rangga.
+15.	Cinta	: (1) Aduh, deh.
+16.	Rangga	: (1) Kenapa sih?
+17.	Cinta	: (1) Pedes, aduh deh.
+18.	Rangga	: (1) Coba.
+19.	Cinta	: (1) aduh, aduh. (2) Pedes banget lho, sumpah.
+Akhirnya mereka menyelesaikan memasaknya.
+20.	Rangga	: (1) Kamu suka musik kayak gini?
+21.	Cinta	: (1) Asyik juga.
+22.	Bapak Rangga	: (1) Siap-siap, Cinta, siap-siap.
+23.	Cinta	: (1) Siap-siap kenapa Om?
+24.	Bapak Rangga	: (1) Untuk makan. (2) Cuma, masakannya tidak seasick
+musiknya Cinta.
+25.	Cinta	: (1) Tapi, baunya udah enak gini kok Om.
+26.	Bapak Rangga	: (1) Masakannya emang Cuma dua macem. (2)
+Maklumlah, makan di rumah pensiunan yang tidak pernah
+menerima uang pensiun.
+27.	Cinta	: (1) Maksud Om?
+28.	Rangga	: (1) Dia orang bandel sih.
+29.	Bapak Rangga	: (1) Hus, monyet!
+30.	Cinta	: (1) Siapa yang bandel emangnya?
+31.	Rangga	: (1) Siapa lagi.
+32.	Cinta	: (1) Bandel gimana?
+33.	Rangga	: (1) Taun ‘96 bikin tesis tentang kebusukan orang-orang di
+pemerintahan. (2) Ya, sama saja cari mati. (3) Ya mending, kalo
+cuma di pecat. (4) Dituduh komunislah, terlihat gerakan maker
+lah.
+34.	Cinta	: (1) Lho, tapi bukannya sekarang udah reformasi Om, jadi udah
+nggak masalah lagi kan?
+35.	Bapak Rangga: (1) Apanya yang reformasi, Cinta?
+Seseorang melempar dua bom ke rumah Rangga.
+Rangga	: (1) Kamu nggak pa-pa? (Rangga menejar pelempar bom, tetapi
+gagal) Pengecut!
+
+
+Setting	: di depan perpustakaan.
+Deskripsi Suasana	: Rangga mengajak Cinta ke Kafe.
+1.	Cinta	: (1) Rangga, kemarin dah ketemu siapa yang ngelempar bom?
+2.	Rangga	: (1) Ah, mending juga nggak ketauan, daripada ketauan
+dihukum aja nggak.
+3.	Cinta	: (1) Hmm.
+4.	Rangga	: (1) Kamu nggak masuk?
+5.	Cinta	: (1) Mau ngembaliin ini.
+6.	Rangga	: (1) Udah, itu nggak usah dibalikin. (2) Buat kamu kok.
+7.	Cinta	: Serius?
+8.	Rangga	: Ya, kalau kamu suka.
+9.	Cinta	: Suka banget.
+10.	Rangga	: Kemarin, saya belum cerita ya sama kamu. Mereka tu, setiap
+malem Minggu, manggung di Blues Kafe.
+11.	Cinta	: Ohya?
+12.	Rangga	: (1) Mau nonton bareng? (2) Nanti malem saya mau ke sana.
+13.	Cinta	: Mmm?
+14.	Rangga	: Kok mikirnya lama?
+15.	Cinta	: Mmm, nanti sorean di telepon lagi deh.
+16.	Rangga	: Ok, saya tunggu ya?
+17.	Cinta	: Ya udah deh.
+
+
+Setting	: di kamar Cinta.
+Deskripsi Suasana	: Cinta sedang mencari cara untuk membatalkan janji dengan teman-temannya. Cinta ingin pergi bersama Rangga.
+1.	Cinta	:  (1) Ra. Cinta nih, Ra. (2) Kayaknya gue nggak bisa ikutan deh,
+Ra. (3) Tau nih, abis tiba-tiba kepala jadi pusing banget nih. (4)
+Ya, kasih tau gue mau ke dokter deh. (5) Ya abis gimana dong?
+(6) Namanya juga sakit, mau diapain lagi? (7) Nggak pa-pa ya?
+(8) Bilangin sama anak-anak. (9) Sori banget ya. (10) Have fun
+ya. Dah. (Cinta menutup teleponnya, dan kembali menelpon ke
+rumah Rangga). (11) Rangga?
+
+
+Setting	: di rumah Cinta
+Deskripsi Suasana	: Cinta bingung antara pergi dengan Rangga atau menemai Alya yang sedang dalam masalah.
+1.	Cinta	: (1) I’m coming!
+2.	Ayah Cinta: (1) Jangan malem-malem
+3.	Cinta	: (1) Oke bos!
+4.	Ibu Cinta	: (1) Cinta, dari Alya.
+5.	Cinta	: (1) Bentar bu, ya.
+6.	Ibu Cinta	: (1) Bentar ya Alya.
+7.	Cinta	: (1) Pak, tunggu sebentar ya Pak (taksi Cinta menunggu di luar).
+(2) Halo, Al nggak ikut sama yang lain? Halo?
+8.	Alya	: (1) Gue ke rumah loe, sekarang ya?
+9.	Cinta	: (1) Kenapa Al?
+10.	Alya	: (1) Ngobrol sebentar aja ya. (2) Boleh nggak?
+11.	Cinta	: (1) Ha? Hmm, ya gimana ya Al ya? (2) Gue lagi mau berangkat
+nih. (3) Mau pergi. (4) Ke dokter, ke dokter. (5) Hallo? Al?
+12.	Alya	: (1) Ta, gue perlu banget ngomong sama loe.
+13.	Cinta	: (1) Aduh, gimana ya Al ya? (2) Nih, gue pas banget ni mau pergi
+ni. (3) Pas banget ni. (4) Ni, di depan taksi baru, nungguin lama
+tu. (5) Ya udah, gini deh. (6) Abis ini gue ke rumah loe deh ya?
+(7) Abis tu gue, kalau nggak sekalian aja tidur di rumah loe. (8)
+Ya, Al ya? Alya?
+14.	Alya	: (1) Oke Ta.
+15.	Cinta	: (1) Ya dah. Ya Al ya, gue pergi dulu ya?
+
+
+Setting	: di kafe.
+Deskripsi Suasana	: Cinta menyanyikan sebuah lagu bersama penyanyi kafe.
+1.	Cinta	: (1) Siapa sih, gitarisnya?
+2.	Rangga	: (1) Namanya Rama. (2) Rama!
+3.	Cinta	: (1) Kok dipanggil sih?
+4.	Rangga	: (1) Dia suadara saya. (2) Kenalin nih, Cinta.
+5.	Rama	: (1) Halo, Rama.
+6.	Cinta	: (1) Cinta.
+7.	Rama	: (1) Jadi, ini yang namanya Cinta nih?
+8.	Cinta	: (1) Kamu udah cerita apa saja tentang saya?
+9.	Rama	: (1) Ada sih. (2) Dia bilang ada cewek yang nyebelin gitu katanya.
+Nonton, gitar tadi?
+10.	Cinta	: (1) Tapi saya suka banget lho ama demo lagunya.
+11.	Rama	: (1) Makasih, makasih. (2) Ok, tapi kalau dia yang bikin pasti
+lebih bagus lagi.
+12.	Rangga	: (1) Saya bilang sama dia kalau kamu bisa nggitar.
+13.	Cinta	: (1) Ngacau. (2) Bo’ong, bo’ong.
+14.	Rama	: (1) Ntar, ntar. (2) Malem, tadi seharusnya sih saya break, tadi
+cuma berhubung ada temen. (3)  Temen special dari saudara saya,
+Rangga, namanya Cinta. (4) Dia baru sekali ke sini. (5) Ni baru
+sekali ke sini. (6) Trus, dia pingin nyanyi satu lagu. (7) Ya, tu. Tu,
+anaknya tuh. (8) Tepuk tangan dong buat Cinta.
+15.	Cinta	: (di panggung) (1) Sebenarnya sih, nggak bisa nyanyi. (2) Nggak,
+tapi saya cuma suka aja. (3) Jadi gini deh, kalau sekarang saya
+disuruh nyanyi. (4) Saya nggak tau mau nyanyi apa. (5) Jadi,
+mmm, yang lain aja ya. (6) Entar ya?
+
+
+Setting	: di jalan.
+Deskripsi Suasana	: Rangga menceritakan tentang keluarganya.
+1.	Cinta	: (1) Tapi, tai kamu marah nggak, puisimu digituin tadi?
+2.	Rangga	: (1) Ya nggak lah. (2) Orang jadinya bagus banget kok. (3) Suara
+kamu bagus juga ya.
+3.	Cinta	: (1) Oya? (2) Makasih. (3) Eh, taksi, taksi. (4) Kok nggak ada
+yang mau berhenti sih?
+4.	Rangga	: (1) Kita nyebrang aja yuk?
+5.	Cinta	: (1) Duh, nggak dapet-dapet nih taksinya. (2) Udah ah, kita
+pulangnya jalan kaki aja deh.
+6.	Rangga	: (1) Kamu nggak kejauhan?
+7.	Cinta	: (1) Ya, lumayan sih. (2) Eh, ada tukang kacang. (3) Beli kacang
+yuk? Dah lama tu nggak makan kacang rebus. (4) Pak ada nggak
+pak? (5) Kacang rebus.
+8.	Rangga	: (1) Cinta, ada taksi. (2) Pak Sriwijaya Golf ya?
+9.	Seorang ibu : (1) Nak, taksinya untuk ibu bisa nggak nak ya? (2) Ibu
+kemaleman. (3) Bisa ya?
+10.	Rangga	: (1) Ohya Bu.
+11.	Ibu		: (1) Makasih nak.
+12.	Cinta	: (1) Ha ha ha.
+13.	Rangga	: (1) Nggak pa-pa nih jalan?
+14.	Cinta	: (1) Ya.
+15.	Rangga	: (1) Kamu kan nggak biasa jalan. (2) Besok, kalo kakinya
+bengkak, saya yang disalahin.
+16.	Cinta	: (1) Eh, udah deh. (2) Nggak ngeledek kenapa sih?
+17.	Rangga	: (1) Ya, tapi emang bener kan? (2) Di rumah, semuanya pasti
+dikerjain pembantu.
+18.	Cinta	: Enggak juga. Kalau ada pembantu, kenapa nggak dikasihkan
+kerjaan.
+19.	Rangga	: Ya, kalau bisa dikerjain sendiri, kenapa harus dikerjain
+pembantu?
+20.	Cinta	: Ya, kalau misalnya ada pembantu, kenapa harus dikerjain sendiri.
+Hayo?
+21.	Rangga	: Ehm, Cinta. Aku pingin ngomong sesuatu nih.
+22.	Cinta	: Apaan. (Rangga menggoyangkan pohon yang baru saja hujan).
+Gimana sih?
+23.	Rangga	: Aduh!
+24.	Cinta	: (1) Jahat banget sih kamu, kesel tau nggak? (2) Ayah kamu itu
+orangnya asik ya, dia mau bikinin minuman buat tamu.
+25.	Rangga	: Udah biasa.
+26.	Cinta	: Ngga, boleh nanya nggak?
+27.	Rangga	: Boleh.
+28.	Cinta	: Tapi jangan marah.
+29.	Rangga	: Mau nanya soal ibu saya?
+30.	Cinta	: He-e.
+31.	Rangga	: Ibu dan kaka-kaka saya sudah lama ninggalin ayah.
+32.	Cinta	: Boleh tau kenapa?
+33.	Rangga	: (1) Ya, nggak tahan kali tinggal sama oaring yang kontroversial
+seperti ayah. (2) Mungkin juga nggak tahan diomongin orang-
+orang. (3) Atau mungkin juga, kamu tau nggak, ada berapa
+orang yang pernah saya ngajak ngomong tentang keluarga. (4)
+Ada dua. (5) Mau tau? (6) Pak Wardiman, dan yang kedua
+kamu. Jujur, saya malu ngomongin itu ke semua orang. (7) Orang
+akan mikir saya anak dari ibu yang nggak bertanggung jawab.
+34.	Cinta	: Hus, kamu nggak usah cerita lagi deh. Saya musti juga nggak
+usah nanya. Maafin saya ya?
+35.	Rangga	: Dah malem, Ta. Saya pulang dulu. Sebaiknya kamu masuk. Dah
+malem.
+36.	Cinta	: Bye.
+
+
+Setting	: di rumah.
+Deskripsi Suasana	: Cinta terkejut melihat kedua orang tuanya yang hendak ke rumah sakit.
+1.	Cinta	: Loh, Bu, Pak. Mau kemana?
+2.	Ibu		: Sayang, kita harus ke rumah sakit. Alya….
+3.	Cinta	: Alya kenapa Alya?
+4.	Ibu		: Tadi, Maura telepon berkali-kali. Katanya Alya masuk rumah
+sakit.
+5.	Cinta	: Kenapa?
+6.	Ibu		: Dia mencoba bunuh diri.
+
+
+Setting	: di rumah sakit.
+Deskripsi Suasana	: teman-teman Cinta kecewa kepadanya.
+1.	Maura	: Kemana aja sih lo,Ta?
+2.	Cinta	: Sori Mor.
+3.	Maura	: Gue nggak butuh permintaan maaf loe. Katanya lo eke dokter.
+Trus, nyokap loe bilang, lo eke klub. Gimana sih yang paling
+bener sih? Sekarang loe bukan Cuma jago bikin puisi ya, tapi
+juga jago acting.
+4.	Cinta	: Gue pingin ketemu ama Alya.
+5.	Maura	: Nggak bisa. Dia lagi nggak stabil. Loe nggak usah ganggu dia
+dulu deh. Mendingan, loe doa banyak-banyak semoga dia panjang
+umur. Semoga loe masih sempet minta maaf sama dia.
+
+
+Setting	: di kamar Cinta.
+Deskripsi Suasana	: Cinta tidak lagi mau menemui Rangga.
+1.	Ibu Cinta	: Cinta?
+2.	Cinta	: (1) Ya Bu.
+3.	Ibu Cinta	: (1) Telepon dari Rangga. (2) Sayang, ada telepon dari Rangga.(3)
+Mau terima?
+4.	Cinta	: (1) Bilangin aku lagi nggak ada Bu.
+5.	Ibu Cinta	: (1) Cinta, ibu ngerti, kamu sedang stress soal Alya. (2) Tapi,
+jangan jadi gini dong, sayang. (3) Ya?
+6.	Cinta	: (1) Aduh Bu, please deh. (2) Aku tu bener-bener lagi nggak mau
+ngomong sama dia. (3) Please, dong.
+
+
+Setting	: di ruang Mading.
+Deskripsi Suasana	: Cinta mengurungkan niatnya untuk masuk ke ruang madding, karena ia merasa pertengkaran antara ketiga sahabatnya dan terbaringnya Alya di rumah sakit adalah karena dirinya.
+1.	Maura	: Uh! Kacau semua. Uh!
+2.	Karmen	: Loe tu kebanyakan ngomel, tau nggak. Gimana nggak kacau?
+3.	Maura	: Udah deh, elo nggak usah banyak ngomong deh.
+4.	Karmen	: Loe nggak usah marah-marah gitu kenapa sih?
+5.	Maura	: Eh, Men. Jangan mentang-mentang loe jago olahraga bisa basket,
+sok peman segala macem, gue jadi takut sama loe?
+6.	Karmen	: He, mendingan gue tau? Daripada loe kerjaannya nongol terus di
+kaca, tau nggak? Asal loe tau….
+7.	Maura	: Tau loe!
+8.	Milly	: (1) Diem loe berdua! (2) Giliran gue ngomong sekarang. (3) Gue
+tau, gue paling tulalit. (4) Loe semua nganggep gue badut,
+terserah! (5) Tapi gue tau, itu nggak bener. (6) Diantara kita tu
+nggak boleh ada yang berantem. (7) Lihat nih, emang kita pernah
+mempermasalahkan siapa yang lebih jago diantara yang lain,
+nggak kan? (8) Karena apa, Karena kita tu temenan!
+9.	Karmen	: Mil, nggak ada yang nganggep loe nggak bisa apa-apa kok, Mil.
+10.	Maura	: Mil, loe tu paling lucu diantara kita. Dan elo yang paling kita
+sayang, karena loe nggak pernah marah Mil. Kita tu lagi bingung,
+karena Cinta lagi ngaco, gitu aja Mil.
+11.	Karmen	: Tenang Mil.
+Mereka bertiga berpelukan. Cinta mengurungkan niat untuk masuk ke ruang madding.
+
+
+Setting	: di lorong kelas.
+Deskripsi Suasana	: pertengkaran Cinta dan Rangga.
+1.	Rangga	: Cinta! Kamu nggak pa-pa? kenapa sih?
+2.	Cinta	: Rangga, kayaknya kita nggak usah ketemu-ketemu lagi.
+3.	Rangga	: Maksud kamu?
+4.	Cinta	: Pokoknya berhenti deketin saya lagi!
+5.	Rangga	: Ndeketin kamu? Kayaknya ada yang gak jelas deh.
+6.	Cinta	: Sejak gue ketemu loe, gue berubah jadi orang yang beda. Orang
+yang nggak bener.
+7.	Rangga	: Inget ya Ta, salah satu diantara kita, itu siapa yang lebih punya
+hati atau nggak punya otak? Tapi kamu nggak punya kedua-
+duanya deh. Asal kamu tau Ta, kalau diperlakukan kayak gini
+sih, saya sudah biasa. Tapi satu, nggak usah ada maaf-maafan
+lagi. Saya setuju kita nggak usah berhubungan lagi.
+
+
+Setting	: di rumah sakit.
+Deskripsi Suasana	: Cinta meminta maaf kepada Alya dan teman-temannya.
+1.	Cinta	: Maafin gue ya Al ya? Gue tu seharusnya nggak usah pergi. Gue
+dah bilang lagi, gue harus selalu ada buat elo semua. Tapi,
+sekarang gue bohong, gue pengkhianat sama temen-temen elo
+semua. Mereka semua jadi berantem nggak karuan dan yang
+paling parah elo Al, elo jadi kayak gini.
+2.	Alya	: Nggak, Ta. Elo nggak salah apa-apa. Cuma gue aja yang
+bertindak bodoh.
+3.	Cinta	: Tapi, seenggak-enggaknya, gue kan?
+4.	Alya	: Udah lah Ta. Kalo ngomongin soal hikmah, tindakan bodoh gue
+ini mulanya dari nyokap gue.
+5.	Cinta	: Ha? Maksud loe?
+6.	Alya	: Nyokap gue dah mutusin, untuk ninggalin bokap Ta.
+7.	Cinta	: (1) Ya ampun Al, sumpah gue nggak tau. (2) Gue musti seneng,
+apa sedih buat elo sekarang. (3) Terus terang gue lega.
+8.	Alya	: Ngomong-ngomong malam itu loe pergi kemana Ta?
+9.	Cinta	: Ya, loe pasti bisa nebak lah.
+10.	Alya	: Pergi sama Rangga ya?
+11.	Maura	: Ya ampun Cinta. Ha, apa gue nggak salah dengar nih? Loe pergi
+sama Rangga? Loe, bukannya loe sebel sama dia?
+12.	Karmen	: Elo kena pelet?
+13.	Cinta	: Iya, kena pelet sih enggak. Cuma mungkin ya beda kali dari
+semua cowok yang gue kenal. Itu unik.
+14.	Milly	: Iya sih. Emang gue rasa unik. Sekali lihat emang ngeselin banget,
+tapi berkali-kali lihat, kelihatan cakep banget.
+15.	Maura	: Ya udah sana, mendingan loe pergi, cari aja dia sana!
+16.	Cinta	: (1) Enggak, enggak. (2) Tapi, sekarang gue sudah sadar Maura,
+Men, gue dah sadar. (3) Gue sekarang mau minta maaf, elo semua
+mau nggak maafin gue? (4) Gue juga tau, elo semua punya hak
+untuk tidak nganggep gue lagi sebagai temen loe. (5) Tapi loe
+semua harus tau bahwa sampai kapanpun loe semua bakal gue
+anggep sebagai temen sejati gue.
+17.	Milly	: Cinta, Cinta. Kita semua marah kayak gini bukan karena, karena
+kita semua sayang banget sama loe Ta. Kita semua sayang banget
+sama loe.
+18.	Maura	: (1) Ta, pokoknya apapun yang dilakuin sama Rangga dan bikin
+loe kayak gini lupain aja Ta, karena kita di sini untuk ngebantu
+loe, bukan nyalahin loe.
+19.	Karmen	: Ya Ta.
+
+
+Setting	: di kantin.
+Deskripsi Suasana	: Keempat sahabat Cinta masih merasakan perubahan dan keresahan pada diri Cinta.
+1.	Karmen	: Ta, Ta, Ta. Ya Allah Cinta.
+2.	Alya	: Udah deh Ta, kali ini luapin yang namanya gengsi.
+3.	Karmen	: Sekarang elo harus jujur sejujur-jujurnya sama kita semua.
+
+
+Setting	: di lapangan basket.
+Deskripsi Suasana	: Cinta mengakui perasaannya kepada Rangga.
+1.	Milly	: Loe semua lagi ngomongin apaan sih?
+2.	Alya	: Gini deh Ta, lo jujur sama kita semua ya. Loe tolong jawab
+pertanyaan ini sesimpel mungkin. Ta, bener loe nggak punya
+perasaan apa-apa sama Rangga? Cinta, bener Rangga nggak
+pernah sekalipun terlintas dalam pikiran loe?
+Cinta menangis.
+3.	Maura	: Ya ampun Ta.
+4.	Milly	: Ta, Ta. Kok nangis sih Ta? Jangan nangis dong Ta.
+5.	Maura	: Loe jatuh cinta sama Rangga?
+6.	Cinta	: Gue jatuh cinta ama Rangga. Gue juga bingung gak bisa
+ngelupain dia.
+7.	Maura	: Udah sayang, udah.
+8.	Cinta	: Gue takut loe semua bakal ninggalin gue kalau gue sama dia.
+9.	Karmen	: Keterlaluan banget sih lo Ta. Emang loe pikir kita temen yang
+kayak gimana sih? Sekarang gini, kita paling ati-ati kalau soal
+cowok. Tapi, kan bukan berarti ngatur pacaran sama siapa.
+Buktinya tu taun lalu Maura, dia suka sama yang namanya Deni,
+Play Boy banget gitu. Inget kan loe waktu dia kena batunya. Apa
+kita musuhin Maura? Enggak kan Ta?
+10.	Alya	: Udah-udah, Karmen.
+11.	Karmen	: Aduh, sori Ta. Barusan gue kelepasan.
+12.	Maura	: Udah sayang, sekarang gini aja. Loe cepetan bilang perasaan loe
+ke Rangga, sebelum loe nyesel ya?
+13.	Cinta	: tapi, tapi nggak bisa.  Dia benci banget am ague. Gue dah
+nyakitin dia.
+14.	Alya	: Justru itu Ta. Elo jelasin sama dia, kalau waktu itu loe lagi emosi.
+Dan kalau Rangga bener-bener sama loe, gue yakin dia pasti bisa
+ngerti. Percaya deh.
+15.	Karmen	: (1) Kalo menurut feeling gue, loe nemuin Rangga harus
+secepatnya, Ta. (2) Pokoknya waktu itu gue pernah lihat Pak
+Wardiman sama Rangga tu lagi pelukan. (3) Kayak mau pisahan
+gitu loh.
+
+
+Setting	: di kantin.
+Deskripsi Suasana	: Cinta dan teman-temannya mencari informasi tentang Rangga kepada Pak Wardiman.
+1.	Cinta dan Teman-teman	: Pak Wardiman, Rangga Mana Pak?
+2.	Pak Wardiman : Lho, nggak pamit sama kalian?
+3.	Cinta	: Pamit kemana?
+4.	Pak Wardiman: Lha wong dia itu pindah sekolah ke luar negeri. Ke Amerika
+ke Nyuw?
+5.	Cinta dan Teman-teman	: New York?
+6.	Cinta	 : Berangkat kapan?
+
+
+Setting	: di parkiran sekolah.
+Deskripsi Suasana	: Cinta dan teman-temannya mengejar pesawat yang sebentar lagi berangkat, tetapi mobil mereka terjebak di parkiran.
+1.	Cinta	: (1) Aduh, gimana dong Mil?
+2.	Milly	: (1) Mepet banget Ta.
+3.	Cinta	: (1) Ya udah deh, gimana?
+4.	Memet	: (1) Eh, mau pada buru-buru kemana?
+5.	Maura dan Karmen	: (1) Anterin, Met!
+6.	Memet	: (1) Ya, ya gue anterin. (2) Kemana?
+7.	Karmen	: (1) Cepetan Met!
+
+
+Setting	: di bandara.
+Deskripsi Suasana	: Rangga ragu tentang sikapnya yang pergi tanpa pamit kepada Cinta.
+1.	Bapak Rangga	: Yakin, kamu nggak mau nelpon Cinta?
+2.	Rangga	: Nggak.
+3.	Bapak Rangga	: (1) Sekedar say goodbye?
+4.	Rangga	: Dia dah say goodbye duluan.
+5.	Bapak Rangga	: Uh payah. Gitu aja nyerah.
+
+
+Setting	: di mobil.
+Deskripsi Suasana	: Cinta dan teman-temannya mengejar pesawat yang hendak berangkat.
+1.	Maura	: Mil, aduh gimana dong Mil. Kita buru-buru kan?
+2.	Memet	: Jangan, jangan Mil. Jangn Mil.
+3.	Cinta	: Ayo Mil, cepetan Mil.
+4.	Memet	: Ampun, ampun Mil. Ini mobil bokap gue.
+5.	Milly	: Diam aja Met.
+6.	Maura	: Memet, jangan ganggu konsentrasi Milly. Tau nggak?
+7.	Memet	: Duh, duh. Kok gini sih? Kok gini sih?
+
+
+Setting	: di bandara
+Deskripsi Suasana	: Cinta dan teman-temannya berurusan dengan satpam bandara.
+1.	Bapak Rangga	: Tadi nyambung nggak sama Cinta?
+2.	Rangga	: Ibunya yang ngangkat. Ibunya nggak ada.
+Sementara itu Cinta dan teman-temannya dihadang satpam
+3.	Satpam	: Dik, dik, tunggu dik.
+4.	Karmen	: Ini penting banget Pak. Ntar deh Pak, kita buru-buru.
+5.	Milly	: Ini Pak.
+6.	Satpam	: Lho, lho. KTP dan SIM ini asli atau palus?
+7.	Milly	: Lha ini mobil siapa Pak? Kan mobil saya.
+8.	Memet	: Mobil gue.
+9.	Maura	: Itu Rangga, Ta.
+10.	Cinta	: Rangga!
+11.	Cinta dan teman-teman	: Rangga!
+Rangga tak mendengar teriakan Cinta dan teman-temannya.
+12.	Satpam II	: Lho, ini mau pada kemana dik?
+13.	Karmen	: Pak, kita semua mau perlu banget ketemu sama calon penumpang
+yang di sana, Pak.
+14.	Milly	: Iya, itu Pak.
+15.	Satpam II	: Iya, tapi nggak boleh masuk. Ini khusus untuk paa penumpang.
+16.	Karmen	: Duh Pak, ini penting banget Pak.
+17.	Satpam II	: Penting sekali untuk apa?
+18.	Alya	: Pak, boleh bicara sebentar?
+19.	Satpam II	: Ya? (Alya membujuk Satpam II) Silakan, Mbaknya ini aja.
+20.	Cinta dan teman-teman	: makasih, Pak.
+21.	Cinta	: (berlari) Rangga!
+22.	Rangga	: Cinta?
+23.	Cinta	: Rangga, waktu terakhir aku ketemu sama kamu. Saya nggak
+marah sama kamu. Saya marah sama diri saya sendiri. Rangga,
+maafin saya. Saya nggak mau kamu ninggalin saya.
+24.	Rangga	: Maksud kamu?
+25.	Cinta	: Saya sayang banget sama kamu.
+26.	Rangga	: Saya juga sayang banget sama kamu, Ta. Sayang sekali.
+27.	Cinta	: Kamu nggak jadi pergi kan?
+28.	Rangga	: Saya harus pergi, Ta.
+29.	Cinta	: Semua ini nggak fair. Ini nggak fair.
+30.	Bapak Rangga	: Rangga! (menunjuk jam tangan)
+31.	Rangga	: Sebentar, Yah. Baca halaman terakhir.
+Cinta akhirnya menmukan jawaban hatinya tersebut dalam bukunya.
+32.	Maura	: Kenapa Balik Mil?
+33.	Milly	: Memet ketinggalan di bandara.
+
+SELESAI
