@@ -1,0 +1,41 @@
+N_0001	semoga bapak tetap konsisten melakukan hal ini
+N_0002	urus jakarta saja pak, belum benar itu malah tambah riuh
+- N_0003	cari tahu dulu sebelum ngasih komentar
+- N_0004	baru tamat sekolah/bisa-bisa kepalanya botak semua/ dan banyak yang stres
+N_0005	kalau menurut aku sih malah makin malas belajar
+N_0006	pertanyaanya, apakah semua itu kesalahan pegawai pajak?
+N_0007	setuju sekali, usir orang-orang yang bayar pajak!
+N_0008	Prestasi baik ini adalah hasil kerja keras, ketekunan, ketelitian, dedikasi, dan kesetiaan Anda semua
+- N_0009	lanjutkan, semua demi bangsa dan negara, bukan untuk kepentingan segelintir orang 
+N_0010 	Nelayan lebih punya harga diri dari pada pejabat
+N_0011	wanita ini shock ada anjing perutnya besar tapi mau dibunuh
+N_0012	generasi yang akan datang akan lepas dari lingkaran setan kemiskinan
+N_0013	ada seorang pelacur yang mau dirajam, tapi ada orang yang bilang: siapa dia diantara kalian yang merasa tidak mempunyai dosa, silahkan rajam terlebih dulu
+N_0014	wajar kalau anjing selalu membela tuannya
+N_0015	inilah hasil dari kebijakan reformasi yang menurut aku bukan tambah baik, malah tambah runyam
+N_0016	kami tidak melayani jasa di luar jam / dan hari yang sudah ditentukan.
+N_0017	yang menentukan layak atau tidak itu tidak bisa satu pihak saja
+N_0018	Indonesia, dari kita, oleh kita dan untuk kita 	
+N_0019	maju terus ibu menteri nya, dan sukses terus nelayan nya
+N_0020 	ada kelelawar di pohon
+
+P_0001	KD	goblok, pelaku kok bisa sampai dikasihani
+P_0002	KD	dasar bego, orang politik kalau disuruh mikir ginian pasti jadinya bobrok
+P_0003	KD	tolol memang, sudah tahu dipanggil kpk malah datang wawancara
+P_0004	FI	heh ngentot. otak ga ada, tapi mau hidup enak. pergi mati sana
+P_0005	FI	pulang anjing, beraninya buat onar saja, punya kontol dasar
+P_0006	BE	mati aja, tai memang
+P_0007	BE	alasan tai, dimana-mana orang kerja yang berhak atas hasil kerja kerasnya
+P_0008	BE	muka kayak tai, banyak omong
+P_0009	HE	jijik, sudah ga ada bagus-bagusnya, negatif semua <hehe> anjing
+P_0010	HE	orang ini sih orang bangsat, mulutnya bangsat, hidupnya bangsat
+P_0011	HE	kampret, anggota dpr ganti logo demi ke luar negeri
+P_0012	MH	manusia sampah, setan, iblis, anjing
+P_0013	MH	dasar setan, mereka mau memeras rakyat saja
+P_0014	MH	pernyataan iblis sudah dijiadikan sebagai dasar penangkapan ini 
+P_0015	AK	diancuk, kok bagus?
+P_0016	AK	rakyat tahu mana anjing, mana kucing, mana wanita jalang, dan mana perawan
+P_0017	AK	onta cabul didengar, tolol
+P_0018	PR	cuma orang goblok yang mau dengar omong kosong bajingan
+P_0019	PR 	<haha> keluarga pelacur
+P_0020	PR	dari omongan mulutnya saya sudah dapat menilai kalau orang ini memang bajingan

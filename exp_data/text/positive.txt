@@ -1,0 +1,185 @@
+P_0001	KD	goblok_1 , pelaku kok bisa sampai dikasihani
+P_0002	KD	dasar bego_1 , orang politik kalau disuruh mikir ginian pasti jadinya bobrok
+P_0003	KD	tolol_1 memang , sudah tahu dipanggil kpk malah datang wawancara
+P_0004	FI	<heh> ngentot_1 , otak ga ada , tapi mau hidup enak , pergi mati sana
+P_0005	FI	pulang anjing_1 , beraninya buat onar saja , punya kontol_1 dasar
+P_0006	BE	mati aja , tai_1 memang
+P_0007	BE	alasan tai_1 , dimana-mana orang kerja yang berhak atas hasil kerja kerasnya
+P_0008	BE	muka kayak tai_1 , banyak omong
+P_0009	HE	jijik , sudah ga ada bagus-bagusnya , negatif semua <hehe> anjing_1
+P_0010	HE	orang ini sih orang bangsat_1 , mulutnya bangsat_1 , hidupnya bangsat_1
+P_0011	HE	kampret_1 , anggota dpr ganti logo demi ke luar negeri
+P_0012	MH	manusia sampah , setan_1 , iblis_1 , anjing_1
+P_0013	MH	dasar setan_1 , mereka mau memeras rakyat saja
+P_0014	MH	pernyataan iblis_1 sudah dijadikan sebagai dasar penangkapan ini 
+P_0015	AK	diancuk_1 , kok bagus ?
+P_0016	AK	rakyat tahu mana anjing_1 , mana kucing , mana wanita jalang_1 , dan mana perawan
+P_0017	AK	onta cabul didengar , tolol_1
+P_0018	PR	cuma orang goblok_1 yang mau saya dengar omong kosong bajingan_1
+P_0019	PR 	<haha> keluarga pelacur_1
+P_0020	PR	dari omongan mulutnya  sudah dapat menilai kalau orang ini memang bajingan_1
+P_0021	KD	<eh> bego_1 , emang itu wajar?
+P_0022	KD	yang geblek_1 yang nyusun kurikulum apa mendiknasnya ?
+P_0023	KD	mahasiswa kok brutal , tolol_1 amat jadi mahasiswa
+P_0024	FI	pepek_1 anjing_1 ada ?
+P_0025	FI	SOK GANTENG , KONTOL_1 ! SOK SERU ! NGAPAIN RAMBUT DI UNGUIN KAYA UBI UNGU
+P_0026	FI	orang itu kayak kontol_1 , drama mulu kayak korea
+P_0027	BE	daripada apartemen dodol_1 , mending beli meikarta , lebih murah
+P_0028	BE	keren ! tidak seperti napi bangke_1 itu , yang bisanya cuma ngusir rakyat sama korupsi
+P_0029	HE	kampret_1 , ketipu . katanya dapat rumah tapak taunya rumah susun
+P_0030	HE	nah , sudah dibuktikan kalau mereka pasukan babi_1 yang suka nyinyir
+P_0031	HE	ini nih muka pantat_1 monyet_1 , enek banget lihat muka dia !
+P_0032	MH	setan pasti kaget lihat orang lebih setan_1
+P_0033	MH	siapa yang milih setan_1 macam ini ? ya tuhan, semoga dia diberi kesadaran
+P_0034	MH	ormas setan_1 mah ga usah dianggap
+P_0035	AK	<ah> asu_1 lu semua , yg komen ngentot_1
+P_0036	AK	ngentot_1 , lagu apaan nih
+P_0037	AK	jancuk_1 , ngga mendidik
+P_0038	PR	cewek-nya kayak lonte_1 murah itu
+P_0039	PR 	ini yg cewek model-nya kayak jablay_1
+P_0040	PR	TATOAN KEK KURAP , MALU <OI>. BANGGA LU JADI ANJING_1 , BAJINGAN_1?
+P_0041	KD	kumpulan manusia berengsek_1 , punya pikiran ga dibenerin
+P_0042	KD	memang ada gitu , keparat_1 yang bersih dari korupsi ?
+P_0043	KD	Banyak Gaya , Merusak Negara , sana mati_1 aja !
+P_0044	FI	kaya pernah solat aja lu , kontol_1 . omongan lu sok suci , memek_1
+P_0045	FI	ganjen , sukanya pepek_1
+P_0046	FI	Tolonglah rapper macam apa ini, ga nyambung peler_1
+P_0047	BE	Lu emang ga ngejar rating, tapi lu ngejar viewer ! sama aja , dodol_1
+P_0048	BE	yang komentar kayak tai_1 semua , jancuk_1 anying_1
+P_0049	HE	Gue mau balik , kampret_1
+P_0050	HE	<hahaha> lucu deh kaya bayi bagong_1
+P_0051	HE	TAI_1 , gara-gara haters jadi disensor , BANGSAT_1
+P_0052	MH	ini video tak punya iman , lagunya para setan_1
+P_0053	MH	Mirip malaikat ? kayaknya lu mirip setan_1
+P_0054	MH	ngomonya dijaga lu iblis_1 kabur dari neraka !
+P_0055	AK	lagu ga jelas , ngajarin anak ga benar , ngentot_1
+P_0056	AK	anjir_1 , muka lu muka cabul_1 gitu lu bilang mirip malaikat
+P_0057	AK	<wah> , udah kayak paling jagoan aja , diancuk_1
+P_0058	PR	gembel_1 , backsound ngikutin punya gue
+P_0059	PR 	banci_1 banget sih gini aja ga bisa
+P_0060	PR	yang nge-like video ini anak alay kayak perek_1
+
+
+
+
+
+
+P_0061	KD	
+
+P_0042	KD	memang ada gitu , keparat_1 yang bersih dari korupsi ?
+P_0043	KD	Banyak Gaya , Merusak Negara , sana mati_1 aja !
+P_0044	FI	kaya pernah solat aja lu , kontol_1 . omongan lu sok suci , memek_1
+P_0045	FI	ganjen , sukanya pepek_1
+P_0046	FI	Tolonglah rapper macam apa ini, ga nyambung peler_1
+P_0047	BE	Lu emang ga ngejar rating, tapi lu ngejar viewer ! sama aja , dodol_1
+P_0048	BE	yang komentar kayak tai_1 semua , jancuk_1 anying_1
+P_0049	HE	Gue mau balik , kampret_1
+P_0050	HE	<hahaha> lucu deh kaya bayi bagong_1
+P_0051	HE	TAI_1 , gara-gara haters jadi disensor , BANGSAT_1
+P_0052	MH	ini video tak punya iman , lagunya para setan_1
+P_0053	MH	Mirip malaikat ? kayaknya lu mirip setan_1
+P_0054	MH	ngomonya dijaga lu iblis_1 kabur dari neraka !
+P_0055	AK	lagu ga jelas , ngajarin anak ga benar , ngentot_1
+P_0056	AK	anjir_1 , muka lu muka cabul_1 gitu lu bilang mirip malaikat
+P_0057	AK	<wah> , udah kayak paling jagoan aja , diancuk_1
+P_0058	PR	gembel_1 , backsound ngikutin punya gue
+P_0059	PR 	banci_1 banget sih gini aja ga bisa
+P_0060	PR	yang nge-like video ini anak alay kayak perek_1
+
+
+P_0061	ga usah ngatur-ngatur ngentot_1
+P_0062      ini anjing macet banget
+P_0062      fuck nyet lagi dipecut gw
+P_0063      nyet laper bet gw
+P_0063      anjing nyet susah banget
+<woi> ngentod lah, lu bales bentar ilang lagi
+<yah> anjing gue sidang januari
+anjing, lu udah dapet duit ngentot
+
+kita pernah main bareng anjing
+<wah> anjing, gue yang mati ini
+<haha> kita nafsu banget anjing
+bisa diem anjing di tempat
+gue mau di belakang-belakang aja, ga mau maju anjing
+<heh> lu liat darah gw anjing
+tod, kenapa gue yang di ngentod
+mundur, mundur, mundur, mundur cuk
+gue udah mati empat ngentod, anjing
+aduh gue udah mati empat kali anjing
+lah anjing ngelag, kesel, tai emang
+anjinglah
+mundur, anjing
+Gue serius kampret!
+senen latian g lw ? pulsa mendadak ilang , kupret
+tai, diem gue udah dikasih tau
+itu tugas kita anjing
+tai kamu
+Kutu kupret didengar, yang bisa mecat gue cuma SBY
+Kutu kupret ngomong kutu kupret..hehehe sesama kutu kupret dilarang mendahului
+
+aduh tai lah gimana gue
+anjing salah
+anjing mahal, kesel
+anjing, youtube harus bayar, tai
+Iblis yg disucikan pendukung nya
+FUCK YOU CEWE IBLIS LU TUH TOLOL, CUMAN GUE BOHONGIN DOANG! 
+gila sakit banget <woy> anjing
+<ah> kabur pula dia, bangke bangke
+jago ya? tai
+tai sama kalian semua
+bilang, lu yang cupu ngentot
+dasar nafsu bangsat
+beban kamu, anjing
+anjing atas ga bisa
+bego fokusnya parah banget sih
+anjing, kesel, mati lu
+IBLIS itu PEMFITNAH...jadi ya mmg org itu IBLIS...smg cpt tercyduk
+Gila udh 4 bulan lebih album ngga ada kabar
+ANJENG NYESEL GUE BELI ALBUM DI SITU!!! FAK NYEMPLUNG AJA LU KE SUMUR
+mampus lo nyia2in cewe kaya gue anjing
+walah anjing pantesan kaga klop
+
+lama lama kesel juga gue anjing
+
+hilang ngantuk aku. dasar monyet.
+
+Kata monyet sandiaga uno , macet berkurang 80%
+ih nunggu gua jing
+<woh> jangan dikejar goblok
+anjing udah ngejar orang, mati pula
+bego, udah gue ga mungkin menang
+<haha> tai
+lu orang ga usah lapor-lapor gua anjing
+Admin nya nyinyir terus kampret ga ada pemberitaan yg bikin rame ya wkkwkw belegug
+Si kampret kok ujung2nya ngatain sih :)
+
+LAH KAMPRET. Tapi iya sih.....
+
+Ini kampret sekali sih drama lift
+eh kampret bener kalo ngetik
+
+
+Kok lo kampret ye jadi adek
+
+eh iya kampret bener juga
+
+kampret, kalo itu mah gue kenal....
+ASU BANGSAT ANJING , GW LAPORIN POLISI MAMPUS LO BANGSAT KEPARAT!!!!
+
+kurang kerjaan bget yg bikin surat teror...
+maklum kyaknya yg nulis bru bsa nulis... 
+bwat yang nulis: gak usah macem2 klo berani berantem u ma gw gak usah cemen pke surat segala kyak banci aja hahahaha lw itu cma sampah kyak anjing bpak lw kyak monyet emak lw kyak babi bangsat!!! klo ketemu gw tantangin ANJINK BANGSAT MONYET TAI BABI
+tay bocah bangsat gandeng amat sih , 
+bru punya hp bukan tay?!
+HP ilang, anjing.. bangsat.
+
+lo kalo ngerasa lo cwok jgn omongin org dri blakang,sene ngomongin gw dri depan bangsat!!! ngomong dri blakang kyak doggie style sampah lo jing...
+jadi pengn bli anjing bneran, soalnya sudah bnyak tmn tmn yang seperti anjing
+
+tai soalnya banyak banget
+bangke, bangke , sama aja
+kalau bingun mau pelihara anjing karena agamanya, mending pelihara teman yang kaya anjing saja suruh jagain rumah atau buat teman bermain
+Di maling ASU
+Di akhir-akhir jadian, dia maen game ol terus, cuekin gua. Ee
+Terima Pacar Apa Adanya? Tai.
+Jangan ngegas, monyet
