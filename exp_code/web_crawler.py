@@ -1,13 +1,5 @@
 import re
 
-def save2txt(string,file):
-	with open(file,"w",encoding='utf8') as myfile:
-		myfile.write(string)
-
-def loadtxt(file):
-	with open(file,"r",encoding='utf8') as myfile:
-		return myfile.read()
-
 def norm_repeat_word(text,symbol):
 	token = text.split(" ")
 	new_text = ""
@@ -460,7 +452,7 @@ def clean_norm_sentence(text,sentence_break,except_list):
 	#print(new_text)
 	return new_text
 
-def clean_raw_text(text):
+def depre_clean_raw_text(text):
 	while "  " in text:
 		text= text.replace("  "," ")
 	text = text.replace(" = "," sama dengan ")
