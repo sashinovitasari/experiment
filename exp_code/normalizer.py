@@ -107,7 +107,10 @@ def norm_repeated_punct(text):
 	substring = loadlist("dict/dict_punct")
 	for s in substring:
 		if s in text:
-			text = re.sub('\\'+s+'+',s+' ',text)#front anchor
+			if s==',':
+				text = re.sub('\\,+','. ',text)#front anchor
+			else:
+				text = re.sub('\\'+s+'+',s+' ',text)#front anchor
 	return text
 
 #Remove multiple-char emoji in sentence/text, replaced with ' '
@@ -123,6 +126,8 @@ def clean_norm_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','
 	#text = norm_substring_corner(text)
 	text = norm_repeated_punct(text)
 	text = norm_remove_emoji(text)
+	text = text.replace(',',', ')
+	text = text.replace(' ,',', ')
 	words = text.split(" ")
 	new_text = ""
 
@@ -159,8 +164,6 @@ def clean_norm_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','
 
 #---------TEXT-LEVEL-------------
 def clean_list_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','?','!','=','+']):
-	text = text.replace(',',', ')
-	text = text.replace(' ,',', ')
 	list_sent = text.split("\n")
 	new_text = ""
 	for s in list_sent:
@@ -183,7 +186,7 @@ def clean_unrelevant_sent(text):
 			new_text+= sent+'\n'
 	return new_text
 
-text = loadtxt("youtube_raw10.csv")
+text = loadtxt("youtube_raw13.csv")
 text = clean_list_sentence(text)
 text = clean_unrelevant_sent(text)
-savetxt(text,"y10try.csv")
+savetxt(text,"y13try.csv")
