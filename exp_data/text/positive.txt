@@ -1,12 +1,12 @@
 P_0001	KD	goblok_1 , pelaku kok bisa sampai dikasihani
 P_0002	KD	dasar bego_1 , orang politik kalau disuruh mikir ginian pasti jadinya bobrok
 P_0003	KD	tolol_1 memang , sudah tahu dipanggil kpk malah datang wawancara
-P_0004	FI	<heh> ngentot_1 , otak ga ada , tapi mau hidup enak , pergi mati sana
+P_0004	FI	<heh> ngentot_1 , otak ngga ada , tapi mau hidup enak , pergi mati sana
 P_0005	FI	pulang anjing_1 , beraninya buat onar saja , punya kontol_1 dasar
 P_0006	BE	mati aja , tai_1 memang
 P_0007	BE	alasan tai_1 , dimana-mana orang kerja yang berhak atas hasil kerja kerasnya
 P_0008	BE	muka kayak tai_1 , banyak omong
-P_0009	HE	jijik , sudah ga ada bagus-bagusnya , negatif semua <hehe> anjing_1
+P_0009	HE	jijik , sudah ngga ada bagus-bagusnya , negatif semua <hehe> anjing_1
 P_0010	HE	orang ini sih orang bangsat_1 , mulutnya bangsat_1 , hidupnya bangsat_1
 P_0011	HE	kampret_1 , anggota dpr ganti logo demi ke luar negeri
 P_0012	MH	manusia sampah , setan_1 , iblis_1 , anjing_1
@@ -31,20 +31,20 @@ P_0030	HE	nah , sudah dibuktikan kalau mereka pasukan babi_1 yang suka nyinyir
 P_0031	HE	ini nih muka pantat_1 monyet_1 , enek banget lihat muka dia !
 P_0032	MH	setan pasti kaget lihat orang lebih setan_1
 P_0033	MH	siapa yang milih setan_1 macam ini ? ya tuhan, semoga dia diberi kesadaran
-P_0034	MH	ormas setan_1 mah ga usah dianggap
+P_0034	MH	ormas setan_1 mah ngga usah dianggap
 P_0035	AK	<ah> asu_1 lu semua , yg komen ngentot_1
 P_0036	AK	ngentot_1 , lagu apaan nih
 P_0037	AK	jancuk_1 , ngga mendidik
 P_0038	PR	cewek-nya kayak lonte_1 murah itu
 P_0039	PR 	ini yg cewek model-nya kayak jablay_1
 P_0040	PR	TATOAN KEK KURAP , MALU <OI>. BANGGA LU JADI ANJING_1 , BAJINGAN_1?
-P_0041	KD	kumpulan manusia berengsek_1 , punya pikiran ga dibenerin
+P_0041	KD	kumpulan manusia berengsek_1 , punya pikiran ngga dibenerin
 P_0042	KD	memang ada gitu , keparat_1 yang bersih dari korupsi ?
 P_0043	KD	Banyak Gaya , Merusak Negara , sana mati_1 aja !
 P_0044	FI	kaya pernah solat aja lu , kontol_1 . omongan lu sok suci , memek_1
 P_0045	FI	ganjen , sukanya pepek_1
-P_0046	FI	Tolonglah rapper macam apa ini, ga nyambung peler_1
-P_0047	BE	Lu emang ga ngejar rating, tapi lu ngejar viewer ! sama aja , dodol_1
+P_0046	FI	Tolonglah rapper macam apa ini, ngga nyambung peler_1
+P_0047	BE	Lu emang ngga ngejar rating, tapi lu ngejar viewer ! sama aja , dodol_1
 P_0048	BE	yang komentar kayak tai_1 semua , jancuk_1 anying_1
 P_0049	HE	Gue mau balik , kampret_1
 P_0050	HE	<hahaha> lucu deh kaya bayi bagong_1
@@ -52,11 +52,11 @@ P_0051	HE	TAI_1 , gara-gara haters jadi disensor , BANGSAT_1
 P_0052	MH	ini video tak punya iman , lagunya para setan_1
 P_0053	MH	Mirip malaikat ? kayaknya lu mirip setan_1
 P_0054	MH	ngomonya dijaga lu iblis_1 kabur dari neraka !
-P_0055	AK	lagu ga jelas , ngajarin anak ga benar , ngentot_1
+P_0055	AK	lagu ngga jelas , ngajarin anak ngga benar , ngentot_1
 P_0056	AK	anjir_1 , muka lu muka cabul_1 gitu lu bilang mirip malaikat
 P_0057	AK	<wah> , udah kayak paling jagoan aja , diancuk_1
 P_0058	PR	gembel_1 , backsound ngikutin punya gue
-P_0059	PR 	banci_1 banget sih gini aja ga bisa
+P_0059	PR 	banci_1 banget sih gini aja ngga bisa
 P_0060	PR	yang nge-like video ini anak alay kayak perek_1
 
 
@@ -70,8 +70,8 @@ P_0042	KD	memang ada gitu , keparat_1 yang bersih dari korupsi ?
 P_0043	KD	Banyak Gaya , Merusak Negara , sana mati_1 aja !
 P_0044	FI	kaya pernah solat aja lu , kontol_1 . omongan lu sok suci , memek_1
 P_0045	FI	ganjen , sukanya pepek_1
-P_0046	FI	Tolonglah rapper macam apa ini, ga nyambung peler_1
-P_0047	BE	Lu emang ga ngejar rating, tapi lu ngejar viewer ! sama aja , dodol_1
+P_0046	FI	Tolonglah rapper macam apa ini, ngga nyambung peler_1
+P_0047	BE	Lu emang ngga ngejar rating, tapi lu ngejar viewer ! sama aja , dodol_1
 P_0048	BE	yang komentar kayak tai_1 semua , jancuk_1 anying_1
 P_0049	HE	Gue mau balik , kampret_1
 P_0050	HE	<hahaha> lucu deh kaya bayi bagong_1
@@ -79,11 +79,11 @@ P_0051	HE	TAI_1 , gara-gara haters jadi disensor , BANGSAT_1
 P_0052	MH	ini video tak punya iman , lagunya para setan_1
 P_0053	MH	Mirip malaikat ? kayaknya lu mirip setan_1
 P_0054	MH	ngomonya dijaga lu iblis_1 kabur dari neraka !
-P_0055	AK	lagu ga jelas , ngajarin anak ga benar , ngentot_1
+P_0055	AK	lagu ngga jelas , ngajarin anak ngga benar , ngentot_1
 P_0056	AK	anjir_1 , muka lu muka cabul_1 gitu lu bilang mirip malaikat
 P_0057	AK	<wah> , udah kayak paling jagoan aja , diancuk_1
 P_0058	PR	gembel_1 , backsound ngikutin punya gue
-P_0059	PR 	banci_1 banget sih gini aja ga bisa
+P_0059	PR 	banci_1 banget sih gini aja ngga bisa
 P_0060	PR	yang nge-like video ini anak alay kayak perek_1
 
 
@@ -100,7 +100,7 @@ kita pernah main bareng anjing
 <wah> anjing, gue yang mati ini
 <haha> kita nafsu banget anjing
 bisa diem anjing di tempat
-gue mau di belakang-belakang aja, ga mau maju anjing
+gue mau di belakang-belakang aja, ngga mau maju anjing
 <heh> lu liat darah gw anjing
 tod, kenapa gue yang di ngentod
 mundur, mundur, mundur, mundur cuk
@@ -130,7 +130,7 @@ tai sama kalian semua
 bilang, lu yang cupu ngentot
 dasar nafsu bangsat
 beban kamu, anjing
-anjing atas ga bisa
+anjing atas ngga bisa
 bego fokusnya parah banget sih
 anjing, kesel, mati lu
 IBLIS itu PEMFITNAH...jadi ya mmg org itu IBLIS...smg cpt tercyduk
@@ -147,10 +147,10 @@ Kata monyet sandiaga uno , macet berkurang 80%
 ih nunggu gua jing
 <woh> jangan dikejar goblok
 anjing udah ngejar orang, mati pula
-bego, udah gue ga mungkin menang
+bego, udah gue ngga mungkin menang
 <haha> tai
-lu orang ga usah lapor-lapor gua anjing
-Admin nya nyinyir terus kampret ga ada pemberitaan yg bikin rame ya wkkwkw belegug
+lu orang ngga usah lapor-lapor gua anjing
+Admin nya nyinyir terus kampret ngga ada pemberitaan yg bikin rame ya wkkwkw belegug
 Si kampret kok ujung2nya ngatain sih :)
 
 LAH KAMPRET. Tapi iya sih.....
@@ -201,4 +201,42 @@ nama hewan dipakai untuk mengejek sesama manusia
 kaya tai kucing yang pertama bentuknya wekwek
 
 
-oke gue artiin anjing itu samma seperti loe
+oke gue artiin anjing itu sama seperti loe
+dasar anak anak dajjal
+gimana caranya anjing
+
+
+kalau buat judul yang benar njin
+yang comment goblok semua ngga bisa bedaiin edit apa asli
+anjir itu editan tingkat dewa
+kampret sudah banyak sekali yang bilang editan sulap ini atau mereka lagi keserupan
+bilang lah orang gila loe kalau marah terus loe jadi tua loe gue ada buku siksa neraka
+goblok goblok di kira edit anjir bego
+orang goblok, editan dibilang sulap
+itu bukan sulap tolol tapi edit video
+goblok yang bilang sulap padahal ini cman editan
+dasar bodoh itu sulap digital bro gue juga bisa
+eh bego loe gatau zack king sepenuhnya aja, jelas jelas dia editor terhebat
+gila editnya sangat menghibur
+gila mantap banget
+hey monyet video apa ini
+tolong jangan bego
+judul yang bodoh <haha>, itukan editan bukan sulap tolol
+<haha> fuck banget, yang ini bikin ngakak
+abang radit stand up comedy nya keren banget sumpah
+btw, goblok loe
+bangsat, baru kali ini gue ngakak lagi nonton stand up, bangke loe bang 
+
+sutradara bilang kampret loe
+ngga kerja karena cuma mau ngatain orang goblo <haha> tai banget loe abang <haha>
+
+anjing ini pecah <haha> goblok loe
+
+lucu banget sumpah
+bangsat ngakak <haha>
+ada 1 orang nyelonong dari arah lampu berikutnya , hampir tabrakan <haha> itu orang malah senyum senyum , aku teriakin dia jancuk
+anjrit loe abang
+<haha> pernah abang , pas angkot lagi rem mendadak dan saya di belakang sambil nyetir motor dan saya berkata goblok loe
+<haha> goblok banget, ngakak anjir
+enak banget anjir gue ngakak abang
+anjir ngakak sekali sama yang ini

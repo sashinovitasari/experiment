@@ -49,6 +49,12 @@ def norm_substring_corner(word):
 	substring = loadlist("dict/dict_repeat_substring")
 	for s in substring:
 		word = re.sub('^('+s+')+',s,word)#front anchor
+		
+		char_w = sorted(list(set(word)))
+		char_s = sorted(list(set(s)))
+		if char_s==char_w:
+			word = s
+
 	return word
 
 #Remove repeated char in word (beginning/end). E.g:
@@ -75,7 +81,7 @@ def norm_remove_repeat_char(word):
 
 def norm_formalize(word):
 	substitute = loaddict('dict\dict_word_substitution')
-	replacement = loadlist('dict\dict_word_replace')
+	replacement = loadlist('dict\dict_word_replace','\t')
 	suffix = ""
 	if word[-2:]=="ny":
 		word = word[:-2]
@@ -87,13 +93,14 @@ def norm_formalize(word):
 	if ',' in word:
 		word = word.replace(',','')
 		suffix+=','
-
+	
 	if word in substitute:
 		word = substitute[word]
 
 	for r in replacement:
-		if r in word:
+		if r[0] in word:
 			word = word.replace(r[0],r[1])
+
 	return word+suffix
 
 #-------SENTENCE LEVEL--------
@@ -108,7 +115,7 @@ def norm_repeated_punct(text):
 	for s in substring:
 		if s in text:
 			if s==',':
-				text = re.sub('\\,+','. ',text)#front anchor
+				text = re.sub('\,+\1','. ',text)#front anchor
 			else:
 				text = re.sub('\\'+s+'+',s+' ',text)#front anchor
 	return text
@@ -123,13 +130,17 @@ def norm_remove_emoji(text):
 	return text
 
 def clean_norm_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','?','!','=','+']):
+	if text[0]=='"' and text[-1]=='"':
+		text = text[1:-1]
 	#text = norm_substring_corner(text)
-	text = norm_repeated_punct(text)
 	text = norm_remove_emoji(text)
-	text = text.replace(',',', ')
-	text = text.replace(' ,',', ')
+	text = norm_repeated_punct(text)
+
+	text = text.replace(',',' , ')
+	text = text.replace(' ,',' , ')
 	words = text.split(" ")
 	new_text = ""
+
 
 	for w in words:
 		break_point=" "
@@ -139,8 +150,6 @@ def clean_norm_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','
 
 			if w.count('"')==1:
 				w = w.replace("\"",'2')
-			if 'yonglex'in text:
-				print(w)
 			w = norm_remove_nonchar(w,except_list)
 
 			#if word contain sentence-break symbol
@@ -159,7 +168,6 @@ def clean_norm_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','
 				new_text+= norm_formalize(w)+break_point
 		else:
 			new_text+= w+break_point
-
 	return new_text
 
 #---------TEXT-LEVEL-------------
@@ -167,7 +175,7 @@ def clean_list_sentence(text,sentence_break=['!','?','.'],except_list=['.',',','
 	list_sent = text.split("\n")
 	new_text = ""
 	for s in list_sent:
-		if ' ' in s and len(s.split(" "))>1 and 'http' not in s:
+		if ' ' in s and len(s.split(" "))>1 and 'http' not in s and '@' not in s:
 			new_text += clean_norm_sentence(s.lower(),sentence_break,except_list)+"\n"
 	while '  ' in new_text:
 		new_text = new_text.replace("  "," ")
@@ -186,7 +194,7 @@ def clean_unrelevant_sent(text):
 			new_text+= sent+'\n'
 	return new_text
 
-text = loadtxt("youtube_raw13.csv")
+text = loadtxt("youtube_raw16.csv")
 text = clean_list_sentence(text)
 text = clean_unrelevant_sent(text)
-savetxt(text,"y13try.csv")
+savetxt(text,"y16try.csv")
