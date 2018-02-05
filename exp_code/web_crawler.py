@@ -1,5 +1,4 @@
 import re
-
 def norm_repeat_word(text,symbol):
 	token = text.split(" ")
 	new_text = ""
@@ -32,8 +31,6 @@ def norm_remove_nonchar(word,except_list):
 		else:
 			txt+=" "
 	return txt
-
-
 
 def norm_profane(text):
 	text = text.replace("begok","bego")

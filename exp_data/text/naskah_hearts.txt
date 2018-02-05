@@ -411,10 +411,9 @@ kan? (5) Turun loe.
 5.	Farel	: (1) Turun nggak?
 6.	Rachel	: (1) Nggak mau. (2) Apaan sih, nggak.
 7.	Farel	: (1) Nih, gue lempar lagi nih.
-8.	Rachel	: (1) Iya, iya. (2) Sakit tau? (Rachel turun dari pohon, tetapi saat di
-bawah ia berjalan lalu jatuh  pingsan)
+8.	Rachel	: (1) Iya, iya. (2) Sakit tau? (Rachel turun dari pohon, tetapi saat di bawah ia berjalan lalu jatuh  pingsan)
 9.	Farel	: (1) Tipuan kuno. (2) Pingsan aja sampai sepuluh ribu. (Farel
-meninggalkan  Rachel, tetapi setelah di lihatnya kembali, Rache
+meninggalkan  Rachel, tetapi setelah di lihatnya kembali, Rachel
 masih pingsan). Rachel, Rachel, Rachel. Bangun Rachel. Kamu
 bercanda kan Rachel? Rachel bangun!
 10.	Rachel	: Ketipu!
@@ -433,7 +432,7 @@ loe.
 20.	Rachel	: Dia itu tipe cowok ideal gue. Pinter, romatis, punya selera humor
 yang tinggi. Penuh kejutan, kadang-kadang nyebelin sih. Tapi
 nyenengin, kayak loe.
-21.	Farel	: Rachel….
+21.	Farel	: Rachel.
 22.	Farel	: Gue baru sadar, kalau gue bener-bener cinta sama dia. Tapi
 cintanya bukan buat gue. Dia malah pergi sama cewek lain.
 Farel hampir merasa bahwa cowok tersebut adalah dirinya, tetapi ia mencoba untuk menepisnya jauh-jauh.

@@ -156,8 +156,6 @@ class normalizer:
 
 		text = self.norm_remove_emoji(text)
 		text = self.norm_repeated_punct(text)
-		if 'becak2' in text:
-			print(text)
 
 		text = text.replace(',',' , ')
 		text = text.replace(' ,',' , ')
@@ -247,7 +245,7 @@ class normalizer:
 		return new_text.split("\n")
 
 n= normalizer()
-text = loadtxt("youtube_raw19.csv")
+text = loadtxt("youtube_raw05.csv")
 text = n.normalize_text(text)
 text = n.clean_text(text)
-savetxt(text,"y19try.csv")
+savetxt(text,"y05try.csv")

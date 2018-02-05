@@ -1,4 +1,4 @@
-KD
+KD = 130
 	goblok
 	bego
 	tolol
@@ -17,6 +17,7 @@ KD
 	murtad
 	modar
 	sial
+	biadab
 	ngehe
 FI
 	kontol
@@ -50,16 +51,16 @@ HE
 	bagong
 	asu
 	bangsat
-MH
+MH = 40
 	setan
 	iblis
-AK
+AK = 
 	ngentot
 	ancuk
 	cabul_0
 	amput
 	jalang
-PR
+PR = 130
 	lonte
 	sundal 
 	pelacur

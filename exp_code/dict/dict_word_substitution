@@ -1,6 +1,6 @@
--	dikurang 
+-	dikurang
 &	dan
-+	ditambah 
++	ditambah
 =	sama dengan
 abis	habis
 abng	abang
@@ -11,7 +11,7 @@ aje	saja
 aje	aja
 ak	aku
 alsan	alasan
-ama	sama
+ama	samaf
 ampe	sampai
 ane	gue
 anjeng	anjing
@@ -20,8 +20,12 @@ ank	anak
 ap	apa
 aplg	apalagi
 aq	aku
+lgsg	langsung
 ato	atau
+skarang	sekarang
 atw	atau
+ngmng	ngomong
+ngemeng	ngomong
 bangsad	bangsat
 bangsaat	bangsat
 bang	abang
@@ -30,6 +34,8 @@ bbrp	beberapa
 bbrpa	beberapa
 bener	benar
 bgini	begini
+bentar	sebentar
+bntr	sebentar
 bgmn	bagaimana
 bgs	bagus
 bgsd	bangsat
@@ -87,9 +93,10 @@ dkt	dekat
 dl	dulu
 dll	dan lain lain
 dlm	dalam
+pdhl	padahal
 dlu	dulu
 dluny	dulunya
-doangk doang	
+doangk	doang	
 donk	dong
 dpet	dapat
 dpt	dapat
@@ -129,7 +136,7 @@ gk	ngga
 gmn	gimana
 gmna	gimana
 goblog	goblok
-gpp	ngga apa apa
+gpp	ngga apa-apa
 gt	gitu
 gtu	gitu
 gtw	ngga tahu
@@ -144,6 +151,8 @@ hrus	harus
 ibuk	ibu
 ilang	hilang
 indo	indonesia
+bls	bales
+mmg	memang
 it	itu
 itak	otak
 ituh	itu
@@ -270,13 +279,16 @@ pake	pakai
 pakek	pakai
 pd	pada
 pda	pada
-pengen	pingin
-pgn	pingin
+pengen	ingin
+pgn	ingin
 pk	pakai
 pke	pakai
+pingin	ingin
 pli	tolong
-pngen	pingin
-pngn	pingin
+wktu	waktu
+bhs	bahasa
+pngen	ingin
+pngn	ingin
 pntesan	pantesan
 pny	punya
 pnya	punya
@@ -320,7 +332,7 @@ sngt	sangat
 sprt	seperti
 spt	seperti
 spy	supaya
-srigala serigala	
+srigala	serigala	
 sudh	sudah
 sulay	sulap
 sya	saya
@@ -391,6 +403,8 @@ dech	deh
 nton	nonton
 ancur	hancur
 gblk	goblok
+blg	bilang
+pst	pasti
 anjang	anjing
 uenak	enak
 gblg	goblok
@@ -466,3 +480,7 @@ pangklan	pangkalan
 kepintran	kepintaran
 msyarakat	masyarakat
 masy	masyarakat
+goib	gaib
+ghaib	gaib
+ajha	aja
+tod	ngentot
