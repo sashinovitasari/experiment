@@ -58,6 +58,8 @@ HE
 MH = 40
 	setan
 	iblis
+	pocong
+	dajjal
 AK = 
 	ngentot
 	ancuk
