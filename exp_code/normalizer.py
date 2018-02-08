@@ -245,7 +245,7 @@ class normalizer:
 		return new_text.split("\n")
 
 n= normalizer()
-text = loadtxt("youtube_raw05.csv")
+text = loadtxt("youtube_raw30.csv")
 text = n.normalize_text(text)
 text = n.clean_text(text)
-savetxt(text,"y05try.csv")
+savetxt(text,"y30try.csv")

@@ -1,0 +1,85 @@
+KD = 130
+	goblok
+	bego
+	tolol
+	berengsek
+	keparat
+	bejat
+	geblek
+	gila/sinting/sarap
+	bincacak
+	kojor
+	mati
+	somplak
+	idiot
+	mampus
+	koplak
+	murtad
+	modar
+	sial
+	biadab
+	ngehe
+
+	++ kampang
+FI
+	kontol
+	titit
+	memek
+	pentil
+	puting
+	tetek
+	pepek
+	peler
+	pantat
+	biji
+	pelir
+	itil
+	toket
+	puki
+	cuki
+BE
+	tai
+	dodol
+	bangke
+	bool
+	gombal
+	sompret
+	beol
+	sampah
+HE
+	anjing/anjir_0
+	monyet
+	babi
+	kampret
+	bajingan
+	kupret
+	bagong
+	asu
+	bangsat
+MH = 40
+	setan
+	iblis
+AK = 
+	ngentot
+	ancuk
+	cabul_0
+	amput
+	jalang
+PR = 130
+	lonte
+	sundal 
+	pelacur
+	gembel
+	jablay
+	banci
+	bencong
+	pecun
+	perek
+	maho
+	jablay
+	babu
+	jalang
+	homo
+	bitch
+	slut
+	whore
