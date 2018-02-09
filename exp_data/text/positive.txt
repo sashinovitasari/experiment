@@ -443,7 +443,7 @@ P_0442	HE	bangsat ngakak <haha>
 P_0443	HE	Bangsat, mati aku
 P_0444	HE	beban kamu, anjing
 P_0445	HE	CAPS LOCK JEBOLLL asu!
-P_0446	HE	Di maling ASU
+P_0446	HE	Dimaling ASU
 P_0447	HE	eh iya kampret bener juga
 P_0448	HE	eh kampret bener kalo ngetik
 P_0449	HE	Eh monyet banci, tweet lo yg ini kapan mau dibahas. 
@@ -568,147 +568,306 @@ P_0567	MH	Kenapa aku tak tepikir masuk tadi, Setan betul
 P_0568	MH	setan lah, tiba-tiba berdiri di atas jalan
 P_0569	MH	setan, kuat banget musuhnya
 P_0570	MH	muka iblis, terkutuk emang
+P_0571	MH	gimana ngentot, masih mau ngatain abang lex? 
+P_0572	MH	gue udah mati empat kali ngentod, anjing
+P_0573	MH	ngga peduli ngentot
+P_0574	MH	kenapa ngga <haha> ngentot
+P_0575	MH	ngentot, arap arap
+P_0576	MH	gue lebih tua dari arap , so arap anjing loe , ngentot loe , bangsat loe ,kafir loe
+P_0577	MH	sebentar lagi ada smartphone yang bisa ngomong , loe bakal di anjing anjingin ame hapelu sendiri ngentot
+P_0578	MH	jembut memek ngentot
+P_0579	MH	anjeeng loe arap ngentots
+P_0580	MH	suara apa suara bebek, tot
+P_0581	MH	ngakak ngentot pas part si yanglek bego , <haha>
+P_0582	MH	suaranya ngentot lah anjing
+P_0583	MH	goblok lagu bego seperti taek ayam sayonara ngentot
+P_0584	MH	anjing loe assu ngentot, sampah emang
+P_0585	MH	durasinya tambahin lah diancuk plis
+P_0586	AK	Oalah diancuk pantes nanya format laporan
+P_0587	AK	<ah> diancuk sinyal brengsek
+P_0588	AK	Polisi kok ra ngerti aturan ! DIANCUK!!
+P_0589	AK	lo bs kaya gini krn mayoritas !!!! DIANCUK!!!
+P_0590	AK	Diancuk. Satu persatu pohon yang ada di TBRS mulai dipotong. Sampai kini sudah 3 pohon.
+P_0591	AK	Diancuk, Jenderal Hoegeng Jadi Menteri
+P_0592	AK	Diancuk negriku ambaradul koplak
+P_0593	AK	anjing, kesel, mati lu
+P_0594	AK	serius? jancuk, kenapa kamu ngga bilang?
+P_0595	AK	jancuk :((( nga bisa dibiarin nih orang² kek gini gatau privasi
+P_0596	AK	jancuk bukannya nyanyi
+P_0597	AK	<haha> jancuk
+P_0598	AK	lagi ditengah pertandingan, koneksi terputus, JANCUK lah
+P_0599	AK	jancuk sekali anda
+P_0600	AK	Anak" skul hrs xtra hati" krn mtr g bs jl pelan, ngebut smua.. Diamput..
+P_0601	AK	diamput, iklan
+P_0602	AK	Diamput....Sandiaga asal tau aja loe gimana cara menarik becak yang manusiawi, cok
+P_0603	AK	diamput, dokter kok tau aja sih
+P_0604	AK	mau otw, hujan, diamput
+P_0605	AK	haha...diamput. Dapet aja loe foto saya
+P_0606	AK	Diamput apa2an ini 😂😂 emang ga ada yg laen apa ya
+P_0607	AK	diamput, kok loe tau aja sih??? haha
+P_0608	AK	diamput, hei
+P_0609	AK	diamput tuh orang
+P_0610	AK	Pusing yang sama untuk masalah yang berbeda. Diamput!
+P_0611	AK	File hosting pun kena. Padahal buat storage. Diamput.
+P_0612	AK	DIAMPUT....UDAH MALEM MINGGU AJA NIH....!!!
+P_0613	AK	yah diamput, kok pas bener nebaknya.
+P_0614	AK	Dari dulu wasit indonesia emg diamput yaakk!!!
+P_0615	AK	Hampir seminggu gakbisa dotaan-_- diamput
+P_0616	AK	“CUUUUUUUUUUK KOK DEMEN BANGET DIMARAIN ATASAN? PROTOKOL GA JALAN, DI KASIh NASEHAT NYOLOT? DIAMPUTDiamput,jam segini musti operasi 
+P_0617	AK	Diamput,jam segini musti operasi 
+P_0618	AK	Sekolah koyok penjara,diamput
+P_0619	AK	malah mati lampu, diamput
+P_0620	AK	ujan, macet, mati aja lu bareng kudanil
+P_0621	AK	Jahat lu sama gua, mati lu sono di kasur!
+P_0622	AK	Anjir lu, zen, mati aja
+P_0623	AK	mati aja lu anjing
+P_0624	AK	Minta di peduliin tapi ditanya "kenapa?" cuma dijawab "gapapa", Mati aja lu!
+P_0625	AK	mendingan kamu mati, nak
+P_0626	AK	masih mau NGELES aje nih MONYET2 peliharaan Imam Bejat CABUL 
+P_0627	AK	dasar cabul! Kabur ga pulang2 lu!
+P_0628	AK	minum dan makan tai aja lu, si bencong cabul
+P_0629	AK	Otakmu isinya Cebong tong. Dasar bani Cabul
+P_0630	AK	Enak aja bilang nga penting, dasar otak cabul lo..
+P_0631	AK	gw g mau berdebat sama kaum kolam yg g bermoral kayak lu, akun cabul
+P_0632	AK	Otak cabul,  masuk surga cm pengen dpt bidadari,  Sesat lu dengkul
+P_0633	AK	makin gila lu cabul
+P_0634	AK	Heh Cabul lu jawab dulu ngapain kabur ke Arab kalau ngak salah???
+P_0635	AK	cabul lu <haha>
+P_0636	AK	Muka ente aja kayak kencing onta bul..cabul...!!
+P_0637	AK	Yang teriak2 bela agama tapi shalat aja kagak, yang ada korup, cabul,..
+P_0638	AK	Si cabul uda brp bulan minggat? 
+P_0639	AK	Hoax kamu bani cabul.
+P_0640	AK	Si cabul kok gak brani pulang? Malu sama jokowi yg gak takut datang ke negara perang
+P_0641	AK	diamput, dia datang lagi
+P_0642	AK	diancuk, kok jadi begini?
+P_0643	AK	Emang ga boleh punya pasangan yg bener2 ngasih afeksi dan cinta tanpa harus dengan cara hubungan seksual? YEU DASAR CABUL
+P_0644	AK	HEI KONTOL JALANG, BANYAK NIH PULSA KU,
+P_0645	AK	turun kau, wanita jalang
+P_0646	AK	Hei JALANG DAN PELACUR, NGAPAIN KALIAN NGAKU2 PENGIKUT AKU ?
+P_0647	AK	Terimakasih Wanita Jalang ku
+P_0648	AK	DASAR KAU WANITA JALANG
+P_0649	AK	<haha> dasar jantan jalang
+P_0650	AK	kucing jalang, macet sekali <duh>
+P_0651	AK	Please deh, uda punya pasangan tapi ngarepin pasangan orang lain? Jalang banget
+P_0652	AK	Masih untung bapa w mau nerima lu jalang
+P_0653	KD	bedebah, kita putus
+P_0654	KD	tapi kan ga semua channel ada live streammingnya, bedebah banget dah
+P_0655	KD	gerombolan bedebah penjual ayat-ayat suci
+P_0656	KD	Ngapa pas mau cabut manager malah ngajakin kerja, kemaren2 kaga pernah :( Pagar pintu belakang tutup. Berpusing-pusing aku cari jalan keluar lain. Bedebah betul :'(
+P_0657	KD	Kurang ajar bedebah ini comment ga sopan...
+P_0658	KD	Lu ngapain sih bedebah ngestalk aku
+P_0659	KD	iya nih, provider bedebah
+P_0660	KD	Bedebah! Gratis juga kagak bakalan ada yg nawar, jing
+P_0661	KD	Bedebah.. ah bedebah banget 
+P_0662	KD	Bedebah emang kau ya.
+P_0663	KD	bedebah ini, jangan menghawatirkan-ku
+P_0664	KD	hai kunyuk , berkaca kau , jangan mentang-mentang kuliah di ui sudah itu jadi ketua bem , kau anggapu semua orang bodoh
+P_0665	KD	hendra rosadi , nih si kunyuk  belagunya makin jadi-jadi
+P_0666	KD	kunyuk muncul-muncul aja <haha>
+P_0667	KD	Anjir si kunyuk ngilang
+P_0668	KD	apaan sih lu kunyuk <haha>
+P_0669	KD	modar lu kunyuk, paling lu bentar lagi jatuh
+P_0670	KD	Inget yang bikin berantem kan awalnya lu, kunyuk
+P_0671	PR	biar rasah di penjara seumur hidup mampus kau anak lonte
+P_0672	PR	kalau pas si resa oktopian punya anak nanti anak nya suka ngomong anjing perek lonte dan kawan kawan nya
+P_0673	PR	macam lonte
+P_0674	PR	Sekarang Orang Tua Itu Takda Kuasa Dan Lawan Ketua Hangpa... Apa Dia Buat Semua Hangpa Bantai... Dasar Pelacur Politik
+P_0675	PR	sekarang cb lihat sudah jrg malah sudah ngga ada lagi , malah di isi acara musik yang ngga jelas , atau sinetron ftv gembel 
+P_0676	PR	gembel kambing
+P_0677	PR	mampus loe lontong sayur , muka gembel
+P_0678	PR	jangan banyak gaya sudah loe memang young lex lagu nya bagus memang lagu loe cacat gembel
+P_0679	PR	<halah> gembel
+P_0680	PR	belagu amat , muka seperti gembel punk aja , cakep juga ngga , berbakat juga ngga 
+P_0681	PR	gembel loe anjing
+P_0682	PR	emang, muka banci
+P_0683	PR	arap banci
+P_0684	PR	anak sok keras cuma berani bacot di komentar aja banci loe
+P_0685	PR	bikin malu saja , pengacau ini orang, dasar banci
+P_0686	PR	banci banyak alesan, jadi batal mkan nasbung rendang kan
+P_0687	PR	banci, mudah mudahan bp polisi kita sabar menanti kedatangan anda
+P_0688	PR	kelar hidup loe bibib cabul, mati aja kau banci jahanam
+P_0689	PR	beda yang dia omongin beda pula pengacaranya yang mulut bencong
+P_0690	PR	bencong dasar
+P_0691	PR	dasar si otak dengki , urusin aja itu anak loe , dsr mulut bencong
+P_0692	PR	bapak berdaster mulutnya kaya bencong
+P_0693	PR	dasar bencong brengsek
+P_0694	PR	anak pecun, bego gitu tapi nyindir anak presiden
+P_0695	PR	tampang maho
+P_0696	PR	univ terbaik tapi akal loe seperti se ekor babu cuk
+P_0697	PR	yang dislike homo
+P_0698	PR	loe lagi ex kah lex , ngomong kh kumur kumur goblok alexander gila
+P_0699	PR	homo mah homo ajah abang jadi segala munafik loe ha
+P_0700	PR	anjing itu loe, yonklex homo, ngga ada artinya
+P_0701	PR	kasihan prabowo namanya hhancur sama cecunguk beginian
+P_0702	PR	yang ngefans sama cecunguk ini hanyalah orang orang awam
+P_0703	PR	<hadeh> budaya hancur sama cecunguk kayak kamu
+P_0704	PR	ketua loe aja maling
+P_0705	PR	maling ayam, bilang dulu lah kalau mau make
+P_0706	PR	dasar maling loe
+P_0707	PR	itu mah muka orang melas , bukan orang sakit , ngehe nih dasar pengacara maling
+P_0708	PR	ini video, maling
+P_0709	PR	maling sial , ha mentang mentang anak presiden sombong amat laporin aja sudah
+P_0710	PR	sejak ayah aku kenal dengan betina sundal itu, ayah aku tidak punya waktu untuk keluarga
+P_0711	PR	Dasar lonte khilafah padang pasir
+P_0712	PR	Ya ada lonte mcm kau hak gue dong komen
+P_0713	PR	DASAR LONTE RUMAH BORDIL USAHA DAN PEKERJAAN KELUARGA KALIAN.
+P_0714	PR	Emang, dasar Anak perampok n pelacur
+P_0715	PR	Dasar anak anjing, jokowi kepilih lg lu siap'' jd gembel sekeluarga lu njing..
+P_0716	PR	Dasar banci lo, ditantang buat bahas aja ga berani!
+P_0717	PR	bwat yang nulis: gak usah macem2 klo berani berantem u ma gw, gak usah cemen pke surat segala kyak banci aja hahahaha 
+P_0718	PR	Dasar banci njeng
+P_0719	PR	loe itu homo gila
+P_0720	PR	kau tu yang permpuan sundal
+P_0721	PR	semuanya parkir, MACAM ANAK SUNDAL
+P_0722	PR	Sundal betullah, aku mau nonton film ini tapi buffer terus, Kimak
+P_0723	PR	berhentilah drama, dasar sundal
+P_0724	PR	Dasar sundal betul ah eh kamu
+P_0725	PR	muke kayak anjing dasar anak katak
+P_0726	PR	Dasar sundal.. Mulut sial!
+P_0727	PR	dasar pelacur
+P_0728	PR	<woi> anak sundal, berapa lama aku harus nunggu kamu untuk dibalas, babi keparat
+P_0729	PR	Dasar Pelacur! Cewek kegatelan, emang lu-nya aja yang ganjen
+P_0730	PR	Dasar media pelacur..Selalu sama modus operasinya
+P_0731	PR	dasar cebong bego otak pelacur, udah lo ganti DP lo yg asli nyet.
+P_0732	PR	Dasar pelacur Kalau ngetwet jangan asal jeplak
+P_0733	PR	emang, kayak gembel lagi ngambek
+P_0734	PR	capek ketawa dasar bencong <haha>
+P_0735	PR	Eh bencong, tunjukin aja bukti bacotan lo kemaren, Emang bener² bencong lo!
+P_0736	PR	dia juga pendukung si iren bencong tuh
+P_0737	PR	<haha> BENCONG. DIKATA udah MAJU, asu
+P_0738	PR	PECUNDANG !!! Gak ada kata penjara dibawah umur kalo buat orang kaya lo!  
+P_0739	PR	Kata lu suruh main ah perek
+P_0740	PR	Perek sia ,followers nol gitu ngaku real fans. Ngakak anjing
+P_0741	PR	gua bacanya perek bgst wkwkwk
+P_0742	PR	Meski pun lu udh pindah kerja tpi ttep aja style lu kaya perek, kasian banget jadi cowo nya...
+P_0743	PR	kapan gua pernah muja dia, muka kaya perek
+P_0744	PR	Berasa perfect lo, Perek, iya kali
+P_0745	PR	heh perek dpt salam nih. Intinya lo kalo mau ngerusak hubungan org ga usah pake pamer
+P_0746	PR	Jablay perek tuh bocah
+P_0747	PR	emang dasar kaum cabul sejati,tuh idola lu aja otak nya otak jablay melulu isi nya
+P_0748	PR	anjir jablay
+P_0749	PR	gue geli anjing, kayak jablay
+P_0750	PR	DASAR JABLAY DALAM BENTUK LELAKI
+P_0751	PR	Jablay lu, ajarin lah 
+P_0752	PR	yah nama sekolah gua aja salah dasar babu
+P_0753	PR	<ih> dudul, dasar babu durhaka
+P_0754	PR	yeu ya ucapin jugalah, Bukannya ngasih makanan dasar babu dudul
+P_0755	PR	Ih bodo amat deh ya dasar babu ku
+P_0756	PR	Cebong memang tak berotak, Dasar babu babi
+P_0757	PR	anjeng babu, kaga sah lah itu
+P_0758	PR	Begitu pangsiyun lalu ngangkutin barang2 inventaris rumah dinas.  Dasar cecunguk Candi Hambalang...
+P_0759	PR	bikin sendiri dong, babu
+P_0760	PR	pergi kau homo
+P_0761	PR	Emg kyk sapi, homo lg
+P_0762	PR	pas cecunguk itu masak, pasti jadi arang semua itu, kayak tungkunya
+P_0763	PR	cecunguk
+P_0764	PR	Pencitraann, cecunguk
+P_0765	PR	Dih? GW YANG KESEL DAH UDAH SALAH MALAH NGOMELIN ORANG, DASAR CECUNGUK.
+P_0766	PR	tawa lu, cecunguk
+P_0767	PR	Cecunguk, kalo ga mau ketularan bodoh, gak mau ikutan malu, mending keluar
+P_0768	PR	kyk punya privasi aje lo cecunguk
+P_0769	PR	milih ketua kok yg jd cecunguk partai, malu2in almamater cuy
+P_0770	PR	Dasar cecunguk satu satu itu, cuma cuci satu gelas dan piring saja banyak alasan
+P_0771	PR	emang siapa kamu koq pake ngancam2 fb..dasar cecunguk dongok bin goblok
+P_0772	PR	dasar cecunguk cecunguk menyebalkan, pergi kalian nanti gue gak keliatan
+P_0773	PR	manusia cunguk
+P_0774	PR	kalo udh kalah telak begini jawaban nya,dasar cunguk!
+P_0775	PR	cunguk partai2 ambisius haus tahta gk prnh mentingin generasi
+P_0776	PR	makasih, cunguk
+P_0777	PR	berisik cunguk
+P_0778	PR	heh cunguk, gue udah tau mukanya <haha>
+P_0779	PR	Berisik lu cunguk, ga usah bahas lagi lah
+P_0780	PR	Bacot aja lu gedein cunguk
+P_0781	PR	Keliatan dari bahasanya..dari golongan onta mesum nih cunguk
+P_0782	PR	lama amat cunguk balesnya
+P_0783	PR	Kan itu di atas foto gua dua, biji cunguk.
+P_0784	PR	teman macam apa kamu cunguk
+P_0785	PR	WOY MALING LU DASAR ADEK GATAU DIUNTUNG ASTAGA TAGIHAN GUA BERAPA INI
+P_0786	PR	Dasar Cina kafir maling pula , habis dapat uang kabur dah pulang kampung , negara orang lain buat sasaran nggarong , nggak tahu malu
+P_0787	PR	Dia yg korup sebut orang.lain!dasar maling teriak maling!
+P_0788	PR	BALES WOY MALING!!!!
+P_0789	PR	dasar pecun, masuk loe pada
+P_0790	PR	SETAAAANNZ!!!!!!! DASAR PECUN!!!!!!!!!!! MASIH AE LO GATEL !!!!!! DASAR TETEK ITEM DAKIANLO!!!!!!!
+P_0791	PR	bisanya cuma nyinyir doang, dasar pecun
+P_0792	PR	penipu mah penpu aja, udah dp malah kabur, dasar pecun
+P_0793	PR	Dasar satpam bencong merangkap pecun !!
+P_0794	PR	Loe kaga nyambung,,knp bawa2 pecun dasar otak DANGKAL loe
+P_0795	PR	oi anjeng lonte blokir akun gw dasar pecun perek memek bau
+P_0796	PR	Hei PECUN, berani2nya kalian PECUN nyamar2 dan masuk ke sistem hp ku
+P_0797	PR	screenshoot hp ku kalian hapus bbrp, dasar lonte.
+P_0798	PR	kamu stalk saya, mau cari apa? Cari maut? Pergilah mampus. Dasar  sundal.
+P_0799	PR	ni menyusahkan lagi hidup aku. dasar sundal!
+P_0800	KD	Harusnya dia mundur aja. Dasar tolol tu orang.
+P_0801	KD	Ga lucu goblok
+P_0802	BE	Selalu kesel sama yang ngira gw bisa ini bisa itu. Tokai
+P_0803	BE	Gak professional banget Bea Cukai Tokai.
+P_0804	KD	Muka kaya jembot so"an lu kampang
+P_0805	BE	situ waras tong ?
+P_0806	KD	PEMBUNUH DASAR ANAK HARAM
+P_0807	KD	Dasar bloon, kampanye janji janji nipu doang
+P_0808	KD	dasar anak jahanam
+P_0809	KD	lagian lu kok bs nilai diri lu sendirib gak useless ama munafik? geblek
+P_0810	KD	woi pakai otak mikir ngga ada yang bisa terbang tolol
+P_0811	KD	<haha> apa cuma gue yang ganangkep ha dasar gue bego
+P_0812	KD	rapper lawas semakin real yang muda semakin bego
+P_0813	FI	kontol lirik beat ganyambung , suara juga gajelas , mending penyanyi lain
+P_0814	KD	<haha> bocah bocah tolol, cuma bisa pada ngehina. 
+P_0815	BE	rima mu kaya ampas tinja
+P_0816	KD	gila membaik lah
+P_0817	KG	sumpah keren habis lyric nya balas membalas semua sindiran cacian dan makian dengan karya yang menawan
+P_0818	KD	lagu ngga enak di dengar intinya goblok fuck
+P_0819	BE	lagu sampah
+P_0820	HE	nyanyi apa ngomel ngomel asu
+P_0821	KD	gila gila keren kali
+P_0822	BE	cari ribut biar naik nama , ampas
+P_0823	FI	apaan kontol rap apaan ini
+P_0824	KD	dasar gila loe goblok leks
+P_0825	HE	<haha> kita nafsu banget anjing
+P_0826	HE	bisa diem, anjing, di tempat
+P_0827	HE	gue mau di belakang-belakang aja, ngga mau maju, anjing
+P_0828	HE	aduh gue udah mati empat kali NYET
+P_0829	HE	babi salah
+P_0830	KD	dasar nafsu bangsat
+P_0831	BE	tokai atas ngga bisa
+P_0832	KD	jahanam, kesel, mati lu
+P_0833	HE	ih tunggu gua jing
+P_0834	KD	bloon, udah ngejar orang, mati pula
+P_0835	BE	<haha>oon tai
+P_0836	KD	lu orang ngga usah lapor-lapor gua oon
+P_0837	KD	Emang geblek bocah ini
+P_0838	BE	bru punya hp bukan tai?!
+P_0839	HE	lo kalo ngerasa lo cwok jgn omongin org dri blakang,sene ngomongin gw dri depan bangsat!!! 
+P_0840	BE	ngomong dri blakang, sampah lo jing...
+P_0841	HE	kalau bingun mau pelihara anjing karena agamanya, mending pelihara teman yang kaya anjing saja suruh jagain rumah atau buat teman bermain
+P_0842	BE	Di akhir-akhir jadian, dia maen game ol terus, cuekin gua. Ee
+P_0843	HE	kalau mnurut gue ituh krennya drimna sih njink njink
+P_0844	HE	loe juga memang mirip anjing hahhaha dasar anjing loe
+P_0845	HE	ngomong apa loe itu monyet, babi muka loe
+P_0846	HE	loe aja yang jadi anjing, najis, dkt anjing seperti loe
+P_0847	BE	akhir nya loe sadar juga kalau loe itu memang ampas
+P_0848	BE	pemerintah yang bodoh atau gimana ini ngga ada yang tindak orang bgini
+P_0849	PR	<hah> balikin dong dasar copet
+P_0850	PR	Dasar jiwa copet, dompet di rumah aja dijarah
+P_0851	PR	dasar copet, ada peluang ya ambil lah
+P_0852	PR	kasian masih kecil udah dikeroyok dasar copet
+2 bintang ilang gara2 temen afk. Kampang asu...
+kampang gue ngakak baca nya seru dah seneng gue kalo liat yang ribut naikin mood
+kampang, awas gajia loe ngaret
+palingan kebetulan doang, kampang
+ya janganlah kampang
+emang kampang tuh orang
 
-Galucu goblok
-
-Selalu kesel sama yang ngira gw bisa ini bisa itu. Tokai
-Gak professional banget Bea Cukai Tokai.
-Muka kaya jembot so"an lu kampang
-situ waras tong ?
-biar rasah di penjara seumur hidup mampus kau anak lonte
-Dasar banci lo, ditantang buat bahas aja ga berani!
-PEMBUNUH DASAR ANAK HARAM
-
-
-P_0311	FI	dasar anak jahanam
-P_0306	FI	Dasar lonte khilafah padang pasir
-
-P_0307	FI	Ya ada lonte mcm kau hak gue dong komen
-P_0308	FI	lagian lu kok bs nilai diri lu sendirib gak useless ama munafik? geblek
-
-DASAR LONTE RUMAH BORDIL USAHA DAN PEKERJAAN KELUARGA KALIAN.
-
-Cari kerja sulit, merantau kemanapun d buru, tidur tak tenang, lbh baik mati saja
-Anjing pembunuh bacah inggusan
-
-woi pakai otak mikir ngga ada yang bisa terbang tolol tolol
-<haha> apa cuma gue yang ganangkep ha dasar gue bego
-
-rapper lawas semakin real yang muda semakin bego
-si yanglek bego
-dasar goblok bilang fuck hip hop
-
-kontol lirik beat ganyambung , suara juga gajelas , mending penyanyi weli
-
-
-<haha> bocah bocah tolol cuma bisa pada ngehina , loe kalau mau jatuhi dia balas dengan karya , bukan bacotan sampah , becareful wht ur ask , u just might get itu , gue balance , cuma kocak aja lihat orang orang
-rima mu kaya ampas tinja
-gila membaik lah
-
-bagaimana ngentot masih mau ngatain abang lex mikir dulu dh kalau mau nge judge
-sumpah keren habis lyric nya balas membalas semua sindiran cacian dan makian dengan karya yang menawan
-lagu goblok fuck you ngga guna
-lagu ngga enak di dengar intinya goblok fuck
-lagu sampah
-nyanyi apa ngomel ngomel asw
-
-gila gila keren kali
-young lex ngga bego young lex itu hebat dia terke karena berusaha dia sendiri
-
-kelihatan banget bego nya dari lagu lagunya lagunya
-cari ribut biar naik nama , ampas
-fyck you orang indonesia
-apaan kontol rap apaan ini
-dasar gila loe goblok leks
-loe itu homo gila
-<haha> kita nafsu banget anjing
-bisa diem anjing di tempat
-gue mau di belakang-belakang aja, ngga mau maju anjing
-gue udah mati empat ngentod, anjing
-aduh gue udah mati empat kali anjing
-
-
-
-anjing salah
-dasar nafsu bangsat
-anjing atas ngga bisa
-anjing, kesel, mati lu
-mampus lo nyia2in cewe kaya gue anjing
-
-
-
-Kata monyet sandiaga uno , macet berkurang 80%
-ih nunggu gua jing
-anjing udah ngejar orang, mati pula
-<haha> tai
-lu orang ngga usah lapor-lapor gua anjing
 
 
 
 
 
 
-
-bwat yang nulis: gak usah macem2 klo berani berantem u ma gw gak usah cemen pke surat segala kyak banci aja hahahaha 
-bru punya hp bukan tay?!
-
-lo kalo ngerasa lo cwok jgn omongin org dri blakang,sene ngomongin gw dri depan bangsat!!! ngomong dri blakang kyak doggie style sampah lo jing...
-jadi pengn bli anjing bneran, soalnya sudah bnyak tmn tmn yang seperti anjing
-
-kalau bingun mau pelihara anjing karena agamanya, mending pelihara teman yang kaya anjing saja suruh jagain rumah atau buat teman bermain
-Di akhir-akhir jadian, dia maen game ol terus, cuekin gua. Ee
-kalau mnurut gue ituh krennya drimna sih njink njink
-bagus judulnya sama kaya yang nyanyi, sama sama anjing anjing
-loe juga memang mirip anjing hahhaha dasar anjing loe
-ngomong apa loe itu monyet, anjing muka loe loe
-yang ngefans sama cecunguk ini hanyalah orang orang awam
-
-loe aja yang jadi anjing najis dkt anjing seperti loe
-akhir nya loe sadar juga kalau loe itu memang anjing lex
-pemerintah yang bodoh atau gimana ini ngga ada yang tindak orang bgini
-kalau rapper asli indonesia bikin lagu ada bangsat fuck anjing langsung di kritik tapi kalau dengar musik lain yang sama sama boomingnya dan bukan buatan indonesia meskipun ada kata kata fuck
-nama hewan dipakai untuk mengejek sesama manusia
-
-
-oke gue artiin anjing itu sama seperti loe
-gimana caranya anjing
-
-
-kalau buat judul yang benar njin
-judul yang bodoh <haha>, itukan editan bukan sulap tolol
-<haha> fuck banget, yang ini bikin ngakak
-abang radit stand up comedy nya keren banget sumpah
-
-sutradara bilang kampret loe
-
-
-lucu banget sumpah
-ada 1 orang nyelonong dari arah lampu berikutnya , hampir tabrakan <haha> itu orang malah senyum senyum , aku teriakin dia jancuk
-hoax loe tong
-semua anjing itu gabakal jahat sama majikannya , goblok
-loe kok nyolot si anjing ?
-
-
-semua anjing itu bahaya kalau tidak ada majikannya , jangankan anjing harimau aja jinak kalau di pelihara dari kecil , manusia juga gitu , kalau ngga didik dengan benar akan seperti anjing ,
-
-
-Udh gk guna lagi lu hidup di dunia.... DASAR GOBLOK!!! SINI P3P3K LU KEBANGKA!!
-MATI AJA LU NJING! BOCAH KAYAK LU GAK PANTES IDUP NJING..
-woyy anjing bangsat mati aja loe gak guna hidup..
- Anak kampret bocah culun ga guna lu idup.
- anak dajjal
- Murid kontol klo gua jd bapak lo gua jadiin sperma lagi lo
- NAK HARAM APA ANAK DAJAL ? 
-Kebanyakan konsumsi micin..gua gak terima fuck u
-MASI BOCAH AJA UDAH BELAGAK, BESAR MAU JADI APA??TAI SAPI YA?
-ga tau diri udah di ajarin biar pinter sma guru mlah ngebunuh guru..biadab
-biadab penjara tempat yg pantas untuk mu
-Pembunuh edan, mampus edan
-Emang, dasar Anak perampok n pelacur
-Lu sadar gak sih bego -_- bunuh guru sndiri , lu pinter bisa baca gara" guru cok bangsaty
- Dasar banci njeng
- Dasar banci njeng
- Adrian Fadhly Hidayat Eh bocah kontol , Ribut Yok ! 
- Anak mane lu kontol.. gw pengen matiin lu.. guru lu matiin .. nyawa harus dibayar nyawa...
-  anak haram,Ibunya juga sering di entod sama dia
-   bangsattt nihh bocaahh, ngebunuh org ampe mati, ga bakal tenang hidup lo seumur hidup..
+----Film
+Raid_205	Bangsat itu pasti bakalan ngebelah gue.
+Raid_221	Tutup mulut, bangsat! Kau mau mati sekarang, hah?
+Raid_245	Cepat cari yang benar, bangsat!
+Raid_282	Dengarkan, bangsat!
+Raid_382	Tu bangsat nyeret dia sepanjang lantai kayak binatang.
+Raid_462	Bangsat, anjing! Kenapa?!
+Raid_444	Siapa anjing yang ngobrak-ngabrik gue dan kerajaan gue?!
