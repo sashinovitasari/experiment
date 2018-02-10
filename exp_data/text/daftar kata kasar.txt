@@ -1,6 +1,8 @@
 KD = 130
 	goblok
 	bego
+	oon
+	bloon
 	tolol
 	berengsek
 	keparat

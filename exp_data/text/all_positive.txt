@@ -1,0 +1,1107 @@
+-	KD	"goblok_1 , pelaku kok bisa sampai dikasihani"				
+-	KD	"dasar bego_1 , orang politik kalau disuruh mikir ginian pasti jadinya bobrok"				
+-	KD	"tolol_1 memang , sudah tahu dipanggil kpk malah datang wawancara"				
+-	FI	"<heh> ngentot_1 , otak ngga ada , tapi mau hidup enak , pergi mati sana"				
+-	FI	"pulang anjing_1 , beraninya buat onar saja , punya kontol_1 dasar"				
+-	BE	"mati aja , tai_1 memang"				
+-	BE	"alasan tai_1 , dimana-mana orang kerja yang berhak atas hasil kerja kerasnya"				
+-	BE	"muka kayak tai_1 , banyak omong"				
+-	HE	"jijik , sudah ngga ada bagus-bagusnya , negatif semua <hehe> anjing_1"				
+-	HE	"orang ini sih orang bangsat_1 , mulutnya bangsat_1 , hidupnya bangsat_1"				
+-	HE	"kampret_1 , anggota dpr ganti logo demi ke luar negeri"				
+-	MH	"manusia sampah , setan_1 , iblis_1 , anjing_1"				
+-	MH	"dasar setan_1 , mereka mau memeras rakyat saja"				
+-	MH	pernyataan iblis_1 sudah dijadikan sebagai dasar penangkapan ini 				
++	AK	"diancuk_1 , kok bagus ?"				
+-	AK	"rakyat tahu mana anjing_1 , mana kucing , mana wanita jalang_1 , dan mana perawan"				
+-	AK	"onta cabul didengar , tolol_1"				
+-	PR	cuma orang goblok_1 yang mau saya dengar omong kosong bajingan_1				
+-	PR 	<haha> keluarga pelacur_1				
+-	PR	dari omongan mulutnya  sudah dapat menilai kalau orang ini memang bajingan_1				
+-	KD	"<eh> bego_1 , emang itu wajar?"				
+-	KD	yang geblek_1 yang nyusun kurikulum apa mendiknasnya ?				
+-	KD	"mahasiswa kok brutal , tolol_1 amat jadi mahasiswa"				
++	FI	pepek_1 anjing_1 kamu				
++	FI	"SOK GANTENG , KONTOL_1 ! SOK SERU ! NGAPAIN RAMBUT DI UNGUIN KAYA UBI UNGU"				
+	FI	"orang itu kayak kontol_1 , drama mulu kayak korea"				
+	BE	"daripada apartemen dodol_1 , mending beli meikarta , lebih murah"				
+	BE	"keren ! tidak seperti napi bangke_1 itu , yang bisanya cuma ngusir rakyat sama korupsi"				
+	HE	"kampret_1 , ketipu . katanya dapat rumah tapak taunya rumah susun"				
+	HE	"nah , sudah dibuktikan kalau mereka pasukan babi_1 yang suka nyinyir"				
+	HE	"ini nih muka pantat_1 monyet_1 , enek banget lihat muka dia !"				
+	MH	setan pasti kaget lihat orang lebih setan_1				
+	MH	"siapa yang milih setan_1 macam ini ? ya tuhan, semoga dia diberi kesadaran"				
+	MH	ormas setan_1 mah ngga usah dianggap				
+	AK	"<ah> asu_1 loe semua , yg komen ngentot_1"				
+	AK	"ngentot_1 , lagu apaan nih"				
+	AK	"jancuk_1 , ngga mendidik"				
+	PR	cewek-nya kayak lonte_1 murah itu				
+	PR 	ini yg cewek model-nya kayak jablay_1				
+	PR	"TATOAN KEK KURAP , MALU <OI>. BANGGA loe JADI ANJING_1 , BAJINGAN_1?"				
+	KD	"kumpulan manusia berengsek_1 , punya pikiran ngga dibenerin"				
+	KD	"memang ada gitu , keparat_1 yang bersih dari korupsi ?"				
+	KD	"Banyak Gaya , Merusak Negara , sana mati_1 aja !"				
+	FI	"kaya pernah solat aja loe , kontol_1 . omongan loe sok suci , memek_1"				
+	FI	"ganjen , sukanya pepek_1"				
+	FI	"Tolonglah rapper macam apa ini, ngga nyambung peler_1"				
+	BE	"Lu emang ngga ngejar rating, tapi loe ngejar viewer ! sama aja , dodol_1"				
+	BE	"yang komentar kayak tai_1 semua , jancuk_1 anying_1"				
+	HE	"Gue mau balik , kampret_1"				
+	HE	<hahaha> lucu deh kaya bayi bagong_1				
+	HE	"TAI_1 , gara-gara haters jadi disensor , BANGSAT_1"				
+	MH	"ini video tak punya iman , lagunya para setan_1"				
+	MH	Mirip malaikat ? kayaknya loe mirip setan_1				
+	MH	ngomonya dijaga loe iblis_1 kabur dari neraka !				
+	AK	"lagu ngga jelas , ngajarin anak ngga benar , ngentot_1"				
+	AK	"anjir_1 , muka loe muka cabul_1 gitu loe bilang mirip malaikat"				
+	AK	"<wah> , udah kayak paling jagoan aja , diancuk_1"				
+	PR	"gembel_1 , backsound ngikutin punya gue"				
+	PR 	banci_1 banget sih gini aja ngga bisa				
+	PR	yang nge-like video ini anak alay kayak perek_1				
+	KD	"Gila_1 , sudah 4 bulan lebih album ngga ada kabar"				
+	KD	"bego_1 , fokusnya parah banget sih"				
+	KD	"super tolol_1 ,  semua anjing ngga akan jahat ke majikannya , bahkan cenderung melindungi , dia adalah hewan paling setia"				
+	FI	"omong sampah anjing_1 , kamu itu mulut vagina_1"				
+	FI	Dasar pelacur vagina busuk mulut kelakuan loe sprti kerja lu pelacur vagina busuk				
+	FI	"dasar MULUT BENCONG, gak malu apa"				
+	BE	"<ah> kabur pula dia, bangkai bangkai"				
+	BE	Terima Pacar Apa Adanya ? Tai				
+	HE	"babi_1 , loe udah dapet duit , ngentot_2"				
+	HE	"kita pernah main bareng , anjing"				
+	HE	"<heh> loe liat darah gw , anjing_1"				
+	MH	"IBLIS itu PEMFITNAH , jadi ya memang orang itu IBLIS"				
+	MH	Iblis_1 disucikan pendukung nya				
+	MH	"FUCK_1 YOU CEWEK IBLIS_1 , loe TUH TOLOL_1 , CUMAN GUE BOHONGIN DOANG! "				
+	AK	ngga usah ngatur-ngatur ngentot_2				
+	AK	"ngentot_2 lah, loe bales sebentar hilang lagi"				
+	AK	"bilang, loe yang cupu ngentot"				
+	PR	Eh lupa dah ada nama kau aka dajjal				
+	PR	"Goblok_1 loe ye dasar Dajjal, yang omdo itu situ"				
+	PR	Dajjal satu ini  ga mati-mati kapan di tabrak mobil..				
+	KD	promotornya tolol banget				
+	KD	"yang bilang dia pintar , orang goblok"				
+	KD	"orang goblok, editan dibilang sulap"				
+	FI	fahri anjing kontol asu emaknya jablay				
+	FI	pukimak nya kau setnov anjing				
+	FI	mas alek puki babi				
+	BE	"bangke, bangke , sama aja"				
+	BE	"tai_1 bocah bangsat_1 , gandeng amat sih"				
+	HE	"ASU BANGSAT ANJING , GW LAPORIN POLISI MAMPUS LO BANGSAT KEPARAT!!!!"				
+	HE	hilang ngantuk aku. dasar monyet.				
+	HE	LAH KAMPRET. Tapi iya sih.....				
+	MH	"hebat apa fpi , coba aja lho macam macam gue kuliti lho anjing , setan"				
+	MH	mereka manusia setan munafik				
+	MH	"anak setan, orang tuanya juga setan. "				
+	AK	"Dasar kafir anda, Dajjal yang berpakaian seperti ustadz, goblok, fuck you"				
+	AK	Idiot lo ngentot				
+	AK	Bocah kontol di didik very hard hasilnya malah ngentod				
+	PR	jaga mulut kau turunan DAJJAL				
+	PR 	"anak di america sana berbuat apa mana loe tahu , lihat photo nya aja seperti jablay gitu"				
+	PR	"bacot, anak loe jelek gayanya kaya jablay"				
+	KD	sialan loe. Brengsek!				
+	KD	Kutinggalkan kota busuk ini karena tak ingin mati di dalamnya				
+	KD	Loe itu bodoh betulan atau tolol betulan!				
+	KD	<woh> jangan dikejar goblok				
+	KD	"bego, udah gue ngga mungkin menang"				
+	KD	halah salah salah aja ngapain coba bawa bawa orang tolol nih young lex goblok				
+	KD	"judul yang bodoh ha, itukan editan bukan sulap tolol"				
+	KD	yang comment goblok semua ngga bisa bedaiin edit apa asli				
+	KD	bilang lah orang gila loe kalau marah terus loe jadi tua loe gue ada buku siksa neraka				
+	KD	goblok goblok di kira edit anjir bego				
+	KD	itu bukan sulap tolol tapi edit video				
+	KD	goblok yang bilang sulap padahal ini cman editan				
+	KD	dasar bodoh itu sulap digital bro gue juga bisa				
+	KD	"eh bego loe gatau zack king sepenuhnya aja, jelas jelas dia editor terhebat"				
+	KD	gila editnya sangat menghibur				
+	KD	gila mantap banget				
+	KD	"btw, goblok loe"				
+	KD	ngga kerja karena cuma mau ngatain orang goblo <haha> tai banget loe abang <haha>				
+	KD	"<haha> pernah abang , pas angkot lagi rem mendadak dan saya di belakang sambil nyetir motor dan saya berkata goblok loe"				
+	KD	"<haha> goblok banget, ngakak anjir"				
+	KD	bego nih adminnya				
+	KD	"adminnya ngga tau apa apa tentang anjing , karena kehabisan hal yang harus di upload jadi nya sok tahu , tolol"				
+	KD	husky ngga berbahya goblok				
+	KD	anjing anjing goblok najis				
+	KD	anjing ini pecah <haha> goblok loe				
+	KD	dasar orang orang tolol loe semua ngehujat logan malah bikin dia lebih famous dasar micin				
+	KD	"Goblog lu anjing,di kasih ilmu gk berterimakasih malah di kasih Kematian"				
+	KD	demi viewers ngelakuhin hal tolol				
+	KD	bodoh kok terkenal ?				
+	KD	yang lebih tolol itu yang ngelike				
+	KD	sudah jelek bego lagi				
+	KD	terlalu banyak orang goblok di dunia ini				
+	KD	logan sama jake sama sama goblok				
+	KD	"orang dungu, di amerika ada mecin ngga ya ?"				
+	KD	anggota dprd nya pada goblok				
+	KD	"Habib lo ngotorin negara dgn tungkah bejat, cabul dan preman nya."				
+	KD	"Maaf by, aku hanya ingin kamu berwaspada kepada oknum oknum bejat"				
+	KD	BEJAT BIADAB BAJINGAN MENJIJIKAN				
+	KD	"kata katanya bijak, kelakuannya bejat!!!"				
+	KD	anda emang hebat				
+	KD	MUSNAH KAU MANUSIA BEJAT				
+	KD	yang bunuh guru mah emang bejat level atas				
+	KD	pencitraan tai				
+	KD	Sok polos anjir padahal aslinya bejat.				
+	KD	PANTESAN MULUTNYA KAYA ORANG KAFIR BEJAT HINA				
+	KD	tapi masih aja ada kecebong kontol yang masih nyari kesalahan kesalahan				
+	KD	ini juga sama brengsek nya				
+	KD	Kau tau sebutan apa yg pantas untukmu? Yap! Brengsek				
+	KD	ini orang emg brengsek pura-pura ngga tahu apa-apa				
+	KD	"ohh, ini toh orangnya penyebar hoax itu yah.. brengsek !!"				
+	KD	Gak ada mantan yang baik. Semua mantan brengsek				
+	KD	Ngapain lo tangisin cowo brengsek pengecut banci				
+	KD	"Brengsek, intronya, kayak film horor."				
+	KD	PRESIDEN.. BAGUS DAH.. BIAR RAME NIH INDONESIA SAMA ORANG2 GUOBLOK				
+	KD	Brengsek Btul La Menurun Lagi				
+	KD	"reporter sialan, tak beradap, tak beretika, tak diajari sopan santun.brengsek."				
+	KD	Siapa yang gak berani bilang kalo mereka itu KEPARAT?				
+	KD	"Emang keparat nih bapak-bapak terhormat kita, ngewakilin siapa sih lu pada?"				
+	KD	Alumni 212 memang keparat				
+	KD	Jerawat oh jerawat kamu sungguh keparat.				
+	KD	ANJING KAU HASTO MANUSIA KEPARAT NEO PKI KEPARAAAAATTT PDIP ANTEK ANTEK PKI KEPARAAATTT				
+	KD	"Memang bangke, Apa wasit keparat itu nggak tau ini udah hari senin ya?"				
+	KD	Hakim garis anjing babi setan asu monyet keparat				
+	KD	Jangan biarkan anjing2 keparat seperti itu gentayangan!				
+	KD	Bagian paling keparat dari review ini				
+	KD	GEBLEK ???? NYESEL GUE WKWKWKWK 				
+	KD	"Wkwkwkwwk dasar geblek, nyari apa ketemu apa"				
+	KD	geblek ngapain w stalk ?? bikin cemburu asu ahha				
+	KD	Geblek qkwk iklannya jam 12 malam y				
+	KD	"Geblek gua mpe sakit perut yg pas mereka naik kora"""				
+	KD	ini emang akun geblek sob				
+	KD	Geblek dasar wkwkwkw				
+	KD	HAHAH GILA itu pas kapan kok geblek banget				
+	KD	"Geblek banget barusan tiga orang dari divisiku, termasuk aku, lari-lari ke ruang kepala kantor buat minta tanda tangan"				
+	KD	Makan aja masih minta jatah orang tua....dasar geblek				
+	KD	skripsi lu buruan diselesaiin geblek				
+	KD	Wahh gila men puncak sekarang banjir				
+	KD	gila sakit banget <woy> anjing				
+	KD	AKU UDAH NANGIS KAK GILA INI 13-13NYA GAK SANTAI				
+	KD	EH GILA GUE SAMPE JERIT SENDIRI KEREN BGT INI MAH				
+	KD	DINGIN PARAH GILA DR KEMARIN HUJAN TURUN TERUS				
+	KD	"Ngehe betul ftv indosiar ini, tentang suami pemalas yg sehari-hari cuma tidur dan main game hahah"				
+	KD	aduhhhh ini sumpah keypad ngehe banget lah				
+	KD	Pengacara dari ormas abang ngehe gak turun tangan				
+	KD	"masih kzel liat match semalem, emang ngehe wasitnya."				
+	KD	NGEHE NGAPA ADA DINOSAURUS ANJENG WAK				
+	KD	anjrit pinalti lagi ngehe				
+	KD	Segini doang habis 40rb. Ngehe mahal bgt				
+	KD	Gua sumpahin peler lu bengkak wasit ngehe				
+	KD	padahal bayar tambahan tuh..ngehe lah				
+	KD	Mati ae sana lu ah :( heran kenapa skrg banyak anak sekolah yg suka nyiksa temen sekelas nya sendiri				
+	KD	pergi mati sana				
+	KD	 yg sombong dan suka unfollow mending MATI aja sana !				
+	KD	Gw cuma benci sama temen yg muka dua! Haha mati aja sana lo.				
+	KD	Mati ae lu mas				
+	KD	MATI LU CIL SEBEL GWA				
+	KD	Mati aja lu gembul				
+	KD	Sungguh kau amat bincacak				
+	KD	Buat orang-orang berkaki bau yang suka buka sepatu di pesawat/kereta: Bincacak kalian!				
+	KD	Somplak banget diaa				
+	KD	Lu juga rame somplak				
+	KD	Ini si felix kebanyakan minum kencing onta jadi rada somplak..nih.				
+	KD	Emang otak lu masih bisa dipake mikir? bukannya udah somplak				
+	KD	"lu yg somplak, baca berita aja bloon"				
+	KD	Mata lu somplak kalo gak bisa lihat pembangunan di Papua. 				
+	KD	situ pada somplak?				
+	KD	"sini mending ketemu sesama somplak biar seru, ga usah banyak tanya"				
+	KD	Hahahahanjir ga lucu somplak				
+	KD	Otak somplak bangga jd BEO DONGO				
+	KD	Dalihnya tugas dia cm kritikus tanpa harus membuktikan... Otak somplak				
+	KD	"Ini orang bercanda ga sih , kok somplak banget???!!!"				
+	KD	GUA YG MALU SOMPLAK				
+	KD	dasar stupid. lemot. bloon.				
+	KD	DASAR BLOON				
+	KD	Namamu aja bloon pret kampret.				
+	KD	Payah lu..  Bener bener bloon				
+	KD	Pacar lo bloon banget sih				
+	KD	Emang Fahrihamzah Sinting menjijikkan banget				
+	KD	Gilak! Gua jadi inget adek gua yang cowo:(((				
+	KD	"Sinting emang,percuma sekolah dek kalo ga diterapin :("				
+	KD	astaga. sinting.				
+	KD	sINTING ANJIR WOI NONTON GAK LO SEMUA				
+	KD	Hahahaha.......udh sinting ni orang				
+	KD	Sinting lu..! Dasar pendukung partai penista agama				
+	KD	OH. Sialan baru ngeh				
+	KD	"Menjauh kau dariku, sialan"				
+	KD	Baru sadar typo sialan.				
+	KD	ADUH SAKIIT JANGAN DICUBIT DONG SIALAN—				
+	KD	hacker sialan emg				
+	KD	SIALAN APA APAAN INI				
+	KD	bego yang buat video				
+	KD	tolong jangan bego				
+	FI	Kontol anjing tim diving				
+	FI	"YA BERARTI BUKAN MACAN DONG NAMANYA, KONTOL"				
+	FI	"Kontol lah sinetron Indon ni, Lebay."				
+	FI	Dasar makhluk Tolol pemakan Kontol				
+	FI	DASAR MANUSIA HINA!! mukamu itu mirip Kontol Kuda!!!				
+	FI	jangan pernah menjadi bangsat dengan masih aja ngebut diatas genangan air padahal di samping kalian banyak pengendara lain. Kontol lu semua				
+	FI	Lebih tepatnya wasit titit gan				
+	FI	"tu orang cukimai pisan, ga bemodal apa ga mao kluarin modal"				
+	FI	Pendapat cukimai kek elu koq di dengar? Goblok lu! Sini gw injak lu				
+	FI	"XL di Batam tembus 50 MB/s, sampai di rumah, area Tangerang, cuma 1 MB/s. Cukimai..."				
+	FI	Ah dasar lu puki minion! Giliran udah kejadian aja baru deh ke gue! Cukimai loooo!!!!!				
+	FI	"justru kalian yg menamakan golongan atas kelakuan juga cem bangsat, cukimai semua, real perampok..."				
+	FI	Cukimai simulasi kampret				
+	FI	 Cukimai nih yang bikin hestek. Tolol!				
+	FI	"Bosan lht orang""yang macam pukimai begini "				
+	FI	ANJING BABI SETAN BANGSAT MONYET SIALAN CUKIMAI PUKIMAI ERA GHIONA MOMOK BANGSATTTTT				
+	FI	TAII BGTTT ARRRKKK PIKIRAN GUA MAKIN BERCABANGG BANGSATTTTTTTTTTTT!!!!!!!!!				
+	FI	Kalau kalian terus menerus memainkan isu agama hanya dengan tujuan menimbulkan keributan maka kalian memang asu bajingan pukimai.				
+	FI	"Eh @roninkhalid pukimai kau, jangan kayak taik kucing kau bacot "				
+	FI	Puas hati sudah kah hah cibai?				
+	FI	"murid yang otaknya isi tai kuda ini, kontol !"				
+	FI	"Tak percaya aku , memang kimak lah, sial"				
+	FI	"Kimak, hari itu disuruh buat yang lain "				
+	FI	"babi kau udah janji kan, kimak"				
+	FI	"kasar kali, kimak"				
+	FI	"orang ini 2 tahun pendam rasa suka, macam kimak."				
+	FI	ngomong apa si loe pentul kontol				
+	FI	lek pakai autotune biar suara loe bagus kontol sampah tua serek				
+	FI	biji kontol meledak suara loe jelek loe kaya pantat tolol goblok anjing				
+	FI	lek pakai autotune biar suara loe bagus kontol sampah tua serek				
+	FI	sampah sekali kontol suara loe				
+	FI	biji kontol meledak suara loe jelek loe kaya pantat tolol goblok anjing				
+	FI	"berkarya terus kakak , tetek manis berkati kakak selalu"				
+	FI	Anjing menggongong berarti lapar...pukimai lu LBP				
+	FI	Direstart ternyata gak ke save. Pukimay ha ha				
+	FI	"Ini sinyal pas gue mau tidur jadi bagus, Pukimay."				
+	FI	Pukimay kau penjahat kelamin!??				
+	FI	Tiang listriknya kecil begini. pukimay memang 				
+	FI	Ha-ha-ha..klu ga bermuatan politis. pelakunya ga dikejar ya.. Pukimay kalian				
+	FI	Dari mata turun ke hati tapi mata hati liat2 isi dompet hahah pukimay				
+	FI	"Cukimak lu org, tolong tau diri, makasih"				
+	FI	pelacur murahan semua cukimak ngentottt loe pada				
+	FI	Memek loe murah ametttt				
+	FI	Cukimak lampu gak nyala nyala				
+	FI	cukimak betul bocah zaman skg..pakai speaker pasar malam pun jad				
+	FI	"byk protes n byk bacot lu,, kayak elu tu bs apa dpt medali di olimpic, dsr ukimak"				
+	FI	"bisa banget ya ngelawa, Ajari saya lah, pepek"				
+	FI	Anak ga punya otak yg bersembunyi di balik baju koko & pecinya... Bangsaaaattt !!!!				
+	FI	"Heleh kontol kamu, eh saya ngomong kontol astagfirullah"				
+	FI	"anjing ngentot tetek bangsat , ini expresi gue saat nonton video ini"				
+	FI	dasar kontol sapi				
+	FI	muka ini bocah seperti kontol onta				
+	FI	"kontol lu, sini gue injak injak"				
+	FI	itil loe ded				
+	FI	peler loe rap				
+	FI	kimak lah rap kok gitu				
+	FI	fadli kontol ibaratkan patrick didunia nyata betapa bodoh dirinya sampai tempurungnya berdebu				
+	FI	kangen unjuk rasa sama abang adian lagi zaman forkot tetek				
+	FI	kalau gabisa cerdas mending diem peler daripada ngomenin gajelas terus salah				
+	FI	halah peler				
+	FI	"babi , kimak itu semua akibat lingkungaaan dn lps kontrolnya ortu"				
+	FI	Berisik silit.				
+	FI	polos-polos pukima				
+	FI	sebelum si toke ini muncul dan boom sebelum ini juga anak kecil ngomong kasar anjing babi kaya gitu sudah banyak				
+	FI	"Lu yang geblek, dasar silit hanoman."				
+	FI	Alesan lu silit. Putus pertemanan aja kita jink				
+	FI	Silit....!!! Pemimpin kok begini				
+	FI	"eh itil kodok, daerah gue udah bebas banjir 3 tahun belakangan, ini malah jadi banjir lagi "				
+	FI	titit kuda ngomong doang				
+	FI	Wifi kyk silit				
+	FI	Titit lah off aja kalo gitu				
+	FI	Emabg dasar pepek lu				
+	FI	"Bacot lu pepek, dasar pepek"				
+	FI	"Cepat mati, dasar koruptor pepek"				
+	FI	si biji peler sensitive manggilin semua pasukan				
+	FI	"baru di labrak lewat ig aja ciut, peler"				
+	FI	"Ye bukan gue peler, lagian ngarep banget si haha"				
+	FI	Otaknya mungkin ketuker sama biji peler :')				
+	FI	"Anak lonte anjeng lo kontol memek, babi, tai kontol"				
+	FI	ANJING LOE KONTOL BABI				
+	FI	"KONTOL LU ANJING, ngga bisa gini lah caranya"				
+	FI	anak tai muka anjing pantat babi				
+	FI	"murid kontol , ngga punya otak ngga pantes loe di indonesia , "				
+	FI	main twitter buat apa pantat				
+	FI	hahahahaha pantat betul laa gemok nihh				
+	FI	"Eh pantat panci, ga semua agama itu ribut ama kita"				
+	FI	maxis line memang bagus tapi harga macam pantat				
+	FI	"Pantat, gaji pemain tinggi banget, sial"				
+	FI	"Eh anjing, emang u yg ngasih makan, dasar muka ITIL"				
+	FI	"biji kuda, kenapa ngga bisa ya?"				
+	FI	"pimpinan pilihan lo cuman bisa ngomong sama nyuri, dasar peler onta."				
+	FI	si biji peler ini langsung deaktif/ngapus akun tuiternya				
+	FI	"Receh loh,  dasar biji."				
+	FI	Kan segrup sama gua. Dasar biji				
+	FI	ga bole berkata kotor dasar lu biji pel er				
+	FI	DASAR MAFIA ITIL KAU PAH				
+	FI	ah dasar itil kuda				
+	FI	"DASAR ITIL JADUL, MUKA lucu gini gini DISAMAIN SAMA PANTAT ?"				
+	FI	Anjing bangsat ! Keparat lu				
+	FI	Aatagaaaaaa manusia keparat !!!! Ternyata akunku di kloning orang sinting bani pipis onta....				
+	FI	Sesungguhnya; Cinta itu amat keparat Ditunggu rasanya penat Dikejar pastinya tak larat				
+	FI	keparat bin keparat				
+	FI	aparat jangan kalah dengan keparat				
+	FI	"Keparat tuh pelakunya!!! Ora tua di gituin, sialan"				
+	FI	keparat... spy kejadian ini memperkeruh suasana di prov.jabar.				
+	FI	"TERIMAKASIH YA CUK SDH ADA METROMINI, KOPAJA, OJOL & MODA YG LAIN2 JAKARTA DA MACET PARAH TAMBAH LAGI BECA ""WELCOME TO JAKARTA"" MANTAP LOE KEPARAT...."				
+	FI	Keparat. Untung gambar gue kelar ya.				
+	FI	Karakter keparat warisan dari generasi sebelumnya.				
+	FI	cibai betul umur 25 pun masih terkena dengan iklan ini				
+	FI	"Babi, stress lah, cibai"				
+	FI	"Eh belum keluar lagi,cibai"				
+	FI	"Tadi aku mati 2 kali kena bom, cibai"				
+	FI	"Cibai, aku ga akan ketipu lagi <haha>"				
+	FI	"Capek banget kerja hari ini, macam cibai"				
+	FI	Dasar lu muka memek				
+	FI	"Emang dasar memek lonte, cuman bisa ngomel mulu"				
+	FI	"udah ngele, berkoar koar lagi, dasar mulut anus"				
+	FI	"bisa lah, knp kaga bs. Dasar pentil badak"				
+	FI	SUKA GATAU DIRI DASAR ANUS				
+	FI	Dasar muke anus ngemeng asal ngejeplak aye.				
+	FI	"Kalau cuma mau liat air sedangkal itu dan kabel, sambil berdiri juga bisa... dasar anus"				
+	FI	anus kodok dasar				
+	FI	Dasar otak brengsek.mulut kyk anus ngomong persatuan tp mulut sdri memecah belah persatuan gubenur brengsek				
+	FI	Ngomong apa sih Anus? Agama lu ga memiliki dasar bukti.				
+	FI	Gak dukung lgbt dibilang ujaran kebencian. Dasar pecinta anus				
+	FI	"Dikasih tau yg benar malah nyelak lu tong,dasar bani Anus"				
+	FI	"Dasar mulut kya anus, Klau ngomong asal jeplak !"				
+	FI	"dasar silit, pasti baper nih org"				
+	BE	Iya allah so ganteng bgt maneh taiii				
+	BE	"lo ga usah bohong lah bangke , "				
+	BE	lagu tai ngga pernah naik kelas nih orang				
+	BE	"Mukan tai, gua serius"				
+	BE	"lah anjing ngelag, kesel, tai emang"				
+	BE	"tai, diem, gue udah dikasih tau"				
+	BE	aduh tai lah gimana gue				
+	BE	"anjing, youtube harus bayar, tai"				
+	BE	jago ya? tai				
+	BE	tai soalnya banyak banget				
+	BE	BOCAH TAI SAPI..KURANG DI AJAR KALI...MAKANYA KURANG AJAR BANGET.				
+	BE	"bangsat, baru kali ini gue ngakak lagi nonton stand up, bangke loe bang"				
+	BE	gokil bangkai abang <haha>				
+	BE	reza dasar bangkai				
+	BE	gayanya kaya tai si okontolvian ini				
+	BE	orang dulu bos				
+	BE	bangkai yang ngatain arap loe bisa ngga sesukses arap jangan kritik P_0346				
+	BE	Alvin bangke bikin gua panik				
+	BE	wkwkw anjir ngakak bangke				
+	BE	1jam kemudian gua kena limit dm bangke bener dah				
+	BE	"Bangke, ini keren banget"				
+	BE	ini bangke banget				
+	BE	bangke bener ya ini				
+	BE	"Lu hina Tuhan gue, siapa elu bangke?"				
+	BE	bangke ngena banget				
+	BE	wah ganteng banget bangke				
+	BE	kawk. Bangke. Yg kek gini jadi wakil rakyat				
+	BE	"BANGKE !! GUA GA MEGANG HP, MEREKA NGELIVE"				
+	BE	"Anjir, sok imut lo bangke"				
+	BE	itu sama aja dodol gaakan berhasil 				
+	BE	"gara gara struk parkir ilang, jadi denda 50ribu, bangke!!"				
+	BE	"LGBT harus dilindungi dan tak boleh didiskriminasi, lalu terbit usulan pemerintah dan dpr kriminalisasi LGBT di rkuhp. Dodol"				
+	BE	Si one dodol kmna dah 				
+	BE	"katanya mau ngebantu, tapi disuruh bayar, kan dodol"				
+	BE	Asdos asli dodol sekali				
+	BE	lu pake masker di mata?? kurang dodol apa coba				
+	BE	dasar dodol..dodol c enak nah loe?				
+	BE	"Eh jangan, gak boleh gitu dodol!"				
+	BE	Gblg gua ingetin lu dodol				
+	BE	"Macem bgini bisa BEM, anak SMP aja tau bahwa jln tol juga utk bis2 pedesaan. Otak apa dodol ya"				
+	BE	"dodol aku ketiduran dan skrg br bangun, oon banget"				
+	BE	"Anak tolol, Goblok, Bego, Mati aja lu anjing.."				
+	BE	Ehh sompret bener ni anak~				
+	BE	lah sompret				
+	BE	bosen sompret				
+	BE	Sompret emang pagi2 udh bikin kesel perkara baju ilang2an				
+	BE	Sompret susah2 gua loading				
+	BE	Lah sompret gua di block wk				
+	BE	"Halah sompret loe, di pengetahuan loe yg namanya perusahan minyak cuma 9ertamina doank,"				
+	BE	"anies ini sampah banget sih, sakit apa kek biar berhenti jadi gubernur"				
+	BE	Kemaren gue ketempat loe sompret				
+	BE	sompret jing banting terus pintu kalo bisa rusakin biar pada bayar kampret males gue				
+	BE	Cih ngatain orang lain baper. Dasar sampah.				
+	BE	"Kita selesaikan dulu tweet sampah lo ini, baru bahas lain."				
+	BE	"dasar mulut sampah lo, mending perbaiki dulu cara kerja lo"				
+	BE	lw itu cma sampah kyak anjing				
+	BE	Sampah banget mulutnya tiap liat postingan orang				
+	BE	sampah banget isi berita				
+	BE	Sampah banget ini sinyal Indosat dari kemaren..				
+	BE	KOK MASIH ADA ORANG GOBLOK YANG TEGA JADIIN ANAK - ANAK BAHAN BULLY SIH? SAMPAH BANGET ANJIR!!				
+	BE	Yanh di mention gue sampah banget dah				
+	BE	"ini berita apaan sih, sampah banget? "				
+	BE	Ah dasar  sotoy. Dialog kok di acara dis natalis.  Dasar bacot ember				
+	BE	ih kamu ya yang sebarin dasar ember				
+	BE	emang dasar ember				
+	BE	Tau ih dasar cowok ember				
+	BE	Kentut badak dasar				
+	BE	"Baru mahasiswa aja lagaknya udh tengil..udh belajar nyolong jaket yg bukan miliknya, Dasar kentut!"				
+	BE	"HADEH. BUANG JAUH JAUH, DASAR GUMPALAN KENTUT ANOA"				
+	BE	Protes mulu dasar kentut jangkrik				
+	HE	"<wah> anjing, gue yang mati ini"				
+	HE	Admin nya nyinyir terus kampret ngga ada pemberitaan yg bikin rame ya wkkwkw belegug				
+	HE	anjay :v merinding gue dia nge gas di reff				
+	HE	anjay keliatan banget				
+	HE	ANJENG NYESEL GUE BELI ALBUM DI SITU!!! FAK NYEMPLUNG AJA loe KE SUMUR				
+	HE	"anjing mahal, kesel"				
+	HE	anjinglah				
+	HE	anjir gue sering banget kalau ada yang ngeselin di jalan diteriakin goblok <haha>				
+	HE	anjir itu editan tingkat dewa				
+	HE	anjir ngakak sekali sama yang ini				
+	HE	anjrit loe abang				
+	HE	bangsat ngakak <haha>				
+	HE	"Bangsat, mati aku"				
+	HE	"beban kamu, anjing"				
+	HE	CAPS LOCK JEBOLLL asu!				
+	HE	Dimaling ASU				
+	HE	eh iya kampret bener juga				
+	HE	eh kampret bener kalo ngetik				
+	HE	"Eh monyet banci, tweet lo yg ini kapan mau dibahas. "				
+	HE	enak banget anjir gue ngakak abang				
+	HE	gak lucu kurang ajar bangsat				
+	HE	Gue serius kampret!				
+	HE	hey monyet video apa ini				
+	HE	"HP ilang, anjing.. bangsat."				
+	HE	Ini kampret sekali sih drama lift				
+	HE	itu semua sudah pernah gue rasain anjir				
+	HE	itu tugas kita anjing				
+	HE	jangan di replay tongkol tongkol				
+	HE	"jangan narik opini biar manusia benci sama anjing , dasar anjing"				
+	HE	"Jangan ngegas, monyet"				
+	HE	kampreeet sekali yang ini <hah>				
+	HE	kampret sudah banyak sekali yang bilang editan sulap ini atau mereka lagi keserupan				
+	HE	"kampret, kalo itu mah gue kenal...."				
+	HE	Klo cuman bacot gini nenek² sambil salto juga bisa Njing				
+	HE	Kok lo kampret ye jadi adek				
+	HE	"Kutu kupret , gitu mah gue juga bisa"				
+	HE	lama lama kesel juga gue anjing				
+	HE	"Masih sekolah dah ngebunuh guru, Gimana dah di real world lu kampret"				
+	HE	"Mati aja lah loe, bngst"				
+	HE	"mundur, anjing"				
+	HE	ngakak anjay lihat komentar				
+	HE	ngakak gue anjay <haha>				
+	HE	Nih orang bangsat pengin digebukin				
+	HE	nyanyi apa ngomel ngomel asw				
+	HE	"pemerintah harus tindak ini orang perusak , bangsat"				
+	HE	"senen latian g lw ? pulsa mendadak ilang , kupret"				
+	HE	Si kampret kok ujung2nya ngatain sih :)				
+	HE	wajar kasar yg dishare gituan bngst				
+	HE	walah anjing pantesan kaga klop				
+	HE	"celeng bangsat, berantem yuk"				
+	HE	"tai monyet, ribut sama gue yuk"				
+	HE	dasar anak monyet				
+	HE	bajing kenapa gue nonton video ini				
+	HE	bajingan loe semua				
+	HE	ngakak bajingan <haha>				
+	HE	"gara-gara sering nonton videonya bang reza, aku jadi ketularan ngomong kasar , kutu kupret emang"				
+	HE	jangan di like komentar gue bagong				
+	HE	asu badan seperti papan triplek mau ngajak gelut				
+	HE	"lagu nya isinya curhatan dia anjir ,"				
+	HE	anjir masi sekolah aja begayaan lue anak setund				
+	HE	anjrit nih pelakunya mnt dhukum mati				
+	HE	anjrit arap putih banget disitu				
+	HE	memang ajaran monyet tanpa etika				
+	HE	hai kpi monyet kenapa kalian mnghilangkan acara acara ini ?				
+	HE	monyet lho setan lho tai				
+	HE	Nomer lagi tokek				
+	HE	"jorok banget, tokek"				
+	HE	dasar anak tokek pagi2 udah ngakak				
+	HE	Dasar tokek! Shalat jumat dlu sana				
+	HE	"ey lu ikutin gua ye, dasar lu tokek"				
+	HE	"Bodo amat, kenapa dah ini mau sok galau. Kupret dasar"				
+	HE	lagipula itu juga bukan foto asli dasar bagong.				
+	HE	huh dasar bagong koq bs jd org DPR. Indonesia parahhh				
+	HE	Ih bagong dasar woy album winner dulu keleus				
+	HE	P_0500	HE	P_0500	HE	"Dulu ditolak, sekarang dikangenin. Dasar wanita bagong"
+	HE	Asli kucing gua tidur mulu dasar bagong				
+	HE	Dih ga sekolah...  Kutu kupret 				
+	HE	"Gw juga kena blokir sih, Asli kupret banget tuh orang"				
+	HE	"Asumsi, estimasi, rencana, konsumsi : kata-kata paling kupret"				
+	HE	"Ha ha ha, kutu kupret emang"				
+	HE	"Woi kutu kupret. HEPYBESDEY,gua GATAU lgi mau ngasih apa wkw"				
+	HE	"Eh kutu kebo, tdr woy udh mlm"				
+	HE	"Ya kebo, pantesan makin hari makin isi badannya, ternyata gara-gara bangun siang mulu ya"				
+	HE	"lebih mending lah, Daripada lu, upil kebo"				
+	HE	kebo sih <haha>				
+	HE	SIRIK KAN KUTIL KEBO				
+	HE	Tai kebo				
+	HE	makan tuh kebo				
+	HE	"Dibully dicaci tiap hari tetep aja congornya berkoar, Dasar UPIL KEBO lu !"				
+	HE	Lebih kenceng kuota malam gw dibanding bolt. Asu				
+	HE	"XL TAI! PAKET UDAH DISTOP, UDAH DAPET SMS DIKONFIR TAPI KENAPA PULSA GUE TETEP KEPOTONG ASU!"				
+	HE	ngakak bajing gue kira siapa				
+	HE	kambing lah aku telat 10 menit				
+	HE	Orang kena musibah kok dimampus2in. Dasar kambing!				
+	HE	"Dasar kambing! Ngambek, ngambek!"				
+	HE	"makanya baca,otak jgn taro dijempol.. kambing"				
+	HE	Yg satu reguler yg satu occasional kok disamain. Dasar otak testis kambing.				
+	HE	"dasar kambing, humornya amblas"				
+	HE	Stress babi dapat team sial				
+	HE	"babi, sedih banget"				
+	MH	dasar anak setan				
+	MH	"OTAK LO DAH KAYAK SETAN,IBLIS"				
+	MH	Dasar bocah goblok setan lu knp lu jg g mati guru yg ngajar lu jadi orang sukses lu bunuh mati aj kau setan				
+	MH	Anak Setan loe				
+	MH	bangsat iblis				
+	MH	Manusia iblis! solat demi pencitraan 				
+	MH	Tu kau yg nk dpuji bukan aku. Dasar iblis gila pujian HAHA				
+	MH	"dasar manusia berhati IBLIS. proyek gak selesai dalam masa jabatan di salahin, diselesaiain di anggep pencitraan."				
+	MH	"Tampang malaikat, hati iblis dasar, malu maluin orang islam"				
+	MH	"mules gue mules, dasar iblis"				
+	MH	"dasar anak iblis, gk dididik apa sama orangtuanya sampe tega bunuh gurunya"				
+	MH	"kampret, dasar iblis"				
+	MH	mulut lo ISLAMI banget nyebut2 alat vital!! Dasar anak HARAM JADAH!!!! IBLIS!!!				
+	MH	DASAR IBLIS BERWUJUD MANUSIA !				
+	MH	GAMAU ANJER IBLIS BETUL LU WKWK				
+	PR	gue mau ditangkap atas dasar apa ya ??? dasar manusia berwatak dajjal 				
+	PR	"Dajjal kampret, pantas ga laku di politik.. Sok bener.."				
+	PR	anak dajjal emang				
+	PR	dasar anak kelakuan dajjal				
+	PR	"lagu apaan nih, lirik dajjal"				
+	PR	"Anak buah ahok setan semua, di ajak beribadah malah ngoceh, dasar dajjal lu sma "				
+	PR	MABUK AGAMA BERTINDAK SELAYAK DAJJAL!TIDAK PERNAH BERKACA DIRI!DASAR IBLIS				
+	PR	heleh dasar kamu budak dajjal!				
+	PR	"Begini kah pendukung nya... Lu kate ini negara komunis, maen tangkep2 aje. Dasar dajjal."				
+	PR	"Dasar dajjal, manusia berkepala kontol,, otaknya sperma semua"				
+	PR	"Dasar antek Dajjal, yg ingin memutar balikkan fakta ke neraka aja"				
+	PR	anak sekolah tapi kelakuan ngga menunjukan orang berpendidikan. dasar budak dajjal!				
+	PR	"Jijik gue lihat dia, ngga ada hasil kerja, bacot doang, dasar otak dajjal"				
+	MH	"Anak buah ahok setan semua, di ajak beribadah malah ngoceh, dasar dajjal lu semua"				
+	MH	DIYEMLO SETANZ !!!!!!! DASAR PELER POCONG				
+	MH	"emang imut plis, jangan bully dia dasar pocong jadi-jadian"				
+	MH	"Makanya banyak org bego soal Tubuh dan jiwa , Dasar muka pocong fuck"				
+	MH	Masa gue ihh dasar pocong				
+	MH	dasar pocong jaman now				
+	MH	"emang ya, iblis kamu"				
+	MH	"Setan, kenapa gue denger lagu ini"				
+	MH	"Kenapa aku tak tepikir masuk tadi, Setan betul"				
+	MH	"setan lah, tiba-tiba berdiri di atas jalan"				
+	MH	"setan, kuat banget musuhnya"				
+	MH	"muka iblis, terkutuk emang"				
+	MH	"gimana ngentot, masih mau ngatain abang lex? "				
+	MH	"gue udah mati empat kali ngentod, anjing"				
+	MH	ngga peduli ngentot				
+	MH	kenapa ngga <haha> ngentot				
+	MH	"ngentot, arap arap"				
+	MH	"gue lebih tua dari arap , so arap anjing loe , ngentot loe , bangsat loe ,kafir loe"				
+	MH	"sebentar lagi ada smartphone yang bisa ngomong , loe bakal di anjing anjingin ame hapelu sendiri ngentot"				
+	MH	jembut memek ngentot				
+	MH	anjeeng loe arap ngentots				
+	MH	"suara apa suara bebek, tot"				
+	MH	"ngakak ngentot pas part si yanglek bego , <haha>"				
+	MH	suaranya ngentot lah anjing				
+	MH	goblok lagu bego seperti taek ayam sayonara ngentot				
+	MH	"anjing loe assu ngentot, sampah emang"				
+	MH	durasinya tambahin lah diancuk plis				
+	AK	Oalah diancuk pantes nanya format laporan				
+	AK	<ah> diancuk sinyal brengsek				
+	AK	Polisi kok ra ngerti aturan ! DIANCUK!!				
+	AK	lo bs kaya gini krn mayoritas !!!! DIANCUK!!!				
+	AK	Diancuk. Satu persatu pohon yang ada di TBRS mulai dipotong. Sampai kini sudah 3 pohon.				
+	AK	"Diancuk, Jenderal Hoegeng Jadi Menteri"				
+	AK	Diancuk negriku ambaradul koplak				
+	AK	"anjing, kesel, mati lu"				
+	AK	"serius? jancuk, kenapa kamu ngga bilang?"				
+	AK	jancuk :((( nga bisa dibiarin nih orang² kek gini gatau privasi				
+	AK	jancuk bukannya nyanyi				
+	AK	<haha> jancuk				
+	AK	"lagi ditengah pertandingan, koneksi terputus, JANCUK lah"				
+	AK	jancuk sekali anda				
+	AK	"Anak"" skul hrs xtra hati"" krn mtr g bs jl pelan, ngebut smua.. Diamput.."				
+	AK	"diamput, iklan"				
+	AK	"Diamput....Sandiaga asal tau aja loe gimana cara menarik becak yang manusiawi, cok"				
+	AK	"diamput, dokter kok tau aja sih"				
+	AK	"mau otw, hujan, diamput"				
+	AK	haha...diamput. Dapet aja loe foto saya				
+	AK	Diamput apa2an ini ???? emang ga ada yg laen apa ya				
+	AK	"diamput, kok loe tau aja sih??? haha"				
+	AK	"diamput, hei"				
+	AK	diamput tuh orang				
+	AK	Pusing yang sama untuk masalah yang berbeda. Diamput!				
+	AK	File hosting pun kena. Padahal buat storage. Diamput.				
+	AK	DIAMPUT....UDAH MALEM MINGGU AJA NIH....!!!				
+	AK	"yah diamput, kok pas bener nebaknya."				
+	AK	Dari dulu wasit indonesia emg diamput yaakk!!!				
+	AK	Hampir seminggu gakbisa dotaan-_- diamput				
+	AK	"“CUUUUUUUUUUK KOK DEMEN BANGET DIMARAIN ATASAN? PROTOKOL GA JALAN, DI KASIh NASEHAT NYOLOT? DIAMPUTDiamput,jam segini musti operasi "				
+	AK	"Diamput,jam segini musti operasi "				
+	AK	"Sekolah koyok penjara,diamput"				
+	AK	"malah mati lampu, diamput"				
+	AK	"ujan, macet, mati aja lu bareng kudanil"				
+	AK	"Jahat lu sama gua, mati lu sono di kasur!"				
+	AK	"Anjir lu, zen, mati aja"				
+	AK	mati aja lu anjing				
+	AK	"Minta di peduliin tapi ditanya ""kenapa?"" cuma dijawab ""gapapa"", Mati aja lu!"				
+	AK	"mendingan kamu mati, nak"				
+	AK	masih mau NGELES aje nih MONYET2 peliharaan Imam Bejat CABUL 				
+	AK	dasar cabul! Kabur ga pulang2 lu!				
+	AK	"minum dan makan tai aja lu, si bencong cabul"				
+	AK	Otakmu isinya Cebong tong. Dasar bani Cabul				
+	AK	"Enak aja bilang nga penting, dasar otak cabul lo.."				
+	AK	"gw g mau berdebat sama kaum kolam yg g bermoral kayak lu, akun cabul"				
+	AK	"Otak cabul,  masuk surga cm pengen dpt bidadari,  Sesat lu dengkul"				
+	AK	makin gila lu cabul				
+	AK	Heh Cabul lu jawab dulu ngapain kabur ke Arab kalau ngak salah???				
+	AK	cabul lu <haha>				
+	AK	Muka ente aja kayak kencing onta bul..cabul...!!				
+	AK	"Yang teriak2 bela agama tapi shalat aja kagak, yang ada korup, cabul,.."				
+	AK	Si cabul uda brp bulan minggat? 				
+	AK	Hoax kamu bani cabul.				
+	AK	Si cabul kok gak brani pulang? Malu sama jokowi yg gak takut datang ke negara perang				
+	AK	"diamput, dia datang lagi"				
+	AK	"diancuk, kok jadi begini?"				
+	AK	Emang ga boleh punya pasangan yg bener2 ngasih afeksi dan cinta tanpa harus dengan cara hubungan seksual? YEU DASAR CABUL				
+	AK	"HEI KONTOL JALANG, BANYAK NIH PULSA KU,"				
+	AK	"turun kau, wanita jalang"				
+	AK	"Hei JALANG DAN PELACUR, NGAPAIN KALIAN NGAKU2 PENGIKUT AKU ?"				
+	AK	Terimakasih Wanita Jalang ku				
+	AK	DASAR KAU WANITA JALANG				
+	AK	<haha> dasar jantan jalang				
+	AK	"kucing jalang, macet sekali <duh>"				
+	AK	"Please deh, uda punya pasangan tapi ngarepin pasangan orang lain? Jalang banget"				
+	AK	Masih untung bapa w mau nerima lu jalang				
+	KD	"bedebah, kita putus"				
+	KD	"tapi kan ga semua channel ada live streammingnya, bedebah banget dah"				
+	KD	gerombolan bedebah penjual ayat-ayat suci				
+	KD	"Ngapa pas mau cabut manager malah ngajakin kerja, kemaren2 kaga pernah :( Pagar pintu belakang tutup. Berpusing-pusing aku cari jalan keluar lain. Bedebah betul :'("				
+	KD	Kurang ajar bedebah ini comment ga sopan...				
+	KD	Lu ngapain sih bedebah ngestalk aku				
+	KD	"iya nih, provider bedebah"				
+	KD	"Bedebah! Gratis juga kagak bakalan ada yg nawar, jing"				
+	KD	Bedebah.. ah bedebah banget 				
+	KD	Bedebah emang kau ya.				
+	KD	"bedebah ini, jangan menghawatirkan-ku"				
+	KD	"hai kunyuk , berkaca kau , jangan mentang-mentang kuliah di ui sudah itu jadi ketua bem , kau anggapu semua orang bodoh"				
+	KD	"hendra rosadi , nih si kunyuk  belagunya makin jadi-jadi"				
+	KD	kunyuk muncul-muncul aja <haha>				
+	KD	Anjir si kunyuk ngilang				
+	KD	apaan sih lu kunyuk <haha>				
+	KD	"modar lu kunyuk, paling lu bentar lagi jatuh"				
+	KD	"Inget yang bikin berantem kan awalnya lu, kunyuk"				
+	PR	biar rasah di penjara seumur hidup mampus kau anak lonte				
+	PR	kalau pas si resa oktopian punya anak nanti anak nya suka ngomong anjing perek lonte dan kawan kawan nya				
+	PR	macam lonte				
+	PR	Sekarang Orang Tua Itu Takda Kuasa Dan Lawan Ketua Hangpa... Apa Dia Buat Semua Hangpa Bantai... Dasar Pelacur Politik				
+	PR	"sekarang cb lihat sudah jrg malah sudah ngga ada lagi , malah di isi acara musik yang ngga jelas , atau sinetron ftv gembel "				
+	PR	gembel kambing				
+	PR	"mampus loe lontong sayur , muka gembel"				
+	PR	jangan banyak gaya sudah loe memang young lex lagu nya bagus memang lagu loe cacat gembel				
+	PR	<halah> gembel				
+	PR	"belagu amat , muka seperti gembel punk aja , cakep juga ngga , berbakat juga ngga "				
+	PR	gembel loe anjing				
+	PR	"emang, muka banci"				
+	PR	arap banci				
+	PR	anak sok keras cuma berani bacot di komentar aja banci loe				
+	PR	"bikin malu saja , pengacau ini orang, dasar banci"				
+	PR	"banci banyak alesan, jadi batal mkan nasbung rendang kan"				
+	PR	"banci, mudah mudahan bp polisi kita sabar menanti kedatangan anda"				
+	PR	"kelar hidup loe bibib cabul, mati aja kau banci jahanam"				
+	PR	beda yang dia omongin beda pula pengacaranya yang mulut bencong				
+	PR	bencong dasar				
+	PR	"dasar si otak dengki , urusin aja itu anak loe , dsr mulut bencong"				
+	PR	bapak berdaster mulutnya kaya bencong				
+	PR	dasar bencong brengsek				
+	PR	"anak pecun, bego gitu tapi nyindir anak presiden"				
+	PR	tampang maho				
+	PR	univ terbaik tapi akal loe seperti se ekor babu cuk				
+	PR	yang dislike homo				
+	PR	"loe lagi ex kah lex , ngomong kh kumur kumur goblok alexander gila"				
+	PR	homo mah homo ajah abang jadi segala munafik loe ha				
+	PR	"anjing itu loe, yonklex homo, ngga ada artinya"				
+	PR	kasihan prabowo namanya hhancur sama cecunguk beginian				
+	PR	yang ngefans sama cecunguk ini hanyalah orang orang awam				
+	PR	<hadeh> budaya hancur sama cecunguk kayak kamu				
+	PR	ketua loe aja maling				
+	PR	"maling ayam, bilang dulu lah kalau mau make"				
+	PR	dasar maling loe				
+	PR	"itu mah muka orang melas , bukan orang sakit , ngehe nih dasar pengacara maling"				
+	PR	"ini video, maling"				
+	PR	"maling sial , ha mentang mentang anak presiden sombong amat laporin aja sudah"				
+	PR	"sejak ayah aku kenal dengan betina sundal itu, ayah aku tidak punya waktu untuk keluarga"				
+	PR	Dasar lonte khilafah padang pasir				
+	PR	Ya ada lonte mcm kau hak gue dong komen				
+	PR	DASAR LONTE RUMAH BORDIL USAHA DAN PEKERJAAN KELUARGA KALIAN.				
+	PR	"Emang, dasar Anak perampok n pelacur"				
+	PR	"Dasar anak anjing, jokowi kepilih lg lu siap'' jd gembel sekeluarga lu njing.."				
+	PR	"Dasar banci lo, ditantang buat bahas aja ga berani!"				
+	PR	"bwat yang nulis: gak usah macem2 klo berani berantem u ma gw, gak usah cemen pke surat segala kyak banci aja hahahaha "				
+	PR	Dasar banci njeng				
+	PR	loe itu homo gila				
+	PR	kau tu yang permpuan sundal				
+	PR	"semuanya parkir, MACAM ANAK SUNDAL"				
+	PR	"Sundal betullah, aku mau nonton film ini tapi buffer terus, Kimak"				
+	PR	"berhentilah drama, dasar sundal"				
+	PR	Dasar sundal betul ah eh kamu				
+	PR	muke kayak anjing dasar anak katak				
+	PR	Dasar sundal.. Mulut sial!				
+	PR	dasar pelacur				
+	PR	"<woi> anak sundal, berapa lama aku harus nunggu kamu untuk dibalas, babi keparat"				
+	PR	"Dasar Pelacur! Cewek kegatelan, emang lu-nya aja yang ganjen"				
+	PR	Dasar media pelacur..Selalu sama modus operasinya				
+	PR	"dasar cebong bego otak pelacur, udah lo ganti DP lo yg asli nyet."				
+	PR	Dasar pelacur Kalau ngetwet jangan asal jeplak				
+	PR	"emang, kayak gembel lagi ngambek"				
+	PR	capek ketawa dasar bencong <haha>				
+	PR	"Eh bencong, tunjukin aja bukti bacotan lo kemaren, Emang bener² bencong lo!"				
+	PR	dia juga pendukung si iren bencong tuh				
+	PR	"<haha> BENCONG. DIKATA udah MAJU, asu"				
+	PR	PECUNDANG !!! Gak ada kata penjara dibawah umur kalo buat orang kaya lo!  				
+	PR	Kata lu suruh main ah perek				
+	PR	"Perek sia ,followers nol gitu ngaku real fans. Ngakak anjing"				
+	PR	gua bacanya perek bgst wkwkwk				
+	PR	"Meski pun lu udh pindah kerja tpi ttep aja style lu kaya perek, kasian banget jadi cowo nya..."				
+	PR	"kapan gua pernah muja dia, muka kaya perek"				
+	PR	"Berasa perfect lo, Perek, iya kali"				
+	PR	heh perek dpt salam nih. Intinya lo kalo mau ngerusak hubungan org ga usah pake pamer				
+	PR	Jablay perek tuh bocah				
+	PR	"emang dasar kaum cabul sejati,tuh idola lu aja otak nya otak jablay melulu isi nya"				
+	PR	anjir jablay				
+	PR	"gue geli anjing, kayak jablay"				
+	PR	DASAR JABLAY DALAM BENTUK LELAKI				
+	PR	"Jablay lu, ajarin lah "				
+	PR	yah nama sekolah gua aja salah dasar babu				
+	PR	"<ih> dudul, dasar babu durhaka"				
+	PR	"yeu ya ucapin jugalah, Bukannya ngasih makanan dasar babu dudul"				
+	PR	Ih bodo amat deh ya dasar babu ku				
+	PR	"Cebong memang tak berotak, Dasar babu babi"				
+	PR	"anjeng babu, kaga sah lah itu"				
+	PR	Begitu pangsiyun lalu ngangkutin barang2 inventaris rumah dinas.  Dasar cecunguk Candi Hambalang...				
+	PR	"bikin sendiri dong, babu"				
+	PR	pergi kau homo				
+	PR	"Emg kyk sapi, homo lg"				
+	PR	"pas cecunguk itu masak, pasti jadi arang semua itu, kayak tungkunya"				
+	PR	cecunguk				
+	PR	"Pencitraann, cecunguk"				
+	PR	"Dih? GW YANG KESEL DAH UDAH SALAH MALAH NGOMELIN ORANG, DASAR CECUNGUK."				
+	PR	"tawa lu, cecunguk"				
+	PR	"Cecunguk, kalo ga mau ketularan bodoh, gak mau ikutan malu, mending keluar"				
+	PR	kyk punya privasi aje lo cecunguk				
+	PR	"milih ketua kok yg jd cecunguk partai, malu2in almamater cuy"				
+	PR	"Dasar cecunguk satu satu itu, cuma cuci satu gelas dan piring saja banyak alasan"				
+	PR	emang siapa kamu koq pake ngancam2 fb..dasar cecunguk dongok bin goblok				
+	PR	"dasar cecunguk cecunguk menyebalkan, pergi kalian nanti gue gak keliatan"				
+	PR	manusia cunguk				
+	PR	"kalo udh kalah telak begini jawaban nya,dasar cunguk!"				
+	PR	cunguk partai2 ambisius haus tahta gk prnh mentingin generasi				
+	PR	"makasih, cunguk"				
+	PR	berisik cunguk				
+	PR	"heh cunguk, gue udah tau mukanya <haha>"				
+	PR	"Berisik lu cunguk, ga usah bahas lagi lah"				
+	PR	Bacot aja lu gedein cunguk				
+	PR	Keliatan dari bahasanya..dari golongan onta mesum nih cunguk				
+	PR	lama amat cunguk balesnya				
+	PR	"Kan itu di atas foto gua dua, biji cunguk."				
+	PR	teman macam apa kamu cunguk				
+	PR	WOY MALING LU DASAR ADEK GATAU DIUNTUNG ASTAGA TAGIHAN GUA BERAPA INI				
+	PR	"Dasar Cina kafir maling pula , habis dapat uang kabur dah pulang kampung , negara orang lain buat sasaran nggarong , nggak tahu malu"				
+	PR	Dia yg korup sebut orang.lain!dasar maling teriak maling!				
+	PR	BALES WOY MALING!!!!				
+	PR	"dasar pecun, masuk loe pada"				
+	PR	SETAAAANNZ!!!!!!! DASAR PECUN!!!!!!!!!!! MASIH AE LO GATEL !!!!!! DASAR TETEK ITEM DAKIANLO!!!!!!!				
+	PR	"bisanya cuma nyinyir doang, dasar pecun"				
+	PR	"penipu mah penpu aja, udah dp malah kabur, dasar pecun"				
+	PR	Dasar satpam bencong merangkap pecun !!				
+	PR	"Loe kaga nyambung,,knp bawa2 pecun dasar otak DANGKAL loe"				
+	PR	oi anjeng lonte blokir akun gw dasar pecun perek memek bau				
+	PR	"Hei PECUN, berani2nya kalian PECUN nyamar2 dan masuk ke sistem hp ku"				
+	PR	"screenshoot hp ku kalian hapus bbrp, dasar lonte."				
+	PR	"kamu stalk saya, mau cari apa? Cari maut? Pergilah mampus. Dasar  sundal."				
+	PR	ni menyusahkan lagi hidup aku. dasar sundal!				
+	KD	Harusnya dia mundur aja. Dasar tolol tu orang.				
+	KD	Ga lucu goblok				
+	BE	Selalu kesel sama yang ngira gw bisa ini bisa itu. Tokai				
+	BE	Gak professional banget Bea Cukai Tokai.				
+	KD	"Muka kaya jembot so""an lu kampang"				
+	BE	situ waras tong ?				
+	KD	PEMBUNUH DASAR ANAK HARAM				
+	KD	"Dasar bloon, kampanye janji janji nipu doang"				
+	KD	dasar anak jahanam				
+	KD	lagian lu kok bs nilai diri lu sendirib gak useless ama munafik? geblek				
+	KD	woi pakai otak mikir ngga ada yang bisa terbang tolol				
+	KD	<haha> apa cuma gue yang ganangkep ha dasar gue bego				
+	KD	rapper lawas semakin real yang muda semakin bego				
+	FI	"kontol lirik beat ganyambung , suara juga gajelas , mending penyanyi lain"				
+	KD	"<haha> bocah bocah tolol, cuma bisa pada ngehina. "				
+	BE	rima mu kaya ampas tinja				
+	KD	gila membaik lah				
+	KG	sumpah keren habis lyric nya balas membalas semua sindiran cacian dan makian dengan karya yang menawan				
+	KD	lagu ngga enak di dengar intinya goblok fuck				
+	BE	lagu sampah				
+	HE	nyanyi apa ngomel ngomel asu				
+	KD	gila gila keren kali				
+	BE	"cari ribut biar naik nama , ampas"				
+	FI	apaan kontol rap apaan ini				
+	KD	dasar gila loe goblok leks				
+	HE	<haha> kita nafsu banget anjing				
+	HE	"bisa diem, anjing, di tempat"				
+	HE	"gue mau di belakang-belakang aja, ngga mau maju, anjing"				
+	HE	aduh gue udah mati empat kali NYET				
+	HE	babi salah				
+	KD	dasar nafsu bangsat				
+	BE	tokai atas ngga bisa				
+	KD	"jahanam, kesel, mati lu"				
+	HE	ih tunggu gua jing				
+	KD	"bloon, udah ngejar orang, mati pula"				
+	BE	<haha>oon tai				
+	KD	lu orang ngga usah lapor-lapor gua oon				
+	KD	Emang geblek bocah ini				
+	BE	bru punya hp bukan tai?!				
+	HE	"lo kalo ngerasa lo cwok jgn omongin org dri blakang,sene ngomongin gw dri depan bangsat!!! "				
+	BE	"ngomong dri blakang, sampah lo jing..."				
+	HE	"kalau bingun mau pelihara anjing karena agamanya, mending pelihara teman yang kaya anjing saja suruh jagain rumah atau buat teman bermain"				
+	BE	"Di akhir-akhir jadian, dia maen game ol terus, cuekin gua. Ee"				
+	HE	kalau mnurut gue ituh krennya drimna sih njink njink				
+	HE	loe juga memang mirip anjing hahhaha dasar anjing loe				
+	HE	"ngomong apa loe itu monyet, babi muka loe"				
+	HE	"loe aja yang jadi anjing, najis, dkt anjing seperti loe"				
+	BE	akhir nya loe sadar juga kalau loe itu memang ampas				
+	BE	pemerintah yang bodoh atau gimana ini ngga ada yang tindak orang bgini				
+	PR	<hah> balikin dong dasar copet				
+	PR	"Dasar jiwa copet, dompet di rumah aja dijarah"				
+	PR	"dasar copet, ada peluang ya ambil lah"				
+	PR	kasian masih kecil udah dikeroyok dasar copet				
+	KD	2 bintang ilang gara2 temen afk. Kampang asu...				
+	KD	kampang gue ngakak baca nya seru dah seneng gue kalo liat yang ribut naikin mood				
+	KD	"kampang, awas gajia loe ngaret"				
+	KD	"palingan kebetulan doang, kampang"				
+	KD	ya janganlah kampang				
+	KD	emang kampang tuh orang				
+	KD	"HALAH KAMPANG, GAK TEGES BANGET SIH LO TAIK"				
+	KD	LUCAS GANTENG BANGET KAMPANG				
+	KD	"gausah sok paling tersakiti ya, kampang"				
+	KD	"gw beli lesley kemarin ternyata gabisa make, kan kampang:(("				
+	KD	"kampang sekale, kenapa grup yg diundang badannya tinggi bener"				
+	KD	"alah taiiiiii,JADI SELAMA INI GUA NUNGGUIN LO ITU NGAPAIN KAMPANG"				
+	KD	Eish si kampang terpelatuk hati aku				
+	KD	BANGSAAAAAAAADDD WKWKWKSK HUMOR GUA KAMPANG				
+	KD	Telat mulu lu kampang:(				
+	KD	halah kampang sini lo maju gue ciom heh				
+	HE	"GA ADA ORANG-ORANG KAYAK GITU JABODETABEK DAMAI, ASU."				
+	HE	"Bisa gak sih ram nya di kecil in, susah goblok di donlotnya. Asu"				
+	HE	Apasi asu lo lebay anjing.				
+	HE	"Masih ngoceh aja lu, ditantangin gak brani. Ngoceh dibanyakin. Asu"				
+	KD	ngehe nih orang E-KTPnya cepet bener...pilih kasih				
+	KD	ngehe juga sutradaranya kepikiran bikin film kaya gitu.				
+	HE	bajingan kecil ini sebaiknya dikeluarkan dari sekolahnya				
+	KD	"kita sehati, ngehe"				
+	KD	"ngehe banget nih acara, boleh boleh"				
+	KD	Terus gimana tuh sekarang orang biadab itu ?				
+	BE	Bendera yg di kabarkan bendera tauhid... Dasar otak udang				
+	KD	Jaman now msh doyan hoax ...paling juge org yg posting jelekan ORMAS lantas di pke alasan PKI ...dasar biadab 				
+	KD	 tembak lagi aja seperti dia nembak org utan itu biar dia rasain dasar biadab				
+	KD	beraninya koq sama hewan..dasar biadab				
+	KD	Nah iya kan lea pen ikut mulu dasar babu biadab				
+	KD	"Itu pendaptmu.. dan km ga bisa menunjukan siapa yg km maksud.. dasar gelohok aja yg jadi gubernur di sindir habis2an dasar IBLIS, pendukung gabener penjual agama munafik biadab."				
+	KD	dasar anak biadab gak tau sopan santun				
+	KD	dasar biadab kamu				
+	KD	"nangis aku, dasar murid biadab"				
+	BE	Eek emg dasar biadab				
+	KD	"kau mau sogok berarti sdh ada rencana korupsi APBD , dasar biadab!"				
+	KD	"berkaca sendiri, dasar oon"				
+	KD	"itu tuh cerita nya yg awal nanya suka, yg jus itu ngajak minum. oon dasar"				
+	KD	Dasar oon ?? gua udh dm sih tadi yauda deh				
+	KD	"Dasar Mahasiswa oon.. helloow kl Infrastruktur kgk dibangun,jlnan kgk dibenerin, gembel sana sni, dia pikir Trnsportasi Suplay dr daerah lain lancar apa."				
+	PR	Dasar badut.... trus luh ngapain di dpr?				
+	KD	"Dasar oon,yg mslh banjirx skrg malah lbh byk ttk n surutx lama"				
+	KD	"Heran, oon banget jadi orang. Padahal itu thread pinned. Kenapa ke hapus. Dasar gblk "				
+	KD	Pompa sdh on tapu etep banjir dasar Oon....				
+	KD	"itu minyak, dasar oon (:"				
+	KD	Presidennya yang mana?? Dasar Cebong oon				
+	KD	kamu mah apa yang paham. dasar oon				
+	KD	"Dasar oon... Ok otrip aja baru mau berjalan, tau dari mana suka telat"				
+	KD	"kekalahan sudah di depan mata semua cara di gunakan ,,,,koplak"				
+	KD	Mahasiswa Koplak !! Tolol !! Penggila kartu remi !!				
+	KD	User bayar mahal kualitas kok ga dijaga. Alasan suruh DM tp emang trouble. Koplak.				
+	KD	"Muka koplak tu org.. Siapa yg mhoto ya posisinya bgitu, jadi keliatan isi hatinya dari raut mukanya"				
+	KD	<haduh> dasar koplak				
+	KD	Yang punya kerjaan siapa yang jumawa siapa....koplak				
+	KD	"Urusan PKS kok sampai cebong sih , koplak sapi"				
+	KD	Yang diurusin malah gimana menghukum LGBT. Politisi koplak				
+	KD	"Koplak, ini semua isi percakapan kita,"				
+	KD	kalah kalah ae dasar idiot				
+	KD	anjirrr dasar idiot :v kamu dikacangi intinya				
+	KD	bodoh karena ga bisa maling duit rakyat? dasar bakul sampah				
+	KD	" dasar idiot -, sudah ku katakan buku ku ada dilaci"				
+	KD	 Maklum dengkulmu ! Ngurus ratusan juta nyawa rakyat kok coba2 & dimaklumi. Dasar cebong idiot !				
+	HD	Ini manusia atau binatang...lg musibah terus aja nyinyir...dasar anjing ...anjing sia idiot..				
+	KD	Hahaha coba googling prestasi akademiknya dasar idiot lu				
+	KD	Goblok ko teriak goblok. Dasar idiot				
+	KD	Dasar anak idiot ... sana gih ngulang dari sd biar kamu pinteran dikit				
+	KD	"andai MU menang, maka Arsenal kalah, dasar idiot"				
+	KD	sejak kapan jalanan dipakai untuk berjualan.  Dasar idiot.  Kami pemakai jalan bayar pajak tahu				
+	KD	Cuma kunjungan balasan aja udah besar kepala. Dasar Idiot lebay				
+	KD	Mau marah marah lg soal ini aduh sinting bgt 				
+	KD	Sinting y emang org jaman skrg				
+	KD	"ANJIR SINTING BANGET SIH INI. JAHAT BANGET JADI ORANG, ANAK GUE SALAH APA COBA SAMA MEREKA?"				
+	KD	ini jam 11 terus gw ngarep emal gw dibales dasar sinting				
+	KD	MASA GANGERTI KAN KATANYA KITA SEPASANG HIKS KM BENER-BENER JAHANAM				
+	KD	JAHANAM!!! jadi ikutan laper :(				
+	KD	jahanam anda				
+	KD	Jahanam! Kamu saya pecat dr tempat ini				
+	HE	"ngaca lu, bandot"				
+	HE	fakta didepan matamu gitu masih ngeyel bandot lo				
+	HE	"mentang-mentang, dasar trio bandot"				
+	HE	Gua kesemak semak nyari rumput buat makan lu bandot.				
+	HE	"keinget itu bukan kangen lho ya, dasar bandot"				
+	HE	"Sedih ya, Dasar bandot curang.."				
+	KD	Dasar otak dungu.indonesia luas. Jlan bukan buat yg berbobot aja. itu jlan rakyat.				
+	HE	"legenda apaan, bandot kamu"				
+	HE	DASAR BANDOT. LU ga KANGEN SAMA GUA				
+	HE	"Bilangnya nyaman sama sini, mau sama sini aja, ehh nyatanya larinya ke (dia). Woo dasar bandot!"				
+	HE	Kalau ogah ngapain loe kebakaran jembut kemari pagi pagi !! Dasar bandot loe !!				
+	HE	ujung-ujungnya cerita tentang dibenarkan agama istri banyak. Dasar ustad BANDOT.				
+	HE	Yee dasar bandot gamao ngaku lu tiap hari kabur				
+	HE	Ngechat cuma begini doang. Ya emg dasar bocah kambing ini namanya				
+	HE	Wah dasar kambing buluk sini ribut sama kembarannya!				
+	HE	serem weh serem wkwkw dasar kambing				
+	HE	Orang kena musibah kok dimampus2in.Dasar kambing!				
+	PR	"njink lo,Lonte...mka pas2an aj sok"				
+	PR	Dasar lo lonte darat and gatau malu bisa bisa nya lo fitnah aku				
+	KD	WOI JANGAN SAMPE NYASAR EDAN				
+	KD	edan:) ingin loncat jadinya				
+	KD	ngacaca edan <haha>				
+	KD	Baru bangun udh liat tweet begini. Edan: 				
+	KD	laper banget edan				
+	KD	Kangen banget. Edan la coy ini mah				
+	KD	"edan, pagi2 udah shitposting."				
+	KD	Edan sih twitter gue sampe error				
+	KD	"Edan, banyak banget reply ini twit. "				
+	PR	"Emak lu perek, anjing bangsat!"				
+	PR	"Dasar perek. Emang. Sori nyamber, tp asli ngakak gw"				
+	PR	"Temennya adam wkwk. Dasar u perek, pst mau dikenalin :)"				
+	PR	gua juga bisa main kasar sama lo lo pada yg belain dia dasar perek ga pernah disekolahi				
+	KD	"sial, dasar ga tau diri"				
+	KD	"sial, gagal terus dari tadi"				
+	BE	"pdhl isi dr kitab kitabnya tdk pernah jalani, dasar sompret"				
+	BE	"sompret, mana ada gambar kayak gitu, hoax tuh"				
+	BE	"Nih sompret sukanya kafirin orang, skarang ditolak negara kafir malah marah2 dasar tolol"				
+	BE	Dasar sompret udah d tunggu2 smp jam 2 mlh g ad kabar 				
+	BE	ngomong aja gak jls arahnya.. dasar sompret !				
+	HE	anjrit bener ini				
+	HE	"anjrit, benar aja kejadian"				
+	HE	"anjrit, donat rasa bakwan"				
+	HE	"Hidup w seperti larutan buffer : menjaga dan mempertahankan orang lain, Saik, mantap anjrit!"				
+	HE	"Woy telkomsel, kenapa ini jaringan? anjrit banget sumpah"				
+	HE	anjrit pulsa gw kemana sudah konfirnmasi internet yelow kok habis.balikin woy.				
+	HE	indosat memang bangsat				
+	HE	Anjrit ko lu tau?? Iyah gw ampe berapa kali tuh ngulang				
+	HE	anjrit ngakak				
+	HE	"anjrit, gue geli goblok"				
+	HE	anjrit lama banget kolap gua tungguin				
+	KD	sabar bego gua lagi nonton				
+	HE	Anjrit. Selapar itu apa gue?				
+	HE	Demen bet gua liatnya anjrit				
+	HE	Wah SAMPIS JAHAT BGT ASTAGA ANJRIT				
+	HE	Anjrit kenapa gue baru sadar kalau sebenernya film ini bagus banget!				
+	HE	"anjrit, mati gue mati"				
+	HE	"Jd cukup bangsat bangun pagi ini. Mimpi lama keulang lagi, jd mayan apal."				
+	HE	bangun ga bisa gerak gegara ada yg loncat2 d kasur. Bajingan emang				
+	BE	"jangan pake itu, tokai"				
+	BE	"ngga gitu juga lah caranya, tokai"				
+	BE	"fitnah kepalamu, tokai, itu perusahaan milik aku"				
+	BE	Selalu kesel sama yang ngira gw bisa ini bisa itu. Tokai.				
+	BE	Eh tokai! Lu pikir kita lemah??				
+	BE	"media sono kayak tokai. Satu orang ada kasus, buru2 dicari rapor buruk di masa lalu."				
+	BE	Coba pas Ahok msh mimpin Jakarta. Apal lo masih ngomong spt ini? Tokai lo				
+	BE	"emang tokai, tunggu aja yang lain"				
+	BE	yah dasar ampas				
+	BE	APA YG PRIORITAS. AMPAS. BENAR2 MENIPU. DASAR BUSUK				
+	BE	"Lah, lo yang bilang kayak gitu kan. Gue mah tinggal ngeiyain doang, sekarang malah bilang geli. Dasar ampas."				
+	BE	"Sudahlah miskin, sombong dah bodoh pula. Sembang babi pun boleh terbang, tapi apa hasil yang kau dapat? Dasar ampas"				
+	HE	"Kita hidup di jaman yang bangsat. Ketika orang ngasih informasi, malah dibilang panjat sosial. Dasar manusia ampas."				
+	BE	ni bocah malah dipeluk kaga mau. Dasar ampas				
+	BE	"Dasar ampas, giliran hubungan sama cewenya ga baik aja langsung cari selingan, chat chat segala. Pas baik-baik, nyapa aja engga. "				
+	BE	DASAR LOE AMPAS KAPITALISME				
+	BE	ga guna lu dasar ampas				
+	BE	hmm coba ngalihin dgn belajar emteka. gemempan. dasar ampas.				
+	KD	anak ngga salah dan masih kcil seperti itu disiksa dasar goblok				
+	BE	kirain lebih baik dari adiknya ngga tahunya sama aja sampah				
+	KD	"dasar wanita kafir, ibu macam apa ini"				
+	KD	gila indomie 120 ribu bisa beli sekardus disini				
+	KD	"buset sudah itu emak , kasihan anaknya"				
+	MH	"manusia iblis, kalau belum siap lahir batin buat berumah tangga mending jangan nikah dulu daripada anak yang jadi korban karena mental belum kuat buat membina rumah tangga"				
+	KD	"nah apa lagi ini tindakan si ibu gila, anak kok di seret di jalanan"				
+	KD	ibu durhaka dan dzalim semoga allah segera menghentikan penderitaan nya				
+	MH	sini kan saja anaknya gue rawat sudah sadis benar loe ibu setan dasar loe				
+	KD	mampus aja loe bu				
+	MH	"ibu setan, binatang aja sayang sama anaknya , masa manusia kalah sama binatang yang tak berotak dan berpikiran"				
+	KD	"orang edan, miris banget"				
+	KD	"wong edan, sodara saya sampai adopsi karena banget ingin punya anak "				
+	KD	loe tuh ibu yang sarap banget				
+	KD	"GEBLEK , depresi kok anak yang di embat"				
+	KD	terkutuklah dirimu bu				
+	FI	"ngga ada otak kau, kok bisa tega gitu"				
+	BE	"janji janji tinggal janji, kelauuut saja tong"				
+	KD	"kalau depresi ngapain banyak punya anak , wanita bodoh"				
+	KD	"heran , manusia idiot kok bisa jadi wakil rakyat"				
+	HE	"bangsat itu, ngga perlu di ladeni bu buang waktu dan tenaga saja , biarkan anjing menggonggong kafilah berlalu"				
+	BE	"Gw bukan alat,yg bisa lu manfaatin seenak jidat lu..??Hadeh,dasar eek toke."				
+	HE	eu dasar toke belang luh kepedean!				
+	HE	Anjir :( dasar lu toke nyamuk				
+	HE	Ya aa...dasar cina toke....gak mau rugi				
+	HE	<haha> dasar tokek				
+	HE	anying jadi pengen nabok				
+	HE	anying banget lu kalau udah ngeluarin gif <haha>				
+	HE	ada mau nya doang lu! anying!				
+	HE	"anying, bukan gitu"				
+	HE	Jauhin gw dari orang2 kayak gini. Rasanya tuh kayak makan rendang tp yg kegigit lengkoasnya. ZONK ANYING				
+	HE	Muka keya centong nasi aja mau jadi playboy anying.				
+	HE	"Hidup sangat banyak ketakutan, tapi denganmu aku sudah mempersiapkan semua yang akan terjadi. Apasi anying"				
+	HE	anying typo gue				
+	HE	anying gue ga nonton				
+	PR	Manusia munafik @sandiuno  katanya mau mengeser tanpa menggusur. Sekarang salahkan warga. Dasar kafir jahanam				
+	HE	jadi produk dan sistemnya kafir semua ? Dasar Otak ONTA kau				
+	PR	cuma dia yang salamnya cuma “selamat malam”. dasar kafir 				
+	PR	Udh Kafir korupsi juga ngga kembali lagi kalo ngg salah ngapain kabur. Sini loe olang kampret dasar rampok.				
+	PR	Ketika ada yang jihad lindungi dan selamatkan mereka maka teriak2 teroris.dasar kafir dan munafik!				
+	PR	"Dasar Cina kafir maling pula , habis dapat uang kabur dah pulang kampung , negara orang lain buat sasaran nggarong , nggak tahu malu"				
+	PR	"dasar kafir, bisanya fitnah melulu"				
+	HE	njeng monyet kunyuk parah aing di kerjain.				
+	HE	"yaudah ke mana, kunyuk"				
+	KD	GAPERNAH MENDALAMI AL-QURAN YA BANG??? PANTESAN MULUTNYA KAYA ORANG KAFIR BEJAT HINA				
+	KD	KOK LU BEJAT?				
+	KD	"dia pacaran  sama gua bukan karena sayang tapi nafsu, makanya gua putusin dasar emang tuh bejat"				
+	KD	Emang dasar bejat nih cebong				
+	KD	"Dasar manusia bejat! Sudah tidak beragama, kerjanya menghasut orang dan memutar balikkan fakta"				
+	KD	"g dikasih inventasi ngomel di kasih jd ajang pamer , dasar pemerintahan bejat "				
+	KD	"Dasar bejat lo, gausan temenan sama gwa lagi"				
+	KD	terlalu smpit dikit dikit agama agama.emng ya dasar otak bejat.				
+	KD	"Makanya jgn ngomong aneh2 di indonesia duh,dasar homo kontol bejat"				
+	KD	Dasar otak bejat aja. Kalau otak bejat pakai jilbab pun tega di perkosa				
+	KD	Real presiden pala lu bejat dasar daki monyet! 				
+	KD	"Dasar perempuan bejat tak punya perasaan, ga punya harga diri, katanya seorang penulis, anak berpendidikan. Tapi nyatanya otaknya minim sekali"				
+	KD	"dasar bejat. semoga aku nggak akan ketemu kamu, amin."				
+	HE	"lapar, sia"				
+	HE	"monyet sia, sinyal hancur"				
+	HE	"susah, sia"				
+	HE	"ga bisa move on, sia, minta saran lah"				
+	HE	"kesel mulu, sia, cepat tua"				
+	HE	bosan sia				
+	HE	"sejam lebih, sia, dari tadi kita nunggu"				
+	HE	"terus gimana, asu"				
+	HE	"sama-sama dpo aja bangga, anjir, pengalihan asu"				
+	HE	"banjirnya lebih besar dari era ngga bener, asu tong"				
+	HE	"bodoh banget gua, asu"				
+	HE	Jijik lihat muka asu.				
+	HE	Ngomong apaan sih pak? Cerewet gak ilang ilang.. ASU				
+	HE	ditanggepin tu sama buibu miskin yang nganggep gak sesuai realita jaman now ;)))). Asu ngakak				
+	HE	Berasa milik sendiri ahay Sepi banget asu hw				
+	HE	Asu. Goblok. Ngerusak pagiku aja				
+	HE	"kan bener2 ASU, kolaborasi slalu bikin brita hoax sudutkan jokow"				
+	HE	"Kalo lo gak denger, ngapain lo nyaut, bego"				
+	HE	KOCAK LO BEGO				
+	HE	Nenek bego! Nyebrang jalan gak liat2				
+	HE	Lo yg bego!! Nabrak nenek-nenek aja gak kena				
+	HE	sok tua lo bajing.				
+	HE	KENAPA LU MASUKIN VIDEO DIA YANG INI SIH BAJING				
+	HE	WKWK GATAHAN GUA AMA VIDEO INI BAJING				
+	HE	"kamu cerita ga selesai, bajing. lanjutin ngapa."				
+	HE	ayo cok ... budak bajing lo... lama amat				
+	HE	Nah kan redopie :) bajing emg boongin gua				
+	HE	Lah bajing taunya touch screen. Malu bener dah gua pantesan kaga bisa dipencet-pencet tombolnye.				
+	HE	"apasi bajing, on aja engga."				
+	HE	"Bajing, ga bisa ngakak"				
+	HE	kurang koma dibelakang sinonim su. bajing ngakak				
+	HE	"pengalaman pribadi soalnya, saya yang duduknya dapet dipijekan kaki. bajing."				
+	HE	ngakak bajing gue kira siapa dah				
+	HE	Udah tobat maksiat ini otw tobat mafia.bajing gua ngetik apaan				
+	PR	"Dasar lonte' sumpah, kaget banget."				
+	HE	katanya sih sibuk ; iya sibuk molor. Kebo emang.				
+	BE	"tokai dah, soalnya banyak banget"				
+	Raid_205	Bangsat itu pasti bakalan ngebelah gue.				
+	Raid_221	"Tutup mulut, bangsat! Kau mau mati sekarang, hah?"				
+	Raid_245	"Cepat cari yang benar, bangsat!"				
+	Raid_282	"Dengarkan, bangsat!"				
+	Raid_382	Tu bangsat nyeret dia sepanjang lantai kayak binatang.				
+	Raid_462	"Bangsat, anjing! Kenapa?!"				
+	Raid_444	Siapa anjing yang ngobrak-ngabrik gue dan kerajaan gue?!				

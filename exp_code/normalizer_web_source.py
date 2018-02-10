@@ -31,4 +31,4 @@ def crawl_linetoday(file):
 
 	return (result!='')
 
-crawl_linetoday('line_raw04.txt')
+crawl_linetoday('line_raw06.txt')

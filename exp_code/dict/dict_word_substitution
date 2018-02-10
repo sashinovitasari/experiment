@@ -2,18 +2,38 @@
 &	dan
 +	ditambah
 =	sama dengan
+/	atau
+\	atau
 abis	habis
 abng	abang
+cri	cari
 abs	habis
 ad	ada
+bgtulh	seperti itulah
+gal	gagal
+bauk	bau
 aj	saja
 aje	saja
-aje	aja
+aja	saja
 ak	aku
+rs	rumah sakit
+butu	butuh
+kpd	kepada
+rsj	rumah sakit jiwa
 alsan	alasan
-ama	samaf
+reziem	rezim
+ama	sama
+kmrn	kemarin
+kemaren	kemarin
+asw	asu
 ampe	sampai
+amp	sampai
+wkt	waktu
 ane	gue
+kl	kalau
+bln	bulan
+kga	ngga
+klau	kalau
 anjeng	anjing
 anjink	anjing
 ank	anak
@@ -33,20 +53,34 @@ bapa	bapak
 bbrp	beberapa
 bbrpa	beberapa
 bener	benar
-bgini	begini
+bgini	seperti ini
+gini	ini
 bentar	sebentar
 bntr	sebentar
 bgmn	bagaimana
+kek	seperti
 bgs	bagus
 bgsd	bangsat
 bgst	bangsat
 bgt	sekali
 bgtu	seperti itu
 bgus	bagus
+dalem	dalam
 bhw	bahwa
 bkn	bukan
 bkrj	bekerja
+kmna	ke mana
 bli	beli
+hadoh	aduh
+sich	sih
+nich	nih
+sik	asyik
+syik	asyik
+pafa	pada
+opo	apa
+iki	ini
+oalah	wah
+belom	belum
 blm	belum
 bner	benar
 bneran	beneran
@@ -127,20 +161,38 @@ ga	ngga
 gabenar	ngga benar
 gabener	ngga benar
 gada	ngga ada
+gabisa	ngga bisa
 gak	ngga
 gausah	ngga usah
 gaush	ngga usah
 gde	gede
 gile	gila
+mng	memang
+irg	orang
 gimn	gimana
-gituj	gitu
+gituj	seperti itu
+gitu	seperti itu
 gk	ngga
+rkyt	rakyat
 gmn	gimana
+kayake	seperti
+ude	sudah
+ae	saja
+br	baru
 gmna	gimana
 goblog	goblok
+byak	banyak
+hdp	hidup
+engak	ngga
+cakep	cakap
+mulu	melulu	
 gpp	ngga apa-apa
-gt	gitu
-gtu	gitu
+gt	seperti itu
+bnar	benar
+jng	jangan
+dngerin	dengar
+sl	selalu
+gtu	seperti itu
 gtw	ngga tahu
 gua	gue
 gub	gubernur
@@ -198,24 +250,52 @@ kli	kali
 klo	kalau
 klu	kalau
 klw	kalau
-kmn	kemana
+tolg	tolong
+kmn	ke mana
+dimana	di mana
+kmana	ke mana
+orangtua	orang tua
+tsbut	tersebut
+brikut	berikut
+niih	nih
 knp	kenapa
-komen	comment
+pnya	punya
+komen	komentar
+jatoh	jatuh
+comment	komentar
 kras	keras
 kreatip	kreatif
+terlali	terlalu
 kren	keren
 krj	kerja
 krj	kerja
+sndri	sendiri
+hm	<hmm>
+hmm	<hmm>
+ha	<haha>
+tuhsn	tuhan
 krn	karena
+alloh	allah
 krna	karena
+apakh	apakah
 krs	keras
+nkah	nikah
+s	si
+mknya	makanya
+kbncian	kebencian
+ngis	nangis
+slm	selama
+mtanya	matanya
+mta	mata
 ksi	kasih
+ksh	kasih
 ku	aku
 ky	seperti
 kya	seperti
 kyak	seperti
 kyk	seperti
 la	lah
+lha	lah
 laen	lain
 lag	lagi
 lbh	lebih
@@ -234,13 +314,19 @@ malay	malaysia
 manstaf	mantap
 manstap	mantap
 mantaf	mantap
+lemes	lemas
+qta	kita
+mamak	mama
 mcm	macam
+macem	macam
 mgkn	mungkin
 mikiir	mikir
 mletus	meletus
 mlh	malah
 mls	malas
+bulshit	bullshit
 mlz	malas
+jk	jika
 mnurut	menurut
 mo	mau
 mpe	sampai
@@ -283,6 +369,7 @@ org	orang
 otk	otak
 pake	pakai
 pakek	pakai
+sdg	sedang
 pd	pada
 pda	pada
 pengen	ingin
@@ -291,21 +378,39 @@ pk	pakai
 pke	pakai
 pingin	ingin
 pli	tolong
+plis	tolong
+please	tolong
 wktu	waktu
 bhs	bahasa
 pngen	ingin
+mauxa	maunya
+usah	perlu
 pngn	ingin
 pntesan	pantesan
 pny	punya
+entar	nanti
 pnya	punya
 prg	pergi
 prnh	pernah
+dh	deh
 punyax	punya
 rame	ramai
 rejeki	rezeki
+kebnykn	terlalu banyak
+kbykn	terlalu banyak
+kebykn	terlalu banyak
+dismkn	disamakan
+syurga	surga
+ana	aku
+tonk	tong
+kebnykan	terlalu banyak
+sbg	sebagai
+dimkn	makan
 rezheqi	rezeki
+isa	bisa
 rmh	rumah
 samma	sama
+sj	saja
 sampe	sampai
 sblm	sebelum
 sbrp	seberapa
@@ -342,6 +447,9 @@ srigala	serigala
 sudh	sudah
 sulay	sulap
 sya	saya
+cepet	cepat
+sy	saya
+tae	tai
 taik	tai
 tau	tahu
 tay	tai
@@ -349,8 +457,11 @@ tdk	tidak
 temen	teman
 th	tahu
 tkt	takut
+w	gue
+sentet	setan
 tkut	takut
 tlong	tolong
+b	biasa
 tmen	teman
 tmn	teman
 tmpt	tempat
@@ -380,8 +491,10 @@ yak	ya
 yg	yang
 yng	yang
 ytb	youtube
-
+tetep	tetap
 tt	tetek
+caer	cair
+caeran	cairan
 tete	tetek
 lcu	lucu
 y	ya
@@ -390,15 +503,24 @@ gatau	ngga tau
 klian	kalian
 klean	kalian
 aze	aja
+aing	gue
 mantep	mantap
+sedesa	satu
+ade	adik
+adek	adik
+thd	terhadap
+thdp	terhadap
 bangt	banget
 itumah	itu mah
+pdnya	padanya
+orgtua	orang tua
 ka	kakak
 kak	kakak
 orng	orang
 tener	tenar
 kpikirn	kepikiran
 wk	<haha>
+koke	kok
 wek	<haha>
 hi	<haha>
 he	<haha>
@@ -419,6 +541,9 @@ buanget	banget
 q	aku
 goblo	goblok
 baha	<haha>
+itukan	itu kan
+kedepan	ke depan
+brita	berita
 fav	favorit
 favorite	favorit
 guuuooooblooook	goblok
@@ -426,17 +551,30 @@ njir	anjir
 ijo	hijau
 ketemj	ketemu
 tv	televisi
+ema	emak
 television	televisi
+kalok	kalau
 berenti	berhenti
+ingt	ingat
+inget	ingat
 kagak	ngga
+kuduga	aku duga
+ku	aku
+ortu	orang tua
+dpn	depan
+mi	mie
 nyoba	coba
-dmn	dimana
+buk	bu
+dmn	di mana
+diem	diam
+solat	sholat
 blkng	belakang
 hah	<hah>
 gobloke	goblok
 bangey	banget
 enaaaak	enak
 indera	indra
+slalu	selalu
 cwok	cowok
 cwek	cewek
 cwo	cowok
@@ -485,8 +623,34 @@ nasip	nasib
 pangklan	pangkalan
 kepintran	kepintaran
 msyarakat	masyarakat
+mao	mau
 masy	masyarakat
 goib	gaib
 ghaib	gaib
 ajha	aja
 tod	ngentot
+stlh	setelah
+adh	adalah
+ngent	ngentot
+tot	ngentot
+bsok	besok
+esok	besok
+pndah	pindah
+enk	enak
+hr	hari
+msk	masuk
+duh	aduh
+kcil	kecil
+sodara	saudara
+now	sekarang
+kid	anak
+kids	anak
+mti	mati
+syg	sayang
+mcam	macam
+hadeh	aduh
+hadeuh	aduh
+sdgkan	sedangkan
+deuh	aduh
+wong	orang
+inimah	ini mah

@@ -13,6 +13,8 @@ class normalizer:
 	replacement = loadlist('dict\dict_word_replace','\t')
 	subpunct = loadlist("dict\dict_punct")
 	emoji = loadlist("dict\dict_emoji")
+	prefix_consonant = {'k':'ke','d':'di'}
+	vocal = ['a','i','u','e','o','j','h','y']
 
 	#-----DICTIONARY LOADER---------
 	def loaddict_substring(self,file):
@@ -40,9 +42,9 @@ class normalizer:
 	def norm_word_repetition(self,word,symbol):
 		if symbol in word:
 			words = word.split(symbol)
-			new_tok = words[0]+" "+words[0]
+			new_tok = words[0] #+" "+words[0]
 			if len(words)>1:
-				return new_tok+" "+words[1]
+				return new_tok+words[1]
 			return new_tok
 		return word
 
@@ -100,6 +102,10 @@ class normalizer:
 				else:
 					word = re.sub('(\\'+word[-1]+')+$',word[-1],word)
 		return word
+	def norm_prefix(self,word):
+		if len(word)>2 and word[0] in self.prefix_consonant and word[1] in self.vocal:
+			word = re.sub('('+word[0]+')+$',self.prefix_consonant[word[0]],word)
+		return word
 
 	def norm_formalize(self,word):
 		suffix = ""
@@ -109,19 +115,23 @@ class normalizer:
 		if '?' in word:
 			word = word.replace('?','')
 			suffix+='?'
-		if word[-2:]=="ny":
+		if len(word)>4 and word[-2:]=="ny":
 			word = word[:-2]
 			suffix = "nya" +suffix
-		if word[-3:]=="nye" or word[-3:]=="nya":
+		if len(word)>5 and (word[-3:]=="nye" or word[-3:]=="nya" or word[-3:]=="nys"):
 			word = word[:-3]
 			suffix = "nya" +suffix
-		
+		word = self.norm_prefix(word)
 		if word in self.substitute:
 			word = self.substitute[word]
 
 		for r in self.replacement:
 			if r[0] in word:
 				word = word.replace(r[0],r[1])
+		exp_x = ['sex','fox','fax','antarex']
+		
+		if len(word)>0 and word not in exp_x and word[-1]=='x':
+			word = re.sub('(x)+$','',word)
 
 		return word+suffix
 
