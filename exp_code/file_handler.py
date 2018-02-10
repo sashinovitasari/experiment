@@ -53,10 +53,14 @@ def savetxt(string,file):
 #Input	: list_ 	- list to be saved
 #		  separator	- separator of variables
 #Output	: file 
+
 def savelist(list_,file,separator="\t"):
 	myfile = open(file,'w',encoding='utf8')
 	for row in list_:
-		for col in range(0,len(row)-1):
-			myfile.write(row[col]+separator)
-		myfile.write(row[-1]+"\n")
+		if separator!="":
+			for col in range(0,len(row)-1):
+				myfile.write(row[col]+separator)
+			myfile.write(row[-1]+"\n")
+		else:
+			myfile.write(row+"\n")
 	myfile.close()
