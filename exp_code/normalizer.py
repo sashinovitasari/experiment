@@ -253,9 +253,24 @@ class normalizer:
 			if ' ' in sent:
 				new_text+= sent+'\n'
 		return new_text.split("\n")
-
+'''
 n= normalizer()
 text = loadtxt("youtube_raw30.csv")
 text = n.normalize_text(text)
 text = n.clean_text(text)
 savetxt(text,"y30try.csv")
+'''
+'''
+emo	Raid_205	Bangsat itu pasti bakalan ngebelah gue.
+emo	Raid_221	Tutup mulut, bangsat! Kau mau mati sekarang, hah?
+emo	Raid_245	Cepat cari yang benar, bangsat!
+emo	Raid_282	Dengarkan, bangsat!
+emo	Raid_382	Tu bangsat nyeret dia sepanjang lantai kayak binatang.
+emo	Raid_462	Bangsat, anjing! Kenapa?!
+emo	Raid_444	Siapa anjing yang ngobrak-ngabrik gue dan kerajaan gue?!
+'''
+#import random
+text = loadlist('positive.txt')
+from random import shuffle
+text_new = text[:20]+shuffle(text[20:])
+savelist(text,'rand_positive.txt')

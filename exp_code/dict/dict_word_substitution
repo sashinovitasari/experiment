@@ -35,7 +35,14 @@ bln	bulan
 kga	ngga
 klau	kalau
 anjeng	anjing
+jir	anjir
+njir	anjir
+jer	anjir
+njer	anjir
 anjink	anjing
+jing	anjing
+njing	anjing
+njeng	anjing
 ank	anak
 ap	apa
 aplg	apalagi
@@ -100,6 +107,7 @@ brp	berapa
 brpa	berapa
 brt	berat
 bru	baru
+nyet	monyet
 bs	bisa
 bsa	bisa
 bw	bawa
@@ -170,8 +178,9 @@ gile	gila
 mng	memang
 irg	orang
 gimn	gimana
-gituj	seperti itu
-gitu	seperti itu
+gituj	itu
+begitu	seperti itu
+gitu	itu
 gk	ngga
 rkyt	rakyat
 gmn	gimana
@@ -231,17 +240,28 @@ jls	jelas
 jm	jam
 jman	zaman
 jngan	jangan
+dongo	dungu
+dongok	dungu
 jngn	jangan
 k	ke
 kaka	kakak
 kalaw	kalau
 kale	kali
 kalo	kalau
+ilang	hilang
+doyan	suka
 karna	karena
+ye	ya
+ee	eek
+korup	korupsi
+dih	idih
 kasi	kasih
 kayak	seperti
 kayax	seperti
+gituan	seperti itu
+begayaan	gaya
 kcl	kecil
+reply	balas
 kcli	kecuali
 kek	seperti
 kk	kakak
@@ -319,6 +339,7 @@ qta	kita
 mamak	mama
 mcm	macam
 macem	macam
+ilang-ilangan	hilang
 mgkn	mungkin
 mikiir	mikir
 mletus	meletus
@@ -345,16 +366,20 @@ neh	nih
 nga	ngga
 ngak	ngga
 ngapa	kenapa
-ngasi	ngasih
+ngasi	kasih
+ngasih	kasih
 nggak	ngga
 nggk	ngga
 ngmg	ngomong
 ngr	negara
 ni	nih
+jabar	jawa barat
 niy	nih
 njin	anjing
 njink	anjing
 noh	
+nyuri	mencuri
+nyuci	mencuci
 ntar	nanti
 nti	nanti
 ntn	nonton
@@ -462,6 +487,8 @@ sentet	setan
 tkut	takut
 tlong	tolong
 b	biasa
+ngarep	berharap
+
 tmen	teman
 tmn	teman
 tmpt	tempat
@@ -493,14 +520,24 @@ yng	yang
 ytb	youtube
 tetep	tetap
 tt	tetek
+bet	banget
 caer	cair
 caeran	cairan
 tete	tetek
+dajal	dajjal
 lcu	lucu
 y	ya
 yha	yah
+gegara	gara-gara
+ngapa	kenapa
+mayan	lumayan
+sebenernya	sebenarnya
 gatau	ngga tau
+dotaan	dota
+diem	diam
+napa	kenapa
 klian	kalian
+part bagian
 klean	kalian
 aze	aja
 aing	gue
@@ -534,6 +571,7 @@ gblk	goblok
 blg	bilang
 pst	pasti
 anjang	anjing
+jing	anjing
 uenak	enak
 gblg	goblok
 ajg	anjing
@@ -594,10 +632,12 @@ brasa	berasa
 vangke	bangkai
 bangke	bangkai
 awk	<haha>
+ngantri	antri
 idup	hidup
 telp	telefon
 ngidupin	ngehidupin
 kampreeet	kampret
+aye	saja
 colab	kolaborasi
 kolab	kolaborasi
 abiz	habis
@@ -654,3 +694,19 @@ sdgkan	sedangkan
 deuh	aduh
 wong	orang
 inimah	ini mah
+#puki	pukimak
+#pukimai	pukimak
+#pukima	pukimak
+#pukimay	pukimak
+#cukima	cukimak
+#cuki	cukimak
+#cukimai	cukimak
+#cukimay	cukimak
+cem	macam
+alesan	alasan
+muke	muka
+ngomenin	komentar
+cuk	jancuk
+cok	jancuk
+jancok	jancuk
+djancok	jancuk
