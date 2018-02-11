@@ -1098,3 +1098,10 @@ emo	pr	dasar banci_1, njeng_1
 emo	be	tokai_2, pemerintah yang bodoh atau gimana ini ngga ada yang tindak orang bgini
 emo	be	yah dasar ampas_1
 emo	he	ngechat cuma begini doang, ya emang dasar bocah kambing_1 ini namanya
+emo	Raid_205	Bangsat itu pasti bakalan ngebelah gue.
+emo	Raid_221	Tutup mulut, bangsat! Kau mau mati sekarang, hah?
+emo	Raid_245	Cepat cari yang benar, bangsat!
+emo	Raid_282	Dengarkan, bangsat!
+emo	Raid_382	Tu bangsat nyeret dia sepanjang lantai kayak binatang.
+emo	Raid_462	Bangsat, anjing! Kenapa?!
+emo	Raid_444	Siapa anjing yang ngobrak-ngabrik gue dan kerajaan gue?!
